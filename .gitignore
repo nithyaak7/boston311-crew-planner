@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Raw datasets
+data/raw/*
+!data/raw/README.md
