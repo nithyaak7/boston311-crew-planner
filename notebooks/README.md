@@ -27,3 +27,19 @@ Processed CSV files are saved to `data/processed/`.
 
 See the repository’s main README for findings, assumptions,
 team responsibilities, and next steps.
+
+## 04_genai_intake.ipynb
+
+Classifies resident messages into 16 request types using prompt engineering and structured output, then looks up a default department and queue from the historical routing catalog.
+
+## Before running
+
+Install pandas and httpx.
+
+Ensure data/processed/routing_catalog_selected.csv is available.
+
+Open the notebook from notebooks/, run all cells in order, and enter your OpenAI API key when prompted.
+
+## Output
+
+Saves data/processed/genai_intake_evaluation.csv. All 32 synthetic classification cases passed in the saved run. Routing accuracy has not been evaluated.
