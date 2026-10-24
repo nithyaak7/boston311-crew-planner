@@ -1,0 +1,468 @@
+type,department,queue,historical_request_count,type_label,historical_route_share
+Abandoned Vehicles,BTDT,BTDT_AVRS Interface Queue,9149,Abandoned Vehicles,0.9796552093371881
+Abandoned Vehicles,BTDT,BTDT_Parking Enforcement,148,Abandoned Vehicles,0.015847521147874504
+Abandoned Vehicles,PWDx,PWDx_Code Enforcement,12,Abandoned Vehicles,0.00128493414712496
+Abandoned Vehicles,BTDT,BTDT_Permits & Special Events,7,Abandoned Vehicles,0.0007495449191562266
+Abandoned Vehicles,BTDT,BTDT_Abandoned Bicycle,4,Abandoned Vehicles,0.0004283113823749866
+Abandoned Vehicles,ISD,ISD_Administrative,4,Abandoned Vehicles,0.0004283113823749866
+Abandoned Vehicles,BTDT,BTDT_BostonBikes,3,Abandoned Vehicles,0.00032123353678124
+Abandoned Vehicles,PWDx,PWDx_Contractor Complaints,3,Abandoned Vehicles,0.00032123353678124
+Abandoned Vehicles,BTDT,BTDT_Sign Shop_Sign Installation,1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,ISD,ISD_Building (INTERNAL),1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,ISD,ISD_Environmental Services (INTERNAL),1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,PARK,PARK_Maintenance_Region 1,1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,PARK,PARK_Maintenance_Region 5,1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,PARK,PARK_Maintenance_Region 6,1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,PWDx,PWDx_District 08: Hyde Park,1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,PWDx,PWDx_District 09: East Boston,1,Abandoned Vehicles,0.00010707784559374665
+Abandoned Vehicles,PWDx,PWDx_Street Light Outages,1,Abandoned Vehicles,0.00010707784559374665
+Equipment Repair,PARK,PARK_Maintenance_Trades,953,Equipment Repair,0.18882504458093918
+Equipment Repair,PARK,PARK_Carpentry,833,Equipment Repair,0.1650485436893204
+Equipment Repair,PARK,PARK_Plumbing,810,Equipment Repair,0.16049138101842678
+Equipment Repair,PARK,PARK_Welding,707,Equipment Repair,0.14008321775312066
+Equipment Repair,PARK,PARK_Graffiti,703,Equipment Repair,0.13929066772340004
+Equipment Repair,PARK,PARK_Painting,180,Equipment Repair,0.03566475133742818
+Equipment Repair,PARK,PARK_Park Improvement Requests,148,Equipment Repair,0.029324351099663165
+Equipment Repair,PARK,PARK_Maintenance_Region 1,114,Equipment Repair,0.022587675847037844
+Equipment Repair,PARK,PARK_Maintenance_Support Services,73,Equipment Repair,0.014464038042401426
+Equipment Repair,PARK,PARK_Maintenance_Lighting Electrical,69,Equipment Repair,0.0136714880126808
+Equipment Repair,PARK,PARK_Maintenance_Region 3,57,Equipment Repair,0.011293837923518922
+Equipment Repair,PARK,PARK_Maintenance_Region 2,56,Equipment Repair,0.011095700416088766
+Equipment Repair,PARK,PARK_Maintenance_Region 6,50,Equipment Repair,0.009906875371507827
+Equipment Repair,PARK,PARK_Maintenance_Region 4,48,Equipment Repair,0.009510600356647513
+Equipment Repair,PARK,PARK_Maintenance_Ground Maintenance,31,Equipment Repair,0.006142262730334852
+Equipment Repair,PWDx,PWDx_Street Light Outages,19,Equipment Repair,0.003764612641172974
+Equipment Repair,PARK,PARK_Maintenance_Region 5,17,Equipment Repair,0.003368337626312661
+Equipment Repair,PWDx,PWDx_Sidewalk Repair,17,Equipment Repair,0.003368337626312661
+Equipment Repair,BTDT,BTDT_Sign Shop_Sign Installation,14,Equipment Repair,0.0027739251040221915
+Equipment Repair,PARK,PARK_Tree Maintenance Request,13,Equipment Repair,0.002575787596592035
+Equipment Repair,BTDT,BTDT_BostonBikes,11,Equipment Repair,0.002179512581731722
+Equipment Repair,PARK,PARK_Tree Emergencies,11,Equipment Repair,0.002179512581731722
+Equipment Repair,PARK,PARK_Maintenance_Horticulture,9,Equipment Repair,0.0017832375668714088
+Equipment Repair,PARK,PARK_Tree in Park,9,Equipment Repair,0.0017832375668714088
+Equipment Repair,PWDx,PWDx_Street Light_General Lighting Request,9,Equipment Repair,0.0017832375668714088
+Equipment Repair,ISD,ISD_Building (INTERNAL),8,Equipment Repair,0.0015851000594412521
+Equipment Repair,PWDx,PWDx_Highway Construction,6,Equipment Repair,0.0011888250445809391
+Equipment Repair,BTDT,BTDT_Administration,5,Equipment Repair,0.0009906875371507827
+Equipment Repair,PWDx,PWDx_Litter Basket Maintenance,5,Equipment Repair,0.0009906875371507827
+Equipment Repair,BTDT,BTDT_Traffic Signal_Repair,4,Equipment Repair,0.0007925500297206261
+Equipment Repair,ISD,ISD_Environmental Services (INTERNAL),4,Equipment Repair,0.0007925500297206261
+Equipment Repair,PARK,PARK_Cemetery Maintenance Request,4,Equipment Repair,0.0007925500297206261
+Equipment Repair,PARK,PARK_General Comments,4,Equipment Repair,0.0007925500297206261
+Equipment Repair,PWDx,PWDx_Code Enforcement,4,Equipment Repair,0.0007925500297206261
+Equipment Repair,BTDT,BTDT_Broken Meter Complaints,3,Equipment Repair,0.0005944125222904696
+Equipment Repair,BTDT,BTDT_District 05,3,Equipment Repair,0.0005944125222904696
+Equipment Repair,BTDT,BTDT_Parking Enforcement,3,Equipment Repair,0.0005944125222904696
+Equipment Repair,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,3,Equipment Repair,0.0005944125222904696
+Equipment Repair,PARK,PARK_Urban_Wilds,3,Equipment Repair,0.0005944125222904696
+Equipment Repair,PWDx,PWDx_District 1B: North End,3,Equipment Repair,0.0005944125222904696
+Equipment Repair,PWDx,PWDx_Street Light Outages - Gas,3,Equipment Repair,0.0005944125222904696
+Equipment Repair,PWDx,PWDx_District 1C: Downtown,2,Equipment Repair,0.00039627501486031304
+Equipment Repair,PWDx,PWDx_Graffiti,2,Equipment Repair,0.00039627501486031304
+Equipment Repair,PWDx,PWDx_Street Light Knock Downs,2,Equipment Repair,0.00039627501486031304
+Equipment Repair,BTDT,BTDT_AVRS Interface Queue,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,BTDT,BTDT_District 04,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,BTDT,BTDT_Pavement Marking_Maintenance,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,BTDT,BTDT_Sign Repair,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,BTDT,BTDT_Traffic Signal_Graffiti,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_Bridge Maintenance,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_Contractor Complaints,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_District 03: North Dorchester,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_District 07: South Dorchester,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_District 08: Hyde Park,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_Engineering_PIC,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_Highway Construction General,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_Recycling,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_STRL Pole Compliance,1,Equipment Repair,0.00019813750743015652
+Equipment Repair,PWDx,PWDx_Street Light Knockdown Replacement,1,Equipment Repair,0.00019813750743015652
+Ground Maintenance,PARK,PARK_Maintenance_Region 1,1370,Ground Maintenance,0.20502843460041903
+Ground Maintenance,PARK,PARK_Maintenance_Region 2,1229,Ground Maintenance,0.1839269679736606
+Ground Maintenance,PARK,PARK_Maintenance_Region 6,1107,Ground Maintenance,0.16566896138880574
+Ground Maintenance,PARK,PARK_Maintenance_Region 3,775,Ground Maintenance,0.11598323855133194
+Ground Maintenance,PARK,PARK_Maintenance_Region 4,703,Ground Maintenance,0.105208021550434
+Ground Maintenance,PARK,PARK_Maintenance_Region 5,556,Ground Maintenance,0.08320862017360071
+Ground Maintenance,PARK,PARK_Maintenance_Ground Maintenance,289,Ground Maintenance,0.043250523795270876
+Ground Maintenance,PARK,PARK_Maintenance_Support Services,126,Ground Maintenance,0.018856629751571385
+Ground Maintenance,PWDx,PWDx_Code Enforcement,97,Ground Maintenance,0.014516611792876385
+Ground Maintenance,PARK,PARK_Graffiti,77,Ground Maintenance,0.011523495959293625
+Ground Maintenance,PARK,PARK_Plumbing,51,Ground Maintenance,0.007632445375636037
+Ground Maintenance,PARK,PARK_Maintenance_Trades,25,Ground Maintenance,0.0037413947919784497
+Ground Maintenance,PARK,PARK_Tree Emergencies,24,Ground Maintenance,0.0035917390002993114
+Ground Maintenance,PARK,PARK_Maintenance_Horticulture,23,Ground Maintenance,0.0034420832086201735
+Ground Maintenance,PARK,PARK_Carpentry,18,Ground Maintenance,0.0026938042502244837
+Ground Maintenance,PARK,PARK_Urban_Wilds,18,Ground Maintenance,0.0026938042502244837
+Ground Maintenance,PARK,PARK_Park Improvement Requests,16,Ground Maintenance,0.002394492666866208
+Ground Maintenance,PARK,PARK_Painting,14,Ground Maintenance,0.0020951810835079317
+Ground Maintenance,PARK,PARK_Tree in Park,14,Ground Maintenance,0.0020951810835079317
+Ground Maintenance,PWDx,PWDx_District 03: North Dorchester,14,Ground Maintenance,0.0020951810835079317
+Ground Maintenance,ISD,ISD_Environmental Services (INTERNAL),12,Ground Maintenance,0.0017958695001496557
+Ground Maintenance,PARK,PARK_Welding,11,Ground Maintenance,0.0016462137084705178
+Ground Maintenance,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,11,Ground Maintenance,0.0016462137084705178
+Ground Maintenance,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,10,Ground Maintenance,0.00149655791679138
+Ground Maintenance,PARK,PARK_Maintenance_Lighting Electrical,10,Ground Maintenance,0.00149655791679138
+Ground Maintenance,PARK,PARK_Cemetery Maintenance Request,8,Ground Maintenance,0.001197246333433104
+Ground Maintenance,PWDx,PWDx_District 09: East Boston,8,Ground Maintenance,0.001197246333433104
+Ground Maintenance,PARK,PARK_Tree Maintenance Request,7,Ground Maintenance,0.0010475905417539658
+Ground Maintenance,BTDT,BTDT_Parking Enforcement,6,Ground Maintenance,0.0008979347500748278
+Ground Maintenance,PWDx,PWDx_District 10A: Roxbury,6,Ground Maintenance,0.0008979347500748278
+Ground Maintenance,PWDx,PWDx_District 04: Allston/Brighton,5,Ground Maintenance,0.00074827895839569
+Ground Maintenance,PWDx,PWDx_District 10B: Roxbury,4,Ground Maintenance,0.000598623166716552
+Ground Maintenance,PWDx,PWDx_Recycling,4,Ground Maintenance,0.000598623166716552
+Ground Maintenance,PWDx,PWDx_Street Light Outages,4,Ground Maintenance,0.000598623166716552
+Ground Maintenance,BTDT,BTDT_Administration,3,Ground Maintenance,0.0004489673750374139
+Ground Maintenance,BTDT,BTDT_BostonBikes,2,Ground Maintenance,0.000299311583358276
+Ground Maintenance,ISD,ISD_Building (INTERNAL),2,Ground Maintenance,0.000299311583358276
+Ground Maintenance,PWDx,PWDx_District 02: Jamaica Plain,2,Ground Maintenance,0.000299311583358276
+Ground Maintenance,PWDx,PWDx_Engineering_PIC,2,Ground Maintenance,0.000299311583358276
+Ground Maintenance,PWDx,PWDx_Litter Basket Maintenance,2,Ground Maintenance,0.000299311583358276
+Ground Maintenance,BTDT,BTDT_AVRS Interface Queue,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,BTDT,BTDT_Abandoned Bicycle,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,BTDT,BTDT_Sign Shop_Sign Installation,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,ISD,ISD_Administrative,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PARK,PARK_New Tree Requests,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_Bridge Maintenance,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_Contractor Complaints,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_District 05: South Boston,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_District 06: West Roxbury and Roslindale,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_District 07: South Dorchester,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_District 1B: North End,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_District 1C: Downtown,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_Highway Construction,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_Recycling Sent to Contractor,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_Request for Street Cleaning,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_Sidewalk Repair,1,Ground Maintenance,0.000149655791679138
+Ground Maintenance,PWDx,PWDx_Street Light_General Lighting Request,1,Ground Maintenance,0.000149655791679138
+Heat - Excessive  Insufficient,ISD,ISD_Housing (INTERNAL),1665,Heat - Excessive Insufficient,0.9976033553025764
+Heat - Excessive  Insufficient,ISD,ISD_Electrical,3,Heat - Excessive Insufficient,0.0017974835230677051
+Heat - Excessive  Insufficient,ISD,ISD_Plumbing,1,Heat - Excessive Insufficient,0.0005991611743559018
+Mattress_Pickup,PWDx,PWDx_WM_Mattress_Pickup,36546,Mattress_Pickup,1.0
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,22932,Missed Trash/Recycling/Yard Waste/Bulk Item,0.9897708144503431
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_Code Enforcement,224,Missed Trash/Recycling/Yard Waste/Bulk Item,0.009668090983641936
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Region 6,4,Missed Trash/Recycling/Yard Waste/Bulk Item,0.00017264448185074885
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Ground Maintenance,2,Missed Trash/Recycling/Yard Waste/Bulk Item,8.632224092537442e-05
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Region 1,2,Missed Trash/Recycling/Yard Waste/Bulk Item,8.632224092537442e-05
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Region 2,1,Missed Trash/Recycling/Yard Waste/Bulk Item,4.316112046268721e-05
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_District 09: East Boston,1,Missed Trash/Recycling/Yard Waste/Bulk Item,4.316112046268721e-05
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_District 10A: Roxbury,1,Missed Trash/Recycling/Yard Waste/Bulk Item,4.316112046268721e-05
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_District 1B: North End,1,Missed Trash/Recycling/Yard Waste/Bulk Item,4.316112046268721e-05
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_WM_Mattress_Pickup,1,Missed Trash/Recycling/Yard Waste/Bulk Item,4.316112046268721e-05
+New Tree Requests,PARK,PARK_New Tree Requests,4376,New Tree Requests,0.9009676755198682
+New Tree Requests,PARK,PARK_Tree Maintenance Request,378,New Tree Requests,0.07782581840642372
+New Tree Requests,PARK,PARK_Tree Emergencies,55,New Tree Requests,0.011323862466543133
+New Tree Requests,PARK,PARK_Tree in Park,19,New Tree Requests,0.003911879761169446
+New Tree Requests,PWDx,PWDx_Sidewalk Repair,8,New Tree Requests,0.0016471072678608193
+New Tree Requests,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,6,New Tree Requests,0.0012353304508956147
+New Tree Requests,PWDx,PWDx_Code Enforcement,5,New Tree Requests,0.0010294420424130121
+New Tree Requests,PARK,PARK_Park Improvement Requests,3,New Tree Requests,0.0006176652254478073
+New Tree Requests,PARK,PARK_Maintenance_Region 1,2,New Tree Requests,0.00041177681696520483
+New Tree Requests,PWDx,PWDx_Highway Construction,2,New Tree Requests,0.00041177681696520483
+New Tree Requests,PARK,PARK_Cemetery Maintenance Request,1,New Tree Requests,0.00020588840848260242
+New Tree Requests,PARK,PARK_Maintenance_Horticulture,1,New Tree Requests,0.00020588840848260242
+New Tree Requests,PWDx,PWDx_District 07: South Dorchester,1,New Tree Requests,0.00020588840848260242
+Parking Enforcement,BTDT,BTDT_Parking Enforcement,119034,Parking Enforcement,0.9935479562963767
+Parking Enforcement,BTDT,BTDT_AVRS Interface Queue,381,Parking Enforcement,0.003180114684450825
+Parking Enforcement,PWDx,PWDx_Space Saver Removal,81,Parking Enforcement,0.0006760873738596243
+Parking Enforcement,PWDx,PWDx_Code Enforcement,62,Parking Enforcement,0.0005174989775221815
+Parking Enforcement,BTDT,BTDT_Permits & Special Events,44,Parking Enforcement,0.00036725733888670945
+Parking Enforcement,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,42,Parking Enforcement,0.0003505638234827681
+Parking Enforcement,ISD,ISD_Administrative,23,Parking Enforcement,0.0001919754271453254
+Parking Enforcement,BTDT,BTDT_Sign Shop_Sign Installation,20,Parking Enforcement,0.00016693515403941339
+Parking Enforcement,BTDT,BTDT_Administration,19,Parking Enforcement,0.00015858839633744272
+Parking Enforcement,ISD,ISD_Building (INTERNAL),15,Parking Enforcement,0.00012520136552956004
+Parking Enforcement,BTDT,BTDT_Abandoned Bicycle,12,Parking Enforcement,0.00010016109242364803
+Parking Enforcement,BTDT,BTDT_BostonBikes,9,Parking Enforcement,7.512081931773602e-05
+Parking Enforcement,PWDx,PWDx_Contractor Complaints,9,Parking Enforcement,7.512081931773602e-05
+Parking Enforcement,ISD,ISD_Environmental Services (INTERNAL),6,Parking Enforcement,5.0080546211824016e-05
+Parking Enforcement,BTDT,BTDT_Broken Meter Complaints,5,Parking Enforcement,4.1733788509853347e-05
+Parking Enforcement,BTDT,BTDT_District 06,5,Parking Enforcement,4.1733788509853347e-05
+Parking Enforcement,BTDT,BTDT_OPC_Walk-In Service,5,Parking Enforcement,4.1733788509853347e-05
+Parking Enforcement,BTDT,BTDT_District 02,4,Parking Enforcement,3.338703080788268e-05
+Parking Enforcement,BTDT,BTDT_Sign Repair,4,Parking Enforcement,3.338703080788268e-05
+Parking Enforcement,BTDT,BTDT_District 01,3,Parking Enforcement,2.5040273105912008e-05
+Parking Enforcement,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,3,Parking Enforcement,2.5040273105912008e-05
+Parking Enforcement,BTDT,BTDT_District 04,2,Parking Enforcement,1.669351540394134e-05
+Parking Enforcement,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,2,Parking Enforcement,1.669351540394134e-05
+Parking Enforcement,BTDT,BTDT_General Comments,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,BTDT,BTDT_Pavement Marking_Maintenance,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,BTDT,BTDT_Sign Shop Clerical,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,ISD,ISD_Housing (INTERNAL),1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PARK,PARK_Maintenance_Ground Maintenance,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PARK,PARK_Maintenance_Region 3,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PARK,PARK_Maintenance_Region 4,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PARK,PARK_Park Improvement Requests,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PARK,PARK_Tree Emergencies,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_District 02: Jamaica Plain,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_District 03: North Dorchester,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_District 04: Allston/Brighton,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_District 05: South Boston,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_Highway Construction,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_Roadway Repair_Reconstruction,1,Parking Enforcement,8.34675770197067e-06
+Parking Enforcement,PWDx,PWDx_Street Light_General Lighting Request,1,Parking Enforcement,8.34675770197067e-06
+Pest Infestation - Residential,ISD,ISD_Environmental Services (INTERNAL),2001,Pest Infestation - Residential,0.5888758092995879
+Pest Infestation - Residential,ISD,ISD_Housing (INTERNAL),1042,Pest Infestation - Residential,0.30665097115950557
+Pest Infestation - Residential,PWDx,PWDx_Code Enforcement,222,Pest Infestation - Residential,0.06533254855797528
+Pest Infestation - Residential,ISD,ISD_Health (INTERNAL),112,Pest Infestation - Residential,0.0329605650382578
+Pest Infestation - Residential,ISD,ISD_Building (INTERNAL),9,Pest Infestation - Residential,0.00264861683343143
+Pest Infestation - Residential,ISD,ISD_Administrative,5,Pest Infestation - Residential,0.0014714537963507945
+Pest Infestation - Residential,PARK,PARK_Tree Maintenance Request,2,Pest Infestation - Residential,0.0005885815185403178
+Pest Infestation - Residential,PWDx,PWDx_District 09: East Boston,2,Pest Infestation - Residential,0.0005885815185403178
+Pest Infestation - Residential,PWDx,PWDx_District 08: Hyde Park,1,Pest Infestation - Residential,0.0002942907592701589
+Pest Infestation - Residential,PWDx,PWDx_Pick Up Dead Animals,1,Pest Infestation - Residential,0.0002942907592701589
+Pest Infestation - Residential,PWDx,PWDx_Recycling,1,Pest Infestation - Residential,0.0002942907592701589
+Request for Pothole Repair,PWDx,PWDx_Contractor Complaints,2290,Request for Pothole Repair,0.13425573078501496
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,2257,Request for Pothole Repair,0.13232104121475055
+Request for Pothole Repair,PWDx,PWDx_District 1C: Downtown,1546,Request for Pothole Repair,0.09063727501905376
+Request for Pothole Repair,PWDx,PWDx_District 09: East Boston,1322,Request for Pothole Repair,0.07750483672392566
+Request for Pothole Repair,PWDx,PWDx_District 07: South Dorchester,1316,Request for Pothole Repair,0.07715307498387759
+Request for Pothole Repair,PWDx,PWDx_District 02: Jamaica Plain,995,Request for Pothole Repair,0.05833382189130562
+Request for Pothole Repair,PWDx,PWDx_District 08: Hyde Park,982,Request for Pothole Repair,0.0575716714545348
+Request for Pothole Repair,PWDx,PWDx_District 10A: Roxbury,890,Request for Pothole Repair,0.052177991440464325
+Request for Pothole Repair,PWDx,PWDx_District 10B: Roxbury,782,Request for Pothole Repair,0.045846280119598994
+Request for Pothole Repair,PWDx,PWDx_District 04: Allston/Brighton,754,Request for Pothole Repair,0.04420472533270798
+Request for Pothole Repair,PWDx,PWDx_Highway Construction,696,Request for Pothole Repair,0.0408043618455766
+Request for Pothole Repair,PWDx,PWDx_District 06: West Roxbury and Roslindale,576,Request for Pothole Repair,0.03376912704461511
+Request for Pothole Repair,PWDx,PWDx_District 03: North Dorchester,535,Request for Pothole Repair,0.031365421820953275
+Request for Pothole Repair,PWDx,PWDx_District 1B: North End,447,Request for Pothole Repair,0.02620624963358152
+Request for Pothole Repair,PWDx,PWDx_Requests for Pothole Repair,443,Request for Pothole Repair,0.025971741806882803
+Request for Pothole Repair,PWDx,PWDx_District 05: South Boston,390,Request for Pothole Repair,0.022864513103124817
+Request for Pothole Repair,PWDx,PWDx_District 1A: Charlestown,270,Request for Pothole Repair,0.015829278302163335
+Request for Pothole Repair,PWDx,PWDx_Sidewalk Repair,113,Request for Pothole Repair,0.006624846104238729
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair,102,Request for Pothole Repair,0.00597994958081726
+Request for Pothole Repair,PWDx,PWDx_Utility Casting Repair,79,Request for Pothole Repair,0.004631529577299643
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,46,Request for Pothole Repair,0.0026968400070352346
+Request for Pothole Repair,BTDT,BTDT_Administration,34,Request for Pothole Repair,0.0019933165269390867
+Request for Pothole Repair,PWDx,PWDx_Street Light Outages - Long-Term Repair,19,Request for Pothole Repair,0.0011139121768189014
+Request for Pothole Repair,BTDT,BTDT_Traffic Signal_Repair,17,Request for Pothole Repair,0.0009966582634695434
+Request for Pothole Repair,PWDx,PWDx_Bridge Maintenance,17,Request for Pothole Repair,0.0009966582634695434
+Request for Pothole Repair,BTDT,BTDT_Sign Shop_Sign Installation,12,Request for Pothole Repair,0.0007035234800961482
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_Ponding,11,Request for Pothole Repair,0.0006448965234214692
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_Reconstruction,11,Request for Pothole Repair,0.0006448965234214692
+Request for Pothole Repair,BTDT,BTDT_BostonBikes,10,Request for Pothole Repair,0.0005862695667467902
+Request for Pothole Repair,PWDx,PWDx_Highway Construction General,10,Request for Pothole Repair,0.0005862695667467902
+Request for Pothole Repair,BTDT,BTDT_General Comments,7,Request for Pothole Repair,0.00041038869672275314
+Request for Pothole Repair,PWDx,PWDx_Engineering_PIC,7,Request for Pothole Repair,0.00041038869672275314
+Request for Pothole Repair,ISD,ISD_Administrative,6,Request for Pothole Repair,0.0003517617400480741
+Request for Pothole Repair,ISD,ISD_Building (INTERNAL),6,Request for Pothole Repair,0.0003517617400480741
+Request for Pothole Repair,PARK,PARK_Park Improvement Requests,6,Request for Pothole Repair,0.0003517617400480741
+Request for Pothole Repair,PWDx,PWDx_Engineering_Design,6,Request for Pothole Repair,0.0003517617400480741
+Request for Pothole Repair,PWDx,PWDx_Street Light_General Lighting Request,6,Request for Pothole Repair,0.0003517617400480741
+Request for Pothole Repair,BTDT,BTDT_Pavement Marking_Maintenance,4,Request for Pothole Repair,0.00023450782669871606
+Request for Pothole Repair,PARK,PARK_Maintenance_Region 1,4,Request for Pothole Repair,0.00023450782669871606
+Request for Pothole Repair,PWDx,PWDx_Code Enforcement,4,Request for Pothole Repair,0.00023450782669871606
+Request for Pothole Repair,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,3,Request for Pothole Repair,0.00017588087002403706
+Request for Pothole Repair,PARK,PARK_Maintenance_Trades,3,Request for Pothole Repair,0.00017588087002403706
+Request for Pothole Repair,BTDT,BTDT_District 02,2,Request for Pothole Repair,0.00011725391334935803
+Request for Pothole Repair,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,2,Request for Pothole Repair,0.00011725391334935803
+Request for Pothole Repair,BTDT,BTDT_Parking Enforcement,2,Request for Pothole Repair,0.00011725391334935803
+Request for Pothole Repair,PARK,PARK_Maintenance_Ground Maintenance,2,Request for Pothole Repair,0.00011725391334935803
+Request for Pothole Repair,PARK,PARK_Plumbing,2,Request for Pothole Repair,0.00011725391334935803
+Request for Pothole Repair,PARK,PARK_Welding,2,Request for Pothole Repair,0.00011725391334935803
+Request for Pothole Repair,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,2,Request for Pothole Repair,0.00011725391334935803
+Request for Pothole Repair,BTDT,BTDT_District 01,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,BTDT,BTDT_District 03,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,BTDT,BTDT_District 06,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,PARK,PARK_Carpentry,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,PARK,PARK_Maintenance_Region 3,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,PARK,PARK_Maintenance_Region 4,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,PWDx,PWDx_Request for Street Cleaning,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,PWDx,PWDx_STRL Pole Compliance,1,Request for Pothole Repair,5.8626956674679014e-05
+Request for Pothole Repair,PWDx,PWDx_Street Light Outages,1,Request for Pothole Repair,5.8626956674679014e-05
+Rodent Activity,ISD,ISD_Environmental Services (INTERNAL),8287,Rodent Activity,0.9407424225224202
+Rodent Activity,PWDx,PWDx_Code Enforcement,270,Rodent Activity,0.030650471109092973
+Rodent Activity,ISD,ISD_Housing (INTERNAL),33,Rodent Activity,0.0037461686911113633
+Rodent Activity,PWDx,PWDx_District 07: South Dorchester,22,Rodent Activity,0.002497445794074242
+Rodent Activity,PWDx,PWDx_District 1C: Downtown,20,Rodent Activity,0.0022704052673402204
+Rodent Activity,PWDx,PWDx_District 03: North Dorchester,12,Rodent Activity,0.0013622431604041322
+Rodent Activity,PWDx,PWDx_Highway Construction,11,Rodent Activity,0.001248722897037121
+Rodent Activity,PWDx,PWDx_District 02: Jamaica Plain,10,Rodent Activity,0.0011352026336701102
+Rodent Activity,PWDx,PWDx_District 10A: Roxbury,10,Rodent Activity,0.0011352026336701102
+Rodent Activity,PWDx,PWDx_Sidewalk Repair,10,Rodent Activity,0.0011352026336701102
+Rodent Activity,PWDx,PWDx_District 04: Allston/Brighton,9,Rodent Activity,0.001021682370303099
+Rodent Activity,ISD,ISD_Administrative,8,Rodent Activity,0.0009081621069360881
+Rodent Activity,ISD,ISD_Health (INTERNAL),8,Rodent Activity,0.0009081621069360881
+Rodent Activity,PWDx,PWDx_District 05: South Boston,8,Rodent Activity,0.0009081621069360881
+Rodent Activity,PWDx,PWDx_District 06: West Roxbury and Roslindale,8,Rodent Activity,0.0009081621069360881
+Rodent Activity,PWDx,PWDx_District 09: East Boston,8,Rodent Activity,0.0009081621069360881
+Rodent Activity,PWDx,PWDx_District 1B: North End,8,Rodent Activity,0.0009081621069360881
+Rodent Activity,BTDT,BTDT_Parking Enforcement,6,Rodent Activity,0.0006811215802020661
+Rodent Activity,PARK,PARK_Maintenance_Region 6,6,Rodent Activity,0.0006811215802020661
+Rodent Activity,PARK,PARK_Tree Maintenance Request,5,Rodent Activity,0.0005676013168350551
+Rodent Activity,PWDx,PWDx_District 08: Hyde Park,5,Rodent Activity,0.0005676013168350551
+Rodent Activity,ISD,ISD_Building (INTERNAL),4,Rodent Activity,0.00045408105346804407
+Rodent Activity,PARK,PARK_Maintenance_Region 2,4,Rodent Activity,0.00045408105346804407
+Rodent Activity,PWDx,PWDx_District 10B: Roxbury,4,Rodent Activity,0.00045408105346804407
+Rodent Activity,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,4,Rodent Activity,0.00045408105346804407
+Rodent Activity,PWDx,PWDx_District 1A: Charlestown,3,Rodent Activity,0.00034056079010103305
+Rodent Activity,PARK,PARK_Maintenance_Ground Maintenance,2,Rodent Activity,0.00022704052673402204
+Rodent Activity,PARK,PARK_Maintenance_Region 5,2,Rodent Activity,0.00022704052673402204
+Rodent Activity,PARK,PARK_Tree Emergencies,2,Rodent Activity,0.00022704052673402204
+Rodent Activity,PWDx,PWDx_Graffiti,2,Rodent Activity,0.00022704052673402204
+Rodent Activity,PWDx,PWDx_Street Light Outages,2,Rodent Activity,0.00022704052673402204
+Rodent Activity,ISD,ISD_Plumbing,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Carpentry,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Maintenance_Horticulture,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Maintenance_Region 1,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Maintenance_Region 3,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Maintenance_Region 4,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Maintenance_Support Services,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Park Improvement Requests,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Urban_Wilds,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PARK,PARK_Welding,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PWDx,PWDx_Empty Litter Basket,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PWDx,PWDx_Litter Basket Maintenance,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PWDx,PWDx_Pick Up Dead Animals,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PWDx,PWDx_Recycling Cart Return,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PWDx,PWDx_Street Light_General Lighting Request,1,Rodent Activity,0.00011352026336701102
+Rodent Activity,PWDx,PWDx_Utility Casting Repair,1,Rodent Activity,0.00011352026336701102
+Schedule a Bulk Item Pickup,PWDx,PWDx_Schedule a Bulk Item Pickup,25112,Schedule a Bulk Item Pickup,0.9999203631440631
+Schedule a Bulk Item Pickup,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,2,Schedule a Bulk Item Pickup,7.963685593692761e-05
+Sign Repair,BTDT,BTDT_Sign Shop_Sign Installation,7556,Sign Repair,0.7289214740497781
+Sign Repair,BTDT,BTDT_District 02,627,Sign Repair,0.0604862049006367
+Sign Repair,BTDT,BTDT_District 06,487,Sign Repair,0.046980513216284006
+Sign Repair,BTDT,BTDT_District 01,480,Sign Repair,0.04630522863206637
+Sign Repair,BTDT,BTDT_District 05,236,Sign Repair,0.022766737410765965
+Sign Repair,BTDT,BTDT_District 03,194,Sign Repair,0.01871502990546016
+Sign Repair,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,160,Sign Repair,0.01543507621068879
+Sign Repair,BTDT,BTDT_District 04,155,Sign Repair,0.014952730079104765
+Sign Repair,BTDT,BTDT_Traffic Signal_Repair,75,Sign Repair,0.00723519197376037
+Sign Repair,BTDT,BTDT_Sign Repair,63,Sign Repair,0.006077561257958711
+Sign Repair,PWDx,PWDx_Contractor Complaints,60,Sign Repair,0.005788153579008296
+Sign Repair,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,45,Sign Repair,0.004341115184256223
+Sign Repair,BTDT,BTDT_BostonBikes,32,Sign Repair,0.003087015242137758
+Sign Repair,BTDT,BTDT_Administration,21,Sign Repair,0.0020258537526529037
+Sign Repair,PARK,PARK_Carpentry,18,Sign Repair,0.001736446073702489
+Sign Repair,PARK,PARK_Park Improvement Requests,11,Sign Repair,0.0010611614894848543
+Sign Repair,PWDx,PWDx_Street Light_General Lighting Request,10,Sign Repair,0.0009646922631680494
+Sign Repair,BTDT,BTDT_Parking Enforcement,9,Sign Repair,0.0008682230368512445
+Sign Repair,BTDT,BTDT_Sign Shop Clerical,9,Sign Repair,0.0008682230368512445
+Sign Repair,PWDx,PWDx_Street Light Knock Downs,9,Sign Repair,0.0008682230368512445
+Sign Repair,BTDT,BTDT_Broken Meter Complaints,8,Sign Repair,0.0007717538105344395
+Sign Repair,ISD,ISD_Building (INTERNAL),8,Sign Repair,0.0007717538105344395
+Sign Repair,BTDT,BTDT_General Comments,6,Sign Repair,0.0005788153579008296
+Sign Repair,BTDT,BTDT_Permits & Special Events,5,Sign Repair,0.0004823461315840247
+Sign Repair,PARK,PARK_Tree Emergencies,5,Sign Repair,0.0004823461315840247
+Sign Repair,PARK,PARK_Tree Maintenance Request,5,Sign Repair,0.0004823461315840247
+Sign Repair,PWDx,PWDx_Code Enforcement,5,Sign Repair,0.0004823461315840247
+Sign Repair,PWDx,PWDx_Sidewalk Repair,5,Sign Repair,0.0004823461315840247
+Sign Repair,PWDx,PWDx_Street Light Knockdown Replacement,5,Sign Repair,0.0004823461315840247
+Sign Repair,PWDx,PWDx_Street Light Outages - Gas,5,Sign Repair,0.0004823461315840247
+Sign Repair,PARK,PARK_Graffiti,4,Sign Repair,0.00038587690526721975
+Sign Repair,PWDx,PWDx_Highway Construction,4,Sign Repair,0.00038587690526721975
+Sign Repair,PWDx,PWDx_Roadway Repair,4,Sign Repair,0.00038587690526721975
+Sign Repair,BTDT,BTDT_Pavement Marking_Maintenance,3,Sign Repair,0.0002894076789504148
+Sign Repair,BTDT,BTDT_Traffic Signal_Knock Downs/Contractor,3,Sign Repair,0.0002894076789504148
+Sign Repair,PWDx,PWDx_Street Light Outages,3,Sign Repair,0.0002894076789504148
+Sign Repair,BTDT,BTDT_Traffic Signal_Graffiti,2,Sign Repair,0.00019293845263360988
+Sign Repair,ISD,ISD_Administrative,2,Sign Repair,0.00019293845263360988
+Sign Repair,PARK,PARK_Maintenance_Region 1,2,Sign Repair,0.00019293845263360988
+Sign Repair,PARK,PARK_Maintenance_Region 4,2,Sign Repair,0.00019293845263360988
+Sign Repair,PWDx,PWDx_District 05: South Boston,2,Sign Repair,0.00019293845263360988
+Sign Repair,PWDx,PWDx_District 06: West Roxbury and Roslindale,2,Sign Repair,0.00019293845263360988
+Sign Repair,PWDx,PWDx_District 08: Hyde Park,2,Sign Repair,0.00019293845263360988
+Sign Repair,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,2,Sign Repair,0.00019293845263360988
+Sign Repair,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1,Sign Repair,9.646922631680494e-05
+Sign Repair,ISD,ISD_Environmental Services (INTERNAL),1,Sign Repair,9.646922631680494e-05
+Sign Repair,ISD,ISD_Housing (INTERNAL),1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_Bridge Maintenance,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_District 03: North Dorchester,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_District 09: East Boston,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_District 10A: Roxbury,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_District 10B: Roxbury,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_District 1C: Downtown,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_Engineering_Design,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_Graffiti,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_Highway Construction General,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,1,Sign Repair,9.646922631680494e-05
+Sign Repair,PWDx,PWDx_STRL Pole Compliance,1,Sign Repair,9.646922631680494e-05
+Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Repair,5229,Traffic Signal Inspection,0.7444476082004556
+Traffic Signal Inspection,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,1417,Traffic Signal Inspection,0.2017369020501139
+Traffic Signal Inspection,BTDT,BTDT_BostonBikes,120,Traffic Signal Inspection,0.017084282460136675
+Traffic Signal Inspection,BTDT,BTDT_Administration,63,Traffic Signal Inspection,0.008969248291571754
+Traffic Signal Inspection,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,61,Traffic Signal Inspection,0.008684510250569476
+Traffic Signal Inspection,BTDT,BTDT_Sign Shop_Sign Installation,39,Traffic Signal Inspection,0.005552391799544419
+Traffic Signal Inspection,PWDx,PWDx_Street Light Knock Downs,9,Traffic Signal Inspection,0.0012813211845102506
+Traffic Signal Inspection,PWDx,PWDx_Street Light Outages,9,Traffic Signal Inspection,0.0012813211845102506
+Traffic Signal Inspection,BTDT,BTDT_District 06,8,Traffic Signal Inspection,0.0011389521640091116
+Traffic Signal Inspection,PWDx,PWDx_Street Light_General Lighting Request,7,Traffic Signal Inspection,0.0009965831435079728
+Traffic Signal Inspection,BTDT,BTDT_Parking Enforcement,6,Traffic Signal Inspection,0.0008542141230068337
+Traffic Signal Inspection,BTDT,BTDT_District 01,5,Traffic Signal Inspection,0.0007118451025056948
+Traffic Signal Inspection,PWDx,PWDx_Contractor Complaints,5,Traffic Signal Inspection,0.0007118451025056948
+Traffic Signal Inspection,PWDx,PWDx_Roadway Repair_Reconstruction,5,Traffic Signal Inspection,0.0007118451025056948
+Traffic Signal Inspection,BTDT,BTDT_District 02,4,Traffic Signal Inspection,0.0005694760820045558
+Traffic Signal Inspection,BTDT,BTDT_Permits & Special Events,4,Traffic Signal Inspection,0.0005694760820045558
+Traffic Signal Inspection,BTDT,BTDT_District 05,3,Traffic Signal Inspection,0.00042710706150341686
+Traffic Signal Inspection,BTDT,BTDT_General Comments,3,Traffic Signal Inspection,0.00042710706150341686
+Traffic Signal Inspection,BTDT,BTDT_Pavement Marking_Maintenance,3,Traffic Signal Inspection,0.00042710706150341686
+Traffic Signal Inspection,BTDT,BTDT_Planning,3,Traffic Signal Inspection,0.00042710706150341686
+Traffic Signal Inspection,BTDT,BTDT_AVRS Interface Queue,2,Traffic Signal Inspection,0.0002847380410022779
+Traffic Signal Inspection,PWDx,PWDx_District 1C: Downtown,2,Traffic Signal Inspection,0.0002847380410022779
+Traffic Signal Inspection,BTDT,BTDT_Broken Meter Complaints,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,BTDT,BTDT_District 03,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,BTDT,BTDT_District 04,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,BTDT,BTDT_Sign Repair,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,BTDT,BTDT_Sign Shop Clerical,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Graffiti,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Knock Downs/Contractor,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,ISD,ISD_Administrative,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PARK,PARK_Tree Emergencies,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_Code Enforcement,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_District 03: North Dorchester,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_Highway Construction,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_Highway Construction General,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_Sidewalk Repair,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_Street Light Knockdown Replacement,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_Utility Call-In,1,Traffic Signal Inspection,0.00014236902050113895
+Traffic Signal Inspection,PWDx,PWDx_Work Hours-Loud Noise Complaints,1,Traffic Signal Inspection,0.00014236902050113895
+Tree Maintenance Requests,PARK,PARK_Tree Maintenance Request,12443,Tree Maintenance Requests,0.8254610587767016
+Tree Maintenance Requests,PARK,PARK_Tree Emergencies,1571,Tree Maintenance Requests,0.10421918535226217
+Tree Maintenance Requests,PWDx,PWDx_Code Enforcement,479,Tree Maintenance Requests,0.03177656892662863
+Tree Maintenance Requests,PARK,PARK_Tree in Park,333,Tree Maintenance Requests,0.02209101764627836
+Tree Maintenance Requests,PARK,PARK_New Tree Requests,39,Tree Maintenance Requests,0.0025872363009154836
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 1,22,Tree Maintenance Requests,0.0014594666312856574
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 2,20,Tree Maintenance Requests,0.001326787846623325
+Tree Maintenance Requests,PARK,PARK_Maintenance_Horticulture,17,Tree Maintenance Requests,0.0011277696696298262
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 3,15,Tree Maintenance Requests,0.0009950908849674937
+Tree Maintenance Requests,PARK,PARK_Cemetery Maintenance Request,14,Tree Maintenance Requests,0.0009287514926363275
+Tree Maintenance Requests,PARK,PARK_Urban_Wilds,14,Tree Maintenance Requests,0.0009287514926363275
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 6,13,Tree Maintenance Requests,0.0008624121003051612
+Tree Maintenance Requests,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,13,Tree Maintenance Requests,0.0008624121003051612
+Tree Maintenance Requests,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,12,Tree Maintenance Requests,0.000796072707973995
+Tree Maintenance Requests,PWDx,PWDx_Sidewalk Repair,8,Tree Maintenance Requests,0.0005307151386493299
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 5,7,Tree Maintenance Requests,0.00046437574631816373
+Tree Maintenance Requests,PWDx,PWDx_District 1A: Charlestown,7,Tree Maintenance Requests,0.00046437574631816373
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 4,5,Tree Maintenance Requests,0.0003316969616558312
+Tree Maintenance Requests,PWDx,PWDx_District 06: West Roxbury and Roslindale,5,Tree Maintenance Requests,0.0003316969616558312
+Tree Maintenance Requests,PWDx,PWDx_District 07: South Dorchester,4,Tree Maintenance Requests,0.00026535756932466497
+Tree Maintenance Requests,PWDx,PWDx_District 05: South Boston,3,Tree Maintenance Requests,0.00019901817699349874
+Tree Maintenance Requests,PWDx,PWDx_District 09: East Boston,3,Tree Maintenance Requests,0.00019901817699349874
+Tree Maintenance Requests,PWDx,PWDx_Engineering_PIC,3,Tree Maintenance Requests,0.00019901817699349874
+Tree Maintenance Requests,ISD,ISD_Environmental Services (INTERNAL),2,Tree Maintenance Requests,0.00013267878466233248
+Tree Maintenance Requests,PARK,PARK_Park Improvement Requests,2,Tree Maintenance Requests,0.00013267878466233248
+Tree Maintenance Requests,PWDx,PWDx_Contractor Complaints,2,Tree Maintenance Requests,0.00013267878466233248
+Tree Maintenance Requests,PWDx,PWDx_District 04: Allston/Brighton,2,Tree Maintenance Requests,0.00013267878466233248
+Tree Maintenance Requests,PWDx,PWDx_District 10B: Roxbury,2,Tree Maintenance Requests,0.00013267878466233248
+Tree Maintenance Requests,PWDx,PWDx_District 1C: Downtown,2,Tree Maintenance Requests,0.00013267878466233248
+Tree Maintenance Requests,PWDx,PWDx_Street Light_General Lighting Request,2,Tree Maintenance Requests,0.00013267878466233248
+Tree Maintenance Requests,BTDT,BTDT_Administration,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,BTDT,BTDT_Parking Enforcement,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,ISD,ISD_Building (INTERNAL),1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,PARK,PARK_Graffiti,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,PARK,PARK_Maintenance_Ground Maintenance,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,PWDx,PWDx_Bridge Maintenance,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,PWDx,PWDx_District 02: Jamaica Plain,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,PWDx,PWDx_District 03: North Dorchester,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,PWDx,PWDx_District 08: Hyde Park,1,Tree Maintenance Requests,6.633939233116624e-05
+Tree Maintenance Requests,PWDx,PWDx_Highway Construction,1,Tree Maintenance Requests,6.633939233116624e-05
+Unsatisfactory Living Conditions,ISD,ISD_Housing (INTERNAL),5112,Unsatisfactory Living Conditions,0.9810017271157168
+Unsatisfactory Living Conditions,ISD,ISD_Building (INTERNAL),42,Unsatisfactory Living Conditions,0.008059873344847437
+Unsatisfactory Living Conditions,PWDx,PWDx_Code Enforcement,36,Unsatisfactory Living Conditions,0.0069084628670120895
+Unsatisfactory Living Conditions,ISD,ISD_Environmental Services (INTERNAL),9,Unsatisfactory Living Conditions,0.0017271157167530224
+Unsatisfactory Living Conditions,PWDx,PWDx_WM_Mattress_Pickup,5,Unsatisfactory Living Conditions,0.0009595087315294569
+Unsatisfactory Living Conditions,ISD,ISD_Administrative,2,Unsatisfactory Living Conditions,0.00038380349261178274
+Unsatisfactory Living Conditions,ISD,ISD_Electrical,1,Unsatisfactory Living Conditions,0.00019190174630589137
+Unsatisfactory Living Conditions,ISD,ISD_Health (INTERNAL),1,Unsatisfactory Living Conditions,0.00019190174630589137
+Unsatisfactory Living Conditions,PWDx,PWDx_District 05: South Boston,1,Unsatisfactory Living Conditions,0.00019190174630589137
+Unsatisfactory Living Conditions,PWDx,PWDx_District 09: East Boston,1,Unsatisfactory Living Conditions,0.00019190174630589137
+Unsatisfactory Living Conditions,PWDx,PWDx_District 10A: Roxbury,1,Unsatisfactory Living Conditions,0.00019190174630589137

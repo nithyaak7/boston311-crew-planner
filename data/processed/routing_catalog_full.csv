@@ -1,0 +1,2039 @@
+type,department,queue,historical_request_count
+Parking Enforcement,BTDT,BTDT_Parking Enforcement,119034
+Abandoned Vehicles,BTDT,BTDT_AVRS Interface Queue,9149
+Sign Repair,BTDT,BTDT_Sign Shop_Sign Installation,7556
+Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Repair,5229
+Abandoned Bicycle,BTDT,BTDT_Abandoned Bicycle,1968
+Traffic Signal Inspection,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,1417
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,1310
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,959
+Transportation General Request,BTDT,BTDT_Administration,946
+Sign Repair,BTDT,BTDT_District 02,627
+Missing Sign,BTDT,BTDT_Sign Shop_Sign Installation,613
+General Comments For a Program or Policy,BTDT,BTDT_General Comments,588
+Sign Repair,BTDT,BTDT_District 06,487
+Sign Repair,BTDT,BTDT_District 01,480
+Parking Enforcement,BTDT,BTDT_AVRS Interface Queue,381
+Sign Repair,BTDT,BTDT_District 05,236
+Sign Repair,BTDT,BTDT_District 03,194
+General Traffic Engineering Request,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,182
+Abandoned Bicycle,BTDT,BTDT_AVRS Interface Queue,160
+Sign Repair,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,160
+Sign Repair,BTDT,BTDT_District 04,155
+Abandoned Vehicles,BTDT,BTDT_Parking Enforcement,148
+Pavement Marking Inspection,BTDT,BTDT_Sign Shop_Sign Installation,141
+PWD Graffiti,BTDT,BTDT_Traffic Signal_Graffiti,140
+Street Light Outages,BTDT,BTDT_Traffic Signal_Repair,136
+Traffic Signal Repair,BTDT,BTDT_Traffic Signal_Graffiti,126
+Traffic Signal Inspection,BTDT,BTDT_BostonBikes,120
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Sign Shop_Sign Installation,114
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,109
+Bicycle Issues,BTDT,BTDT_BostonBikes,98
+General Comments For An Employee,BTDT,BTDT_General Comments,97
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_BostonBikes,95
+General Comments For a Program or Policy,BTDT,BTDT_Parking Enforcement,86
+Transportation General Request,BTDT,BTDT_Parking Enforcement,85
+Parking Meter Repairs,BTDT,BTDT_Broken Meter Complaints,75
+Sign Repair,BTDT,BTDT_Traffic Signal_Repair,75
+Sidewalk Repair (Make Safe),BTDT,BTDT_Administration,71
+Requests for Street Cleaning,BTDT,BTDT_BostonBikes,67
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,66
+Sign Repair,BTDT,BTDT_Sign Repair,63
+Traffic Signal Inspection,BTDT,BTDT_Administration,63
+Pavement Marking Maintenance,BTDT,BTDT_Pavement Marking_Maintenance,62
+PWD Graffiti,BTDT,BTDT_Administration,61
+Traffic Signal Inspection,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,61
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_General Comments,57
+Parking on Front/Back Yards (Illegal Parking),BTDT,BTDT_Parking Enforcement,55
+Traffic Signal Repair,BTDT,BTDT_Traffic Signal_Repair,55
+Street Light Knock Downs,BTDT,BTDT_Traffic Signal_Repair,52
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Traffic Signal_Repair,51
+Requests for Street Cleaning,BTDT,BTDT_Administration,50
+Sign Repair,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,45
+General Traffic Engineering Request,BTDT,BTDT_General Comments,44
+Parking Enforcement,BTDT,BTDT_Permits & Special Events,44
+Parking Enforcement,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,42
+Pavement Marking Inspection,BTDT,BTDT_District 06,40
+Pavement Marking Inspection,BTDT,BTDT_District 03,39
+Traffic Signal Inspection,BTDT,BTDT_Sign Shop_Sign Installation,39
+Requests for Street Cleaning,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,38
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Administration,37
+Missing Sign,BTDT,BTDT_District 02,36
+Abandoned Bicycle,BTDT,BTDT_Parking Enforcement,35
+Sidewalk Repair (Make Safe),BTDT,BTDT_Sign Shop_Sign Installation,35
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_BostonBikes,34
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Pavement Marking_Maintenance,34
+Request for Pothole Repair,BTDT,BTDT_Administration,34
+PWD Graffiti,BTDT,BTDT_Traffic Signal_Repair,32
+Sign Repair,BTDT,BTDT_BostonBikes,32
+Missing Sign,BTDT,BTDT_Sign Repair,31
+Requests for Street Cleaning,BTDT,BTDT_Parking Enforcement,29
+Pavement Marking Inspection,BTDT,BTDT_District 02,26
+Missing Sign,BTDT,BTDT_District 01,24
+Missing Sign,BTDT,BTDT_District 06,24
+Missing Sign,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,24
+Phone Bank Service Inquiry,BTDT,BTDT_OPC_Phone Bank Service,23
+Requests for Street Cleaning,BTDT,BTDT_Abandoned Bicycle,23
+Missing Sign,BTDT,BTDT_District 04,22
+Sidewalk Repair (Make Safe),BTDT,BTDT_BostonBikes,21
+Sign Repair,BTDT,BTDT_Administration,21
+Contractor Complaints,BTDT,BTDT_Permits & Special Events,20
+Improper Storage of Trash (Barrels),BTDT,BTDT_Parking Enforcement,20
+No-Tow Complaint Confirmation,BTDT,BTDT_Sign Shop_Sign Installation,20
+Parking Enforcement,BTDT,BTDT_Sign Shop_Sign Installation,20
+Street Light Outages,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,20
+General Traffic Engineering Request,BTDT,BTDT_BostonBikes,19
+Parking Enforcement,BTDT,BTDT_Administration,19
+Requests for Street Cleaning,BTDT,BTDT_Sign Shop_Sign Installation,19
+Sidewalk Repair (Make Safe),BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,19
+Transportation General Request,BTDT,BTDT_BostonBikes,19
+Transportation General Request,BTDT,BTDT_Sign Shop_Sign Installation,19
+General Traffic Engineering Request,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,17
+Municipal Parking Lot Complaints,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,17
+PWD Graffiti,BTDT,BTDT_Sign Shop_Sign Installation,17
+Request for Pothole Repair,BTDT,BTDT_Traffic Signal_Repair,17
+Contractors Complaint,BTDT,BTDT_Parking Enforcement,16
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Sign Repair,16
+Sidewalk Repair (Make Safe),BTDT,BTDT_Pavement Marking_Maintenance,16
+Transportation General Request,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,16
+Missing Sign,BTDT,BTDT_District 03,15
+Public Works General Request,BTDT,BTDT_Administration,15
+Requests for Street Cleaning,BTDT,BTDT_AVRS Interface Queue,15
+Equipment Repair,BTDT,BTDT_Sign Shop_Sign Installation,14
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Administration,14
+PWD Graffiti,BTDT,BTDT_Broken Meter Complaints,14
+Pavement Marking Inspection,BTDT,BTDT_District 01,14
+Pavement Marking Inspection,BTDT,BTDT_District 04,14
+Valet Parking Problems,BTDT,BTDT_Parking Lot_Valet Parking Problems,14
+Missing Sign,BTDT,BTDT_District 05,13
+Transportation General Request,BTDT,BTDT_Abandoned Bicycle,13
+Abandoned Bicycle,BTDT,BTDT_BostonBikes,12
+General Comments For a Program or Policy,BTDT,BTDT_BostonBikes,12
+Parking Enforcement,BTDT,BTDT_Abandoned Bicycle,12
+Poor Conditions of Property,BTDT,BTDT_Parking Enforcement,12
+Request for Pothole Repair,BTDT,BTDT_Sign Shop_Sign Installation,12
+Student Move-in Issues,BTDT,BTDT_Parking Enforcement,12
+Tree Maintenance Requests,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,12
+Equipment Repair,BTDT,BTDT_BostonBikes,11
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_District 01,11
+Private Parking Lot Complaints,BTDT,BTDT_Parking Lot_PrivateParkingLotComplaints,11
+Transportation General Request,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,11
+Contractors Complaint,BTDT,BTDT_Administration,10
+Ground Maintenance,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,10
+Request for Pothole Repair,BTDT,BTDT_BostonBikes,10
+CE Collection,BTDT,BTDT_BostonBikes,9
+Contractor Complaints,BTDT,BTDT_Parking Enforcement,9
+General Lighting Request,BTDT,BTDT_Traffic Signal_Repair,9
+Illegal Auto Body Shop,BTDT,BTDT_Parking Enforcement,9
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_District 02,9
+Parking Enforcement,BTDT,BTDT_BostonBikes,9
+Parking on Front/Back Yards (Illegal Parking),BTDT,BTDT_AVRS Interface Queue,9
+Parking on Front/Back Yards (Illegal Parking),BTDT,BTDT_Administration,9
+Pavement Marking Inspection,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,9
+Public Works General Request,BTDT,BTDT_BostonBikes,9
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Sign Shop_Sign Installation,9
+Sign Repair,BTDT,BTDT_Parking Enforcement,9
+Sign Repair,BTDT,BTDT_Sign Shop Clerical,9
+CE Collection,BTDT,BTDT_Administration,8
+Contractor Complaints,BTDT,BTDT_Administration,8
+General Comments For a Program or Policy,BTDT,BTDT_OPC_Phone Bank Service,8
+Graffiti Removal,BTDT,BTDT_Traffic Signal_Graffiti,8
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_District 04,8
+No-Tow Complaint Confirmation,BTDT,BTDT_Administration,8
+Pavement Marking Inspection,BTDT,BTDT_District 05,8
+Sign Repair,BTDT,BTDT_Broken Meter Complaints,8
+Traffic Signal Inspection,BTDT,BTDT_District 06,8
+Abandoned Vehicles,BTDT,BTDT_Permits & Special Events,7
+General Comments For An Employee,BTDT,BTDT_Parking Enforcement,7
+Municipal Parking Lot Complaints,BTDT,BTDT_Parking Enforcement,7
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_District 03,7
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Planning,7
+Request for Pothole Repair,BTDT,BTDT_General Comments,7
+Transportation General Request,BTDT,BTDT_Traffic Signal_Repair,7
+General Comments For An Employee,BTDT,BTDT_OPC_Walk-In Service,6
+General Comments For a Program or Policy,BTDT,BTDT_Administration,6
+General Traffic Engineering Request,BTDT,BTDT_Administration,6
+General Traffic Engineering Request,BTDT,BTDT_Sign Shop_Sign Installation,6
+Ground Maintenance,BTDT,BTDT_Parking Enforcement,6
+Public Works General Request,BTDT,BTDT_Sign Shop_Sign Installation,6
+Rodent Activity,BTDT,BTDT_Parking Enforcement,6
+Sidewalk Repair (Make Safe),BTDT,BTDT_Sign Repair,6
+Sidewalk Repair (Make Safe),BTDT,BTDT_Traffic Signal_Repair,6
+Sign Repair,BTDT,BTDT_General Comments,6
+Street Light Outages,BTDT,BTDT_Administration,6
+Traffic Signal Inspection,BTDT,BTDT_Parking Enforcement,6
+Work Hours-Loud Noise Complaints,BTDT,BTDT_Permits & Special Events,6
+CE Collection,BTDT,BTDT_Abandoned Bicycle,5
+CE Collection,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,5
+Construction Debris,BTDT,BTDT_Parking Enforcement,5
+Equipment Repair,BTDT,BTDT_Administration,5
+General Comments For a Program or Policy,BTDT,BTDT_OPC_Walk-In Service,5
+Improper Storage of Trash (Barrels),BTDT,BTDT_Administration,5
+Knockdown Replacement,BTDT,BTDT_Sign Shop_Sign Installation,5
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_District 06,5
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Parking Enforcement,5
+Parking Enforcement,BTDT,BTDT_Broken Meter Complaints,5
+Parking Enforcement,BTDT,BTDT_District 06,5
+Parking Enforcement,BTDT,BTDT_OPC_Walk-In Service,5
+Requests for Directional or Roadway Changes,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,5
+Sidewalk Repair (Make Safe),BTDT,BTDT_District 01,5
+Sidewalk Repair (Make Safe),BTDT,BTDT_District 06,5
+Sidewalk Repair (Make Safe),BTDT,BTDT_Parking Enforcement,5
+Sign Repair,BTDT,BTDT_Permits & Special Events,5
+Traffic Signal Inspection,BTDT,BTDT_District 01,5
+Traffic Signal Repair,BTDT,BTDT_Broken Meter Complaints,5
+Traffic Signal Repair,BTDT,BTDT_Sign Shop_Sign Installation,5
+Walk-In Service Inquiry,BTDT,BTDT_OPC_Walk-In Service,5
+Abandoned Bicycle,BTDT,BTDT_Administration,4
+Abandoned Vehicles,BTDT,BTDT_Abandoned Bicycle,4
+CE Collection,BTDT,BTDT_AVRS Interface Queue,4
+Contractors Complaint,BTDT,BTDT_Permits & Special Events,4
+Equipment Repair,BTDT,BTDT_Traffic Signal_Repair,4
+Graffiti Removal,BTDT,BTDT_District 06,4
+Illegal Posting of Signs,BTDT,BTDT_Sign Shop_Sign Installation,4
+Parking Enforcement,BTDT,BTDT_District 02,4
+Parking Enforcement,BTDT,BTDT_Sign Repair,4
+Public Works General Request,BTDT,BTDT_General Comments,4
+Request for Pothole Repair,BTDT,BTDT_Pavement Marking_Maintenance,4
+Requests for Directional or Roadway Changes,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,4
+Requests for Street Cleaning,BTDT,BTDT_District 04,4
+Requests for Street Cleaning,BTDT,BTDT_District 06,4
+Requests for Street Cleaning,BTDT,BTDT_Traffic Signal_Repair,4
+Sidewalk Repair (Make Safe),BTDT,BTDT_District 03,4
+Traffic Signal Inspection,BTDT,BTDT_District 02,4
+Traffic Signal Inspection,BTDT,BTDT_Permits & Special Events,4
+Transportation General Request,BTDT,BTDT_Permits & Special Events,4
+Abandoned Vehicles,BTDT,BTDT_BostonBikes,3
+Equipment Repair,BTDT,BTDT_Broken Meter Complaints,3
+Equipment Repair,BTDT,BTDT_District 05,3
+Equipment Repair,BTDT,BTDT_Parking Enforcement,3
+Equipment Repair,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,3
+General Comments For a Program or Policy,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,3
+Graffiti Removal,BTDT,BTDT_Sign Shop_Sign Installation,3
+Ground Maintenance,BTDT,BTDT_Administration,3
+Illegal Dumping,BTDT,BTDT_Abandoned Bicycle,3
+Illegal Dumping,BTDT,BTDT_Parking Enforcement,3
+Illegal Posting of Signs,BTDT,BTDT_Administration,3
+Major System Failure,BTDT,BTDT_Traffic Signal_Repair,3
+Missing Sign,BTDT,BTDT_Administration,3
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_District 05,3
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Permits & Special Events,3
+No-Tow Complaint Confirmation,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,3
+Parking Enforcement,BTDT,BTDT_District 01,3
+Parking Enforcement,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,3
+Parks Lighting/Electrical Issues,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,3
+Pavement Marking Inspection,BTDT,BTDT_Pavement Marking_Maintenance,3
+Request for Pothole Repair,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,3
+Requests for Street Cleaning,BTDT,BTDT_District 01,3
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_General Comments,3
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Planning,3
+Sidewalk Repair (Make Safe),BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,3
+Sidewalk Repair (Make Safe),BTDT,BTDT_General Comments,3
+Sign Repair,BTDT,BTDT_Pavement Marking_Maintenance,3
+Sign Repair,BTDT,BTDT_Traffic Signal_Knock Downs/Contractor,3
+Traffic Signal Inspection,BTDT,BTDT_District 05,3
+Traffic Signal Inspection,BTDT,BTDT_General Comments,3
+Traffic Signal Inspection,BTDT,BTDT_Pavement Marking_Maintenance,3
+Traffic Signal Inspection,BTDT,BTDT_Planning,3
+Transportation General Request,BTDT,BTDT_OPC_Phone Bank Service,3
+Transportation General Request,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,3
+Abandoned Bicycle,BTDT,BTDT_District 06,2
+CE Collection,BTDT,BTDT_Parking Enforcement,2
+Contractor Complaints,BTDT,BTDT_BostonBikes,2
+Contractors Complaint,BTDT,BTDT_District 01,2
+Contractors Complaint,BTDT,BTDT_District 05,2
+Egress,BTDT,BTDT_Parking Enforcement,2
+Exceeding Terms of Permit,BTDT,BTDT_Administration,2
+Exceeding Terms of Permit,BTDT,BTDT_Permits & Special Events,2
+General Comments For An Employee,BTDT,BTDT_OPC_Phone Bank Service,2
+General Comments For a Program or Policy,BTDT,BTDT_Abandoned Bicycle,2
+General Comments For a Program or Policy,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,2
+General Comments For a Program or Policy,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,2
+General Comments For a Program or Policy,BTDT,BTDT_Permits & Special Events,2
+General Lighting Request,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,2
+General Lighting Request,BTDT,BTDT_Sign Shop_Sign Installation,2
+General Traffic Engineering Request,BTDT,BTDT_Planning,2
+General Traffic Engineering Request,BTDT,BTDT_Traffic Signal_Repair,2
+Graffiti Removal,BTDT,BTDT_Administration,2
+Graffiti Removal,BTDT,BTDT_Broken Meter Complaints,2
+Graffiti Removal,BTDT,BTDT_District 02,2
+Ground Maintenance,BTDT,BTDT_BostonBikes,2
+Illegal Dumping,BTDT,BTDT_Administration,2
+Illegal Posting of Signs,BTDT,BTDT_Parking Enforcement,2
+Illegal Posting of Signs,BTDT,BTDT_Permits & Special Events,2
+Knockdown Replacement,BTDT,BTDT_Administration,2
+Knockdown Replacement,BTDT,BTDT_District 06,2
+Knockdown Replacement,BTDT,BTDT_Traffic Signal_Repair,2
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Traffic Signal_Repair,2
+No-Tow Complaint Confirmation,BTDT,BTDT_District 02,2
+No-Tow Complaint Confirmation,BTDT,BTDT_Parking Enforcement,2
+PWD Graffiti,BTDT,BTDT_BostonBikes,2
+Parking Enforcement,BTDT,BTDT_District 04,2
+Parking Enforcement,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,2
+Parking on Front/Back Yards (Illegal Parking),BTDT,BTDT_District 06,2
+Parks Lighting/Electrical Issues,BTDT,BTDT_Parking Enforcement,2
+Parks Lighting/Electrical Issues,BTDT,BTDT_Traffic Signal_Repair,2
+Pavement Marking Maintenance,BTDT,BTDT_Sign Shop_Sign Installation,2
+Pick up Dead Animal,BTDT,BTDT_Administration,2
+Pick up Dead Animal,BTDT,BTDT_District 02,2
+Poor Conditions of Property,BTDT,BTDT_AVRS Interface Queue,2
+Poor Conditions of Property,BTDT,BTDT_Administration,2
+Public Works General Request,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,2
+Public Works General Request,BTDT,BTDT_Parking Enforcement,2
+Public Works General Request,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,2
+Public Works General Request,BTDT,BTDT_Traffic Signal_Repair,2
+Request for Pothole Repair,BTDT,BTDT_District 02,2
+Request for Pothole Repair,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,2
+Request for Pothole Repair,BTDT,BTDT_Parking Enforcement,2
+Requests for Street Cleaning,BTDT,BTDT_District 02,2
+Requests for Street Cleaning,BTDT,BTDT_District 03,2
+Requests for Street Cleaning,BTDT,BTDT_District 05,2
+Requests for Street Cleaning,BTDT,BTDT_General Comments,2
+Requests for Street Cleaning,BTDT,BTDT_OPC_Walk-In Service,2
+Requests for Street Cleaning,BTDT,BTDT_Permits & Special Events,2
+Requests for Street Cleaning,BTDT,BTDT_Sign Repair,2
+Requests for Street Cleaning,BTDT,BTDT_Traffic Signal_Graffiti,2
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_District 06,2
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Parking Enforcement,2
+Sidewalk Cover / Manhole,BTDT,BTDT_Administration,2
+Sidewalk Repair (Make Safe),BTDT,BTDT_District 02,2
+Sidewalk Repair (Make Safe),BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,2
+Sign Repair,BTDT,BTDT_Traffic Signal_Graffiti,2
+Space Savers,BTDT,BTDT_Administration,2
+Space Savers,BTDT,BTDT_Parking Enforcement,2
+Space Savers,BTDT,BTDT_Permits & Special Events,2
+Street Light Knock Downs,BTDT,BTDT_Administration,2
+Street Light Outages,BTDT,BTDT_Parking Enforcement,2
+Street Light Outages,BTDT,BTDT_Permits & Special Events,2
+Street Light Outages,BTDT,BTDT_Sign Shop_Sign Installation,2
+Student Move-in Issues,BTDT,BTDT_Permits & Special Events,2
+Student Move-in Issues,BTDT,BTDT_Sign Shop_Sign Installation,2
+Traffic Signal Inspection,BTDT,BTDT_AVRS Interface Queue,2
+Traffic Signal Repair,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,2
+Transportation General Request,BTDT,BTDT_AVRS Interface Queue,2
+Abandoned Bicycle,BTDT,BTDT_District 01,1
+Abandoned Bicycle,BTDT,BTDT_District 02,1
+Abandoned Bicycle,BTDT,BTDT_District 04,1
+Abandoned Vehicles,BTDT,BTDT_Sign Shop_Sign Installation,1
+BWSC General Request,BTDT,BTDT_Traffic Signal_Repair,1
+Bicycle Issues,BTDT,BTDT_AVRS Interface Queue,1
+Bicycle Issues,BTDT,BTDT_Abandoned Bicycle,1
+Building Inspection Request,BTDT,BTDT_Parking Enforcement,1
+CE Collection,BTDT,BTDT_Sign Shop_Sign Installation,1
+Construction Debris,BTDT,BTDT_AVRS Interface Queue,1
+Contractor Complaints,BTDT,BTDT_District 01,1
+Contractor Complaints,BTDT,BTDT_District 04,1
+Contractor Complaints,BTDT,BTDT_Sign Shop_Sign Installation,1
+Contractors Complaint,BTDT,BTDT_District 06,1
+Empty Litter Basket,BTDT,BTDT_Administration,1
+Empty Litter Basket,BTDT,BTDT_Parking Enforcement,1
+Equipment Repair,BTDT,BTDT_AVRS Interface Queue,1
+Equipment Repair,BTDT,BTDT_District 04,1
+Equipment Repair,BTDT,BTDT_Pavement Marking_Maintenance,1
+Equipment Repair,BTDT,BTDT_Sign Repair,1
+Equipment Repair,BTDT,BTDT_Traffic Signal_Graffiti,1
+Exceeding Terms of Permit,BTDT,BTDT_Parking Enforcement,1
+General Comments For An Employee,BTDT,BTDT_BostonBikes,1
+General Comments For An Employee,BTDT,BTDT_Broken Meter Complaints,1
+General Comments For An Employee,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+General Comments For An Employee,BTDT,BTDT_Sign Shop Clerical,1
+General Comments For a Program or Policy,BTDT,BTDT_AVRS Interface Queue,1
+General Comments For a Program or Policy,BTDT,BTDT_Parking Lot_PrivateParkingLotComplaints,1
+General Comments For a Program or Policy,BTDT,BTDT_Planning,1
+General Comments For a Program or Policy,BTDT,BTDT_Sign Shop_Sign Installation,1
+General Lighting Request,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,1
+General Traffic Engineering Request,BTDT,BTDT_Parking Enforcement,1
+General Traffic Engineering Request,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+General Traffic Engineering Request,BTDT,BTDT_Pavement Marking_Maintenance,1
+General Traffic Engineering Request,BTDT,BTDT_Permits & Special Events,1
+Ground Maintenance,BTDT,BTDT_AVRS Interface Queue,1
+Ground Maintenance,BTDT,BTDT_Abandoned Bicycle,1
+Ground Maintenance,BTDT,BTDT_Sign Shop_Sign Installation,1
+Illegal Auto Body Shop,BTDT,BTDT_Administration,1
+Illegal Dumping,BTDT,BTDT_BostonBikes,1
+Illegal Dumping,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Illegal Posting of Signs,BTDT,BTDT_OPC_Walk-In Service,1
+Illegal Posting of Signs,BTDT,BTDT_Traffic Signal_Repair,1
+Illegal Vending,BTDT,BTDT_Parking Enforcement,1
+Improper Storage of Trash (Barrels),BTDT,BTDT_AVRS Interface Queue,1
+Improper Storage of Trash (Barrels),BTDT,BTDT_District 01,1
+Improper Storage of Trash (Barrels),BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,1
+Improper Storage of Trash (Barrels),BTDT,BTDT_Sign Shop_Sign Installation,1
+Install New Lighting,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,1
+Knockdown Replacement,BTDT,BTDT_District 02,1
+Knockdown Replacement,BTDT,BTDT_District 03,1
+Knockdown Replacement,BTDT,BTDT_District 04,1
+Knockdown Replacement,BTDT,BTDT_Sign Repair,1
+Missing Sign,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,1
+Missing Sign,BTDT,BTDT_Parking Enforcement,1
+Missing Sign,BTDT,BTDT_Sign Shop Clerical,1
+New Sign  Crosswalk or Pavement Marking,BTDT,BTDT_Parking Lot_Valet Parking Problems,1
+No-Tow Complaint Confirmation,BTDT,BTDT_District 01,1
+PWD Graffiti,BTDT,BTDT_District 02,1
+PWD Graffiti,BTDT,BTDT_District 03,1
+Parking Enforcement,BTDT,BTDT_General Comments,1
+Parking Enforcement,BTDT,BTDT_Pavement Marking_Maintenance,1
+Parking Enforcement,BTDT,BTDT_Sign Shop Clerical,1
+Parking on Front/Back Yards (Illegal Parking),BTDT,BTDT_District 01,1
+Parking on Front/Back Yards (Illegal Parking),BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Parks Lighting/Electrical Issues,BTDT,BTDT_Administration,1
+Parks Lighting/Electrical Issues,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Pavement Marking Inspection,BTDT,BTDT_Engineering_Request for Traffic Signal Study or Review,1
+Pavement Marking Inspection,BTDT,BTDT_Sign Repair,1
+Pick up Dead Animal,BTDT,BTDT_District 01,1
+Pick up Dead Animal,BTDT,BTDT_Parking Enforcement,1
+Pick up Dead Animal,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Pigeon Infestation,BTDT,BTDT_District 05,1
+Poor Conditions of Property,BTDT,BTDT_BostonBikes,1
+Poor Conditions of Property,BTDT,BTDT_District 06,1
+Poor Conditions of Property,BTDT,BTDT_OPC_Walk-In Service,1
+Poor Conditions of Property,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Poor Conditions of Property,BTDT,BTDT_Permits & Special Events,1
+Public Works General Request,BTDT,BTDT_Broken Meter Complaints,1
+Public Works General Request,BTDT,BTDT_District 01,1
+Public Works General Request,BTDT,BTDT_District 02,1
+Public Works General Request,BTDT,BTDT_District 03,1
+Public Works General Request,BTDT,BTDT_District 04,1
+Public Works General Request,BTDT,BTDT_District 06,1
+Request for Pothole Repair,BTDT,BTDT_District 01,1
+Request for Pothole Repair,BTDT,BTDT_District 03,1
+Request for Pothole Repair,BTDT,BTDT_District 06,1
+Request for Snow Plowing,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Requests for Directional or Roadway Changes,BTDT,BTDT_BostonBikes,1
+Requests for Street Cleaning,BTDT,BTDT_Broken Meter Complaints,1
+Requests for Street Cleaning,BTDT,BTDT_Engineering_New Sign and Pavement Marking Requests,1
+Requests for Street Cleaning,BTDT,BTDT_Traffic Signal_Knock Downs/Contractor,1
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_District 04,1
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_District 05,1
+Requests for Traffic Signal Studies or Reviews,BTDT,BTDT_Permits & Special Events,1
+Roadway Repair,BTDT,BTDT_Administration,1
+Short Term Rental,BTDT,BTDT_Parking Enforcement,1
+Sidewalk Cover / Manhole,BTDT,BTDT_Traffic Signal_Repair,1
+Sidewalk Repair (Make Safe),BTDT,BTDT_AVRS Interface Queue,1
+Sidewalk Repair (Make Safe),BTDT,BTDT_Abandoned Bicycle,1
+Sidewalk Repair (Make Safe),BTDT,BTDT_Broken Meter Complaints,1
+Sidewalk Repair (Make Safe),BTDT,BTDT_District 05,1
+Sign Repair,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Sign Shop WO,BTDT,BTDT_Sign Shop Clerical,1
+Space Savers,BTDT,BTDT_Parking Lot_PrivateParkingLotComplaints,1
+Street Light Knock Downs,BTDT,BTDT_Traffic Signal_Knock Downs/Contractor,1
+Street Light Outages,BTDT,BTDT_Broken Meter Complaints,1
+Street Light Outages,BTDT,BTDT_District 02,1
+Street Light Outages,BTDT,BTDT_District 05,1
+Traffic Signal Inspection,BTDT,BTDT_Broken Meter Complaints,1
+Traffic Signal Inspection,BTDT,BTDT_District 03,1
+Traffic Signal Inspection,BTDT,BTDT_District 04,1
+Traffic Signal Inspection,BTDT,BTDT_Sign Repair,1
+Traffic Signal Inspection,BTDT,BTDT_Sign Shop Clerical,1
+Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Graffiti,1
+Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Knock Downs/Contractor,1
+Traffic Signal Repair,BTDT,BTDT_District 02,1
+Traffic Signal Repair,BTDT,BTDT_District 04,1
+Traffic Signal Repair,BTDT,BTDT_Traffic Signal_Knock Downs/Contractor,1
+Transportation General Request,BTDT,BTDT_Broken Meter Complaints,1
+Transportation General Request,BTDT,BTDT_District 02,1
+Transportation General Request,BTDT,BTDT_District 05,1
+Transportation General Request,BTDT,BTDT_General Comments,1
+Transportation General Request,BTDT,BTDT_Traffic Signal_Graffiti,1
+Tree Emergencies,BTDT,BTDT_Parking Lot_Municipal Parking Lot Complaints,1
+Tree Maintenance Requests,BTDT,BTDT_Administration,1
+Tree Maintenance Requests,BTDT,BTDT_Parking Enforcement,1
+Unsafe Dangerous Conditions,BTDT,BTDT_Administration,1
+Unshoveled Sidewalk,BTDT,BTDT_BostonBikes,1
+Utility Casting Repair,BTDT,BTDT_Administration,1
+Work w/out Permit,BTDT,BTDT_Administration,1
+Work w/out Permit,BTDT,BTDT_District 05,1
+Work w/out Permit,BTDT,BTDT_Parking Enforcement,1
+Work w/out Permit,BTDT,BTDT_Permits & Special Events,1
+Working Beyond Hours,BTDT,BTDT_Administration,1
+Working Beyond Hours,BTDT,BTDT_Parking Enforcement,1
+Zoning,BTDT,BTDT_Administration,1
+Rodent Activity,ISD,ISD_Environmental Services (INTERNAL),8287
+Unsatisfactory Living Conditions,ISD,ISD_Housing (INTERNAL),5112
+Pest Infestation - Residential,ISD,ISD_Environmental Services (INTERNAL),2001
+Contractors Complaint,ISD,ISD_Building (INTERNAL),1856
+Heat - Excessive  Insufficient,ISD,ISD_Housing (INTERNAL),1665
+Work w/out Permit,ISD,ISD_Building (INTERNAL),1650
+Working Beyond Hours,ISD,ISD_Building (INTERNAL),1203
+Unsanitary Conditions - Establishment,ISD,ISD_Health (INTERNAL),1153
+Building Inspection Request,ISD,ISD_Building (INTERNAL),1122
+Pest Infestation - Residential,ISD,ISD_Housing (INTERNAL),1042
+Maintenance Complaint - Residential,ISD,ISD_Housing (INTERNAL),1008
+Electrical,ISD,ISD_Electrical,796
+Mice Infestation - Residential,ISD,ISD_Housing (INTERNAL),750
+Unsafe Dangerous Conditions,ISD,ISD_Building (INTERNAL),686
+Chronic Dampness/Mold,ISD,ISD_Housing (INTERNAL),574
+Protection of Adjoining Property,ISD,ISD_Building (INTERNAL),501
+Food Alert - Confirmed,ISD,ISD_Health (INTERNAL),479
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,ISD_Housing (INTERNAL),461
+Electrical,ISD,ISD_Building (INTERNAL),432
+Unsanitary Conditions - Food,ISD,ISD_Health (INTERNAL),430
+Short Term Rental,ISD,ISD_Housing_ShortTermRental,316
+Food Alert - Unconfirmed,ISD,ISD_Health (INTERNAL),272
+Exceeding Terms of Permit,ISD,ISD_Building (INTERNAL),270
+Maintenance - Homeowner,ISD,ISD_Building (INTERNAL),252
+Cross Metering - Sub-Metering,ISD,ISD_Housing (INTERNAL),223
+No Utilities Residential - Water,ISD,ISD_Housing (INTERNAL),218
+Bed Bugs,ISD,ISD_Housing (INTERNAL),214
+Illegal Occupancy,ISD,ISD_Building (INTERNAL),171
+Egress,ISD,ISD_Building (INTERNAL),163
+Sidewalk Repair (Make Safe),ISD,ISD_Building (INTERNAL),158
+Illegal Auto Body Shop,ISD,ISD_Environmental Services (INTERNAL),156
+Illegal Rooming House,ISD,ISD_Building (INTERNAL),156
+Squalid Living Conditions,ISD,ISD_Housing (INTERNAL),134
+No Utilities Residential - Electricity,ISD,ISD_Housing (INTERNAL),130
+Contractor Complaints,ISD,ISD_Building (INTERNAL),125
+Pest Infestation - Residential,ISD,ISD_Health (INTERNAL),112
+Unsanitary Conditions - Employees,ISD,ISD_Health (INTERNAL),97
+Plumbing,ISD,ISD_Plumbing,85
+Sewage/Septic Back-Up,ISD,ISD_Housing (INTERNAL),83
+Short Term Rental,ISD,ISD_Housing (INTERNAL),78
+Abandoned Building,ISD,ISD_Building (INTERNAL),76
+Fire in Food Establishment,ISD,ISD_Health (INTERNAL),73
+Notification,ISD,ISD_Building (INTERNAL),70
+Notification,ISD,ISD_Housing (INTERNAL),70
+Zoning,ISD,ISD_Building (INTERNAL),66
+Abandoned Building,ISD,ISD_Environmental Services (INTERNAL),64
+Poor Ventilation,ISD,ISD_Housing (INTERNAL),60
+Building Inspection Request,ISD,ISD_Housing (INTERNAL),58
+Requests for Street Cleaning,ISD,ISD_Building (INTERNAL),56
+Overflowing or Un-kept Dumpster,ISD,ISD_Environmental Services (INTERNAL),54
+Overcrowding,ISD,ISD_Housing (INTERNAL),46
+Unsafe Dangerous Conditions,ISD,ISD_Housing (INTERNAL),43
+Unsatisfactory Living Conditions,ISD,ISD_Building (INTERNAL),42
+Sidewalk Repair (Make Safe),ISD,ISD_Administrative,41
+Short Term Rental,ISD,ISD_Building (INTERNAL),40
+Plumbing,ISD,ISD_Building (INTERNAL),39
+Contractor Complaints,ISD,ISD_Administrative,36
+Improper Storage of Trash (Barrels),ISD,ISD_Housing (INTERNAL),35
+Rodent Activity,ISD,ISD_Housing (INTERNAL),33
+No Utilities - Food Establishment - Water,ISD,ISD_Health (INTERNAL),31
+Rat Bite,ISD,ISD_Environmental Services (INTERNAL),31
+Poor Conditions of Property,ISD,ISD_Building (INTERNAL),30
+Scanning Overcharge,ISD,ISD_Weights and Measures (INTERNAL),28
+Illegal Rooming House,ISD,ISD_Housing (INTERNAL),27
+Lead,ISD,ISD_Housing (INTERNAL),27
+No Utilities Residential - Gas,ISD,ISD_Housing (INTERNAL),27
+Rental Unit Delivery Conditions,ISD,ISD_Housing (INTERNAL),26
+Mice Infestation - Residential,ISD,ISD_Environmental Services (INTERNAL),24
+Parking Enforcement,ISD,ISD_Administrative,23
+Trash on Vacant Lot,ISD,ISD_Environmental Services (INTERNAL),23
+Pigeon Infestation,ISD,ISD_Environmental Services (INTERNAL),22
+Illegal Occupancy,ISD,ISD_Housing (INTERNAL),21
+Item Price Missing,ISD,ISD_Weights and Measures (INTERNAL),21
+Poor Conditions of Property,ISD,ISD_Housing (INTERNAL),21
+Requests for Street Cleaning,ISD,ISD_Administrative,21
+Mechanical,ISD,ISD_Building (INTERNAL),19
+No Utilities - Food Establishment - Flood,ISD,ISD_Health (INTERNAL),19
+Maintenance Complaint - Residential,ISD,ISD_Building (INTERNAL),17
+Occupying W/Out A Valid CO/CI,ISD,ISD_Building (INTERNAL),16
+Carbon Monoxide,ISD,ISD_Housing (INTERNAL),15
+Parking Enforcement,ISD,ISD_Building (INTERNAL),15
+Unit Pricing Wrong/Missing,ISD,ISD_Weights and Measures (INTERNAL),15
+Mosquitoes (West Nile),ISD,ISD_Environmental Services (INTERNAL),14
+Poor Conditions of Property,ISD,ISD_Environmental Services (INTERNAL),14
+Work Hours-Loud Noise Complaints,ISD,ISD_Building (INTERNAL),14
+Maintenance - Homeowner,ISD,ISD_Housing (INTERNAL),13
+Ground Maintenance,ISD,ISD_Environmental Services (INTERNAL),12
+Pick up Dead Animal,ISD,ISD_Environmental Services (INTERNAL),12
+Requests for Street Cleaning,ISD,ISD_Environmental Services (INTERNAL),12
+Improper Storage of Trash (Barrels),ISD,ISD_Building (INTERNAL),11
+No Price on Gas/Wrong Price,ISD,ISD_Weights and Measures (INTERNAL),10
+Public Works General Request,ISD,ISD_Building (INTERNAL),10
+Pest Infestation - Residential,ISD,ISD_Building (INTERNAL),9
+Poor Conditions of Property,ISD,ISD_Administrative,9
+Unsatisfactory Living Conditions,ISD,ISD_Environmental Services (INTERNAL),9
+Equipment Repair,ISD,ISD_Building (INTERNAL),8
+Product Short Measure,ISD,ISD_Weights and Measures (INTERNAL),8
+Rodent Activity,ISD,ISD_Administrative,8
+Rodent Activity,ISD,ISD_Health (INTERNAL),8
+Sidewalk Repair (Make Safe),ISD,ISD_Environmental Services (INTERNAL),8
+Sign Repair,ISD,ISD_Building (INTERNAL),8
+Unsanitary Conditions - Establishment,ISD,ISD_Building (INTERNAL),8
+Abandoned Building,ISD,ISD_Administrative,7
+Building Inspection Request,ISD,ISD_Electrical,7
+Egress,ISD,ISD_Housing (INTERNAL),7
+Pick up Dead Animal,ISD,ISD_Administrative,7
+Contractors Complaint,ISD,ISD_Environmental Services (INTERNAL),6
+Illegal Vending,ISD,ISD_Administrative,6
+Improper Storage of Trash (Barrels),ISD,ISD_Administrative,6
+No Utilities - Food Establishment - Sewer,ISD,ISD_Health (INTERNAL),6
+Parking Enforcement,ISD,ISD_Environmental Services (INTERNAL),6
+Request for Pothole Repair,ISD,ISD_Administrative,6
+Request for Pothole Repair,ISD,ISD_Building (INTERNAL),6
+Unsafe Dangerous Conditions,ISD,ISD_Electrical,6
+Unsafe Dangerous Conditions,ISD,ISD_Environmental Services (INTERNAL),6
+Construction Debris,ISD,ISD_Building (INTERNAL),5
+Contractors Complaint,ISD,ISD_Electrical,5
+Electrical,ISD,ISD_Housing (INTERNAL),5
+No Utilities - Food Establishment - Electricity,ISD,ISD_Health (INTERNAL),5
+Pest Infestation - Residential,ISD,ISD_Administrative,5
+Student Overcrowding,ISD,ISD_Housing (INTERNAL),5
+Work Hours-Loud Noise Complaints,ISD,ISD_Administrative,5
+Abandoned Vehicles,ISD,ISD_Administrative,4
+Building Inspection Request,ISD,ISD_Administrative,4
+Building Inspection Request,ISD,ISD_Plumbing,4
+Contractor Complaints,ISD,ISD_Housing (INTERNAL),4
+Equipment Repair,ISD,ISD_Environmental Services (INTERNAL),4
+Illegal Occupancy,ISD,ISD_Environmental Services (INTERNAL),4
+Illegal Posting of Signs,ISD,ISD_Building (INTERNAL),4
+Improper Storage of Trash (Barrels),ISD,ISD_Environmental Services (INTERNAL),4
+Overcrowding,ISD,ISD_Building (INTERNAL),4
+Plumbing,ISD,ISD_Housing (INTERNAL),4
+Rodent Activity,ISD,ISD_Building (INTERNAL),4
+Scale Not Visible,ISD,ISD_Weights and Measures (INTERNAL),4
+Short Measure - Gas,ISD,ISD_Weights and Measures (INTERNAL),4
+Unsanitary Conditions - Establishment,ISD,ISD_Housing (INTERNAL),4
+Work w/out Permit,ISD,ISD_Plumbing,4
+Working Beyond Hours,ISD,ISD_Administrative,4
+Abandoned Building,ISD,ISD_Housing (INTERNAL),3
+Animal Generic Request,ISD,ISD_Environmental Services (INTERNAL),3
+Building Inspection Request,ISD,ISD_Health (INTERNAL),3
+CE Collection,ISD,ISD_Environmental Services (INTERNAL),3
+Catchbasin,ISD,ISD_Building (INTERNAL),3
+Fire in Food Establishment,ISD,ISD_Building (INTERNAL),3
+Heat - Excessive  Insufficient,ISD,ISD_Electrical,3
+Illegal Auto Body Shop,ISD,ISD_Administrative,3
+Illegal Dumping,ISD,ISD_Housing (INTERNAL),3
+Illegal Vending,ISD,ISD_Health (INTERNAL),3
+No Utilities Residential - Electricity,ISD,ISD_Electrical,3
+No Utilities Residential - Water,ISD,ISD_Building (INTERNAL),3
+Notification,ISD,ISD_Electrical,3
+Notification,ISD,ISD_Health (INTERNAL),3
+Parks General Request,ISD,ISD_Environmental Services (INTERNAL),3
+Poor Ventilation,ISD,ISD_Building (INTERNAL),3
+Protection of Adjoining Property,ISD,ISD_Housing (INTERNAL),3
+Requests for Street Cleaning,ISD,ISD_Housing (INTERNAL),3
+Roadway Repair,ISD,ISD_Building (INTERNAL),3
+Sidewalk Cover / Manhole,ISD,ISD_Building (INTERNAL),3
+Squalid Living Conditions,ISD,ISD_Building (INTERNAL),3
+Unsafe Dangerous Conditions,ISD,ISD_Administrative,3
+Unsafe Dangerous Conditions,ISD,ISD_Plumbing,3
+Unsanitary Conditions - Establishment,ISD,ISD_Plumbing,3
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,ISD_Building (INTERNAL),3
+Work w/out Permit,ISD,ISD_Housing (INTERNAL),3
+BWSC General Request,ISD,ISD_Building (INTERNAL),2
+BWSC General Request,ISD,ISD_Environmental Services (INTERNAL),2
+Empty Litter Basket,ISD,ISD_Building (INTERNAL),2
+Exceeding Terms of Permit,ISD,ISD_Housing (INTERNAL),2
+General Comments For a Program or Policy,ISD,ISD_Administrative,2
+General Comments For a Program or Policy,ISD,ISD_Environmental Services (INTERNAL),2
+Ground Maintenance,ISD,ISD_Building (INTERNAL),2
+Illegal Auto Body Shop,ISD,ISD_Building (INTERNAL),2
+Illegal Dumping,ISD,ISD_Building (INTERNAL),2
+Illegal Occupancy,ISD,ISD_Administrative,2
+Illegal Posting of Signs,ISD,ISD_Administrative,2
+Maintenance Complaint - Residential,ISD,ISD_Environmental Services (INTERNAL),2
+Mechanical,ISD,ISD_Plumbing,2
+Needle Pickup,ISD,ISD_Health (INTERNAL),2
+Parking on Front/Back Yards (Illegal Parking),ISD,ISD_Building (INTERNAL),2
+Parking on Front/Back Yards (Illegal Parking),ISD,ISD_Environmental Services (INTERNAL),2
+Parks Lighting/Electrical Issues,ISD,ISD_Building (INTERNAL),2
+Pick up Dead Animal,ISD,ISD_Health (INTERNAL),2
+Poor Conditions of Property,ISD,ISD_Health (INTERNAL),2
+Protection of Adjoining Property,ISD,ISD_Environmental Services (INTERNAL),2
+Protection of Adjoining Property,ISD,ISD_Plumbing,2
+Rooftop & Mechanical Disturbances,ISD,ISD_Building (INTERNAL),2
+Sewage/Septic Back-Up,ISD,ISD_Plumbing,2
+Short Term Rental,ISD,ISD_Environmental Services (INTERNAL),2
+Sign Repair,ISD,ISD_Administrative,2
+Student Move-in Issues,ISD,ISD_Building (INTERNAL),2
+Tree Maintenance Requests,ISD,ISD_Environmental Services (INTERNAL),2
+Unsatisfactory Living Conditions,ISD,ISD_Administrative,2
+Water in Gas - High Priority,ISD,ISD_Weights and Measures (INTERNAL),2
+Abandoned Vehicles,ISD,ISD_Building (INTERNAL),1
+Abandoned Vehicles,ISD,ISD_Environmental Services (INTERNAL),1
+Bed Bugs,ISD,ISD_Health (INTERNAL),1
+Building Inspection Request,ISD,ISD_Environmental Services (INTERNAL),1
+CE Collection,ISD,ISD_Administrative,1
+CE Collection,ISD,ISD_Building (INTERNAL),1
+CE Collection,ISD,ISD_Health (INTERNAL),1
+Catchbasin,ISD,ISD_Administrative,1
+Chronic Dampness/Mold,ISD,ISD_Building (INTERNAL),1
+Contractors Complaint,ISD,ISD_Administrative,1
+Contractors Complaint,ISD,ISD_Housing (INTERNAL),1
+Electrical,ISD,ISD_Administrative,1
+Empty Litter Basket,ISD,ISD_Administrative,1
+Empty Litter Basket,ISD,ISD_Environmental Services (INTERNAL),1
+Exceeding Terms of Permit,ISD,ISD_Electrical,1
+Exceeding Terms of Permit,ISD,ISD_Environmental Services (INTERNAL),1
+Follow-Up,ISD,ISD_Administrative,1
+General Comments For An Employee,ISD,ISD_Housing (INTERNAL),1
+General Comments For a Program or Policy,ISD,ISD_Building (INTERNAL),1
+Ground Maintenance,ISD,ISD_Administrative,1
+Heat - Excessive  Insufficient,ISD,ISD_Plumbing,1
+Illegal Auto Body Shop,ISD,ISD_Health (INTERNAL),1
+Illegal Dumping,ISD,ISD_Administrative,1
+Illegal Posting of Signs,ISD,ISD_Housing (INTERNAL),1
+Illegal Rooming House,ISD,ISD_Administrative,1
+Item Price Missing,ISD,ISD_Health (INTERNAL),1
+Maintenance - Homeowner,ISD,ISD_Administrative,1
+Maintenance - Homeowner,ISD,ISD_Electrical,1
+Maintenance - Homeowner,ISD,ISD_Environmental Services (INTERNAL),1
+Maintenance - Homeowner,ISD,ISD_Health (INTERNAL),1
+Maintenance Complaint - Residential,ISD,ISD_Administrative,1
+Maintenance Complaint - Residential,ISD,ISD_Plumbing,1
+Mice Infestation - Residential,ISD,ISD_Health (INTERNAL),1
+Mosquitoes (West Nile),ISD,ISD_Building (INTERNAL),1
+No Utilities - Food Establishment - Sewer,ISD,ISD_Housing (INTERNAL),1
+No Utilities Residential - Gas,ISD,ISD_Plumbing,1
+Notification,ISD,ISD_Housing_ShortTermRental,1
+Notification,ISD,ISD_Plumbing,1
+Oil Truck - No Receipt,ISD,ISD_Weights and Measures (INTERNAL),1
+Overflowing or Un-kept Dumpster,ISD,ISD_Building (INTERNAL),1
+PWD Graffiti,ISD,ISD_Administrative,1
+Park Improvement Requests,ISD,ISD_Environmental Services (INTERNAL),1
+Parking Enforcement,ISD,ISD_Housing (INTERNAL),1
+Parking on Front/Back Yards (Illegal Parking),ISD,ISD_Housing (INTERNAL),1
+Parks General Request,ISD,ISD_Administrative,1
+Pick up Dead Animal,ISD,ISD_Building (INTERNAL),1
+Plumbing,ISD,ISD_Electrical,1
+Protection of Adjoining Property,ISD,ISD_Administrative,1
+Public Works General Request,ISD,ISD_Administrative,1
+Rat Bite,ISD,ISD_Housing (INTERNAL),1
+Rental Unit Delivery Conditions,ISD,ISD_Building (INTERNAL),1
+Request for Snow Plowing,ISD,ISD_Administrative,1
+Rodent Activity,ISD,ISD_Plumbing,1
+Sewage/Septic Back-Up,ISD,ISD_Administrative,1
+Short Term Rental,ISD,ISD_Administrative,1
+Short Term Rental,ISD,ISD_Health (INTERNAL),1
+Sidewalk Cover / Manhole,ISD,ISD_Administrative,1
+Sidewalk Repair (Make Safe),ISD,ISD_Housing (INTERNAL),1
+Sign Repair,ISD,ISD_Environmental Services (INTERNAL),1
+Sign Repair,ISD,ISD_Housing (INTERNAL),1
+Space Savers,ISD,ISD_Building (INTERNAL),1
+Squalid Living Conditions,ISD,ISD_Administrative,1
+Street Light Outages,ISD,ISD_Administrative,1
+Traffic Signal Inspection,ISD,ISD_Administrative,1
+Transportation General Request,ISD,ISD_Housing (INTERNAL),1
+Tree Maintenance Requests,ISD,ISD_Building (INTERNAL),1
+Undefined Noise Disturbance,ISD,ISD_Administrative,1
+Unsafe Dangerous Conditions,ISD,ISD_Health (INTERNAL),1
+Unsanitary Conditions - Establishment,ISD,ISD_Administrative,1
+Unsanitary Conditions - Establishment,ISD,ISD_Electrical,1
+Unsanitary Conditions - Establishment,ISD,ISD_Weights and Measures (INTERNAL),1
+Unsanitary Conditions - Food,ISD,ISD_Building (INTERNAL),1
+Unsanitary Conditions - Food,ISD,ISD_Housing (INTERNAL),1
+Unsatisfactory Living Conditions,ISD,ISD_Electrical,1
+Unsatisfactory Living Conditions,ISD,ISD_Health (INTERNAL),1
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,ISD_Electrical,1
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,ISD_Environmental Services (INTERNAL),1
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,ISD_Health (INTERNAL),1
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,ISD_Plumbing,1
+Work w/out Permit,ISD,ISD_Administrative,1
+Work w/out Permit,ISD,ISD_Electrical,1
+Working Beyond Hours,ISD,ISD_Plumbing,1
+Zoning,ISD,ISD_Administrative,1
+Tree Maintenance Requests,PARK,PARK_Tree Maintenance Request,12443
+New Tree Requests,PARK,PARK_New Tree Requests,4376
+Tree Emergencies,PARK,PARK_Tree Emergencies,1636
+Tree Maintenance Requests,PARK,PARK_Tree Emergencies,1571
+Ground Maintenance,PARK,PARK_Maintenance_Region 1,1370
+Ground Maintenance,PARK,PARK_Maintenance_Region 2,1229
+Ground Maintenance,PARK,PARK_Maintenance_Region 6,1107
+Equipment Repair,PARK,PARK_Maintenance_Trades,953
+Equipment Repair,PARK,PARK_Carpentry,833
+Equipment Repair,PARK,PARK_Plumbing,810
+Ground Maintenance,PARK,PARK_Maintenance_Region 3,775
+Equipment Repair,PARK,PARK_Welding,707
+Equipment Repair,PARK,PARK_Graffiti,703
+Ground Maintenance,PARK,PARK_Maintenance_Region 4,703
+Ground Maintenance,PARK,PARK_Maintenance_Region 5,556
+Parks Lighting/Electrical Issues,PARK,PARK_Maintenance_Lighting Electrical,390
+New Tree Requests,PARK,PARK_Tree Maintenance Request,378
+Park Improvement Requests,PARK,PARK_Park Improvement Requests,376
+Tree Maintenance Requests,PARK,PARK_Tree in Park,333
+Ground Maintenance,PARK,PARK_Maintenance_Ground Maintenance,289
+Empty Litter Basket,PARK,PARK_Maintenance_Region 1,237
+Pick up Dead Animal,PARK,PARK_Maintenance_Region 1,212
+Equipment Repair,PARK,PARK_Painting,180
+Equipment Repair,PARK,PARK_Park Improvement Requests,148
+Requests for Street Cleaning,PARK,PARK_Maintenance_Region 1,134
+Ground Maintenance,PARK,PARK_Maintenance_Support Services,126
+Equipment Repair,PARK,PARK_Maintenance_Region 1,114
+Empty Litter Basket,PARK,PARK_Maintenance_Region 6,109
+Tree in Park,PARK,PARK_Tree in Park,109
+Empty Litter Basket,PARK,PARK_Maintenance_Region 2,98
+Pick up Dead Animal,PARK,PARK_Maintenance_Region 6,88
+Pick up Dead Animal,PARK,PARK_Maintenance_Region 4,79
+Requests for Street Cleaning,PARK,PARK_Tree Emergencies,79
+Ground Maintenance,PARK,PARK_Graffiti,77
+Equipment Repair,PARK,PARK_Maintenance_Support Services,73
+Equipment Repair,PARK,PARK_Maintenance_Lighting Electrical,69
+General Comments For a Program or Policy,PARK,PARK_General Comments,68
+Pick up Dead Animal,PARK,PARK_Maintenance_Region 3,66
+Requests for Street Cleaning,PARK,PARK_Maintenance_Region 2,64
+Requests for Street Cleaning,PARK,PARK_Tree Maintenance Request,61
+Pick up Dead Animal,PARK,PARK_Maintenance_Region 2,58
+Cemetery Maintenance Request,PARK,PARK_Cemetery Maintenance Request,57
+Equipment Repair,PARK,PARK_Maintenance_Region 3,57
+Equipment Repair,PARK,PARK_Maintenance_Region 2,56
+New Tree Requests,PARK,PARK_Tree Emergencies,55
+Requests for Street Cleaning,PARK,PARK_Maintenance_Region 6,55
+Empty Litter Basket,PARK,PARK_Maintenance_Region 5,54
+Requests for Street Cleaning,PARK,PARK_Maintenance_Region 3,53
+Sidewalk Repair (Make Safe),PARK,PARK_Tree Maintenance Request,53
+Ground Maintenance,PARK,PARK_Plumbing,51
+Equipment Repair,PARK,PARK_Maintenance_Region 6,50
+Equipment Repair,PARK,PARK_Maintenance_Region 4,48
+Requests for Street Cleaning,PARK,PARK_Maintenance_Region 4,44
+Improper Storage of Trash (Barrels),PARK,PARK_Maintenance_Region 1,42
+Empty Litter Basket,PARK,PARK_Maintenance_Region 3,41
+Tree Maintenance Requests,PARK,PARK_New Tree Requests,39
+Pick up Dead Animal,PARK,PARK_Maintenance_Ground Maintenance,36
+PWD Graffiti,PARK,PARK_Graffiti,35
+Empty Litter Basket,PARK,PARK_Maintenance_Region 4,33
+Tree Emergencies,PARK,PARK_Tree Maintenance Request,33
+General Comments For An Employee,PARK,PARK_General Comments,32
+Pick up Dead Animal,PARK,PARK_Maintenance_Region 5,32
+Requests for Street Cleaning,PARK,PARK_Maintenance_Region 5,32
+Equipment Repair,PARK,PARK_Maintenance_Ground Maintenance,31
+Requests for Street Cleaning,PARK,PARK_Maintenance_Ground Maintenance,31
+Empty Litter Basket,PARK,PARK_Maintenance_Ground Maintenance,30
+Sidewalk Repair (Make Safe),PARK,PARK_Maintenance_Trades,27
+General Comments For a Program or Policy,PARK,PARK_Tree Maintenance Request,26
+Ground Maintenance,PARK,PARK_Maintenance_Trades,25
+Ground Maintenance,PARK,PARK_Tree Emergencies,24
+Parks General Request,PARK,PARK_Tree Maintenance Request,24
+Ground Maintenance,PARK,PARK_Maintenance_Horticulture,23
+Parks General Request,PARK,PARK_Maintenance_Region 1,23
+Tree in Park,PARK,PARK_Tree Emergencies,23
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 1,22
+Parks General Request,PARK,PARK_Maintenance_Region 2,21
+Planting,PARK,PARK_Maintenance_Horticulture,21
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 2,20
+New Tree Requests,PARK,PARK_Tree in Park,19
+Sidewalk Repair (Make Safe),PARK,PARK_Park Improvement Requests,19
+Ground Maintenance,PARK,PARK_Carpentry,18
+Ground Maintenance,PARK,PARK_Urban_Wilds,18
+Parks General Request,PARK,PARK_Plumbing,18
+Sign Repair,PARK,PARK_Carpentry,18
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Region 1,18
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Region 3,18
+Equipment Repair,PARK,PARK_Maintenance_Region 5,17
+Parks General Request,PARK,PARK_Maintenance_Region 4,17
+Street Light Outages,PARK,PARK_Maintenance_Lighting Electrical,17
+Tree Maintenance Requests,PARK,PARK_Maintenance_Horticulture,17
+Ground Maintenance,PARK,PARK_Park Improvement Requests,16
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 3,15
+CE Collection,PARK,PARK_Maintenance_Region 1,14
+Ground Maintenance,PARK,PARK_Painting,14
+Ground Maintenance,PARK,PARK_Tree in Park,14
+Improper Storage of Trash (Barrels),PARK,PARK_Maintenance_Region 6,14
+Tree Maintenance Requests,PARK,PARK_Cemetery Maintenance Request,14
+Tree Maintenance Requests,PARK,PARK_Urban_Wilds,14
+Equipment Repair,PARK,PARK_Tree Maintenance Request,13
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 6,13
+Parks General Request,PARK,PARK_Cemetery Maintenance Request,12
+Parks General Request,PARK,PARK_Maintenance_Region 5,12
+Parks General Request,PARK,PARK_Maintenance_Trades,12
+Parks General Request,PARK,PARK_Park Improvement Requests,12
+Sidewalk Repair (Make Safe),PARK,PARK_New Tree Requests,12
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Region 6,12
+Equipment Repair,PARK,PARK_Tree Emergencies,11
+Ground Maintenance,PARK,PARK_Welding,11
+Improper Storage of Trash (Barrels),PARK,PARK_Maintenance_Region 2,11
+Parks General Request,PARK,PARK_Maintenance_Region 3,11
+Parks General Request,PARK,PARK_Tree Emergencies,11
+Requests for Street Cleaning,PARK,PARK_Graffiti,11
+Sidewalk Repair (Make Safe),PARK,PARK_Maintenance_Region 1,11
+Sign Repair,PARK,PARK_Park Improvement Requests,11
+Ground Maintenance,PARK,PARK_Maintenance_Lighting Electrical,10
+Parks General Request,PARK,PARK_Maintenance_Lighting Electrical,10
+Sidewalk Repair (Make Safe),PARK,PARK_Tree Emergencies,10
+Equipment Repair,PARK,PARK_Maintenance_Horticulture,9
+Equipment Repair,PARK,PARK_Tree in Park,9
+Park Improvement Requests,PARK,PARK_Carpentry,9
+CE Collection,PARK,PARK_Maintenance_Region 5,8
+CE Collection,PARK,PARK_Maintenance_Region 6,8
+CE Collection,PARK,PARK_Tree Emergencies,8
+General Comments For a Program or Policy,PARK,PARK_Maintenance_Region 1,8
+Ground Maintenance,PARK,PARK_Cemetery Maintenance Request,8
+Street Light Outages,PARK,PARK_Tree Maintenance Request,8
+General Comments For a Program or Policy,PARK,PARK_New Tree Requests,7
+Graffiti Removal,PARK,PARK_Graffiti,7
+Ground Maintenance,PARK,PARK_Tree Maintenance Request,7
+Park Improvement Requests,PARK,PARK_Graffiti,7
+Parks General Request,PARK,PARK_Carpentry,7
+Parks General Request,PARK,PARK_Maintenance_Region 6,7
+Parks General Request,PARK,PARK_New Tree Requests,7
+Tree Emergencies,PARK,PARK_Tree in Park,7
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 5,7
+Improper Storage of Trash (Barrels),PARK,PARK_Maintenance_Ground Maintenance,6
+Pick up Dead Animal,PARK,PARK_Maintenance_Horticulture,6
+Request for Pothole Repair,PARK,PARK_Park Improvement Requests,6
+Rodent Activity,PARK,PARK_Maintenance_Region 6,6
+Sidewalk Repair (Make Safe),PARK,PARK_Maintenance_Region 2,6
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Ground Maintenance,6
+Contractor Complaints,PARK,PARK_Tree Maintenance Request,5
+General Comments For a Program or Policy,PARK,PARK_Cemetery Maintenance Request,5
+General Comments For a Program or Policy,PARK,PARK_Maintenance_Region 4,5
+PWD Graffiti,PARK,PARK_Painting,5
+Pick up Dead Animal,PARK,PARK_Tree Emergencies,5
+Requests for Street Cleaning,PARK,PARK_Maintenance_Horticulture,5
+Rodent Activity,PARK,PARK_Tree Maintenance Request,5
+Sign Repair,PARK,PARK_Tree Emergencies,5
+Sign Repair,PARK,PARK_Tree Maintenance Request,5
+Tree Maintenance Requests,PARK,PARK_Maintenance_Region 4,5
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Region 5,5
+Empty Litter Basket,PARK,PARK_Maintenance_Horticulture,4
+Equipment Repair,PARK,PARK_Cemetery Maintenance Request,4
+Equipment Repair,PARK,PARK_General Comments,4
+General Comments For a Program or Policy,PARK,PARK_Maintenance_Region 2,4
+Improper Storage of Trash (Barrels),PARK,PARK_Maintenance_Region 4,4
+Improper Storage of Trash (Barrels),PARK,PARK_Maintenance_Region 5,4
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Region 6,4
+Parks General Request,PARK,PARK_Graffiti,4
+Request for Pothole Repair,PARK,PARK_Maintenance_Region 1,4
+Rodent Activity,PARK,PARK_Maintenance_Region 2,4
+Sidewalk Repair (Make Safe),PARK,PARK_Welding,4
+Sign Repair,PARK,PARK_Graffiti,4
+Street Light Outages,PARK,PARK_Tree Emergencies,4
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Region 2,4
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Support Services,4
+CE Collection,PARK,PARK_Maintenance_Region 2,3
+CE Collection,PARK,PARK_Maintenance_Region 3,3
+Contractor Complaints,PARK,PARK_New Tree Requests,3
+Equipment Repair,PARK,PARK_Urban_Wilds,3
+General Comments For a Program or Policy,PARK,PARK_Park Improvement Requests,3
+Illegal Dumping,PARK,PARK_Maintenance_Region 1,3
+Improper Storage of Trash (Barrels),PARK,PARK_Maintenance_Region 3,3
+New Tree Requests,PARK,PARK_Park Improvement Requests,3
+PWD Graffiti,PARK,PARK_Maintenance_Region 1,3
+Park Improvement Requests,PARK,PARK_Painting,3
+Parks General Request,PARK,PARK_Maintenance_Support Services,3
+Parks General Request,PARK,PARK_Urban_Wilds,3
+Planting,PARK,PARK_New Tree Requests,3
+Poor Conditions of Property,PARK,PARK_Maintenance_Region 3,3
+Poor Conditions of Property,PARK,PARK_Tree Maintenance Request,3
+Public Works General Request,PARK,PARK_Tree Emergencies,3
+Public Works General Request,PARK,PARK_Tree Maintenance Request,3
+Request for Litter Basket Installation,PARK,PARK_Maintenance_Region 1,3
+Request for Litter Basket Installation,PARK,PARK_Maintenance_Region 2,3
+Request for Litter Basket Installation,PARK,PARK_Maintenance_Region 6,3
+Request for Pothole Repair,PARK,PARK_Maintenance_Trades,3
+Request for Snow Plowing,PARK,PARK_Maintenance_Region 1,3
+Requests for Street Cleaning,PARK,PARK_Cemetery Maintenance Request,3
+Requests for Street Cleaning,PARK,PARK_New Tree Requests,3
+Sidewalk Repair (Make Safe),PARK,PARK_Carpentry,3
+Sidewalk Repair (Make Safe),PARK,PARK_Maintenance_Ground Maintenance,3
+Sidewalk Repair (Make Safe),PARK,PARK_Plumbing,3
+CE Collection,PARK,PARK_Maintenance_Ground Maintenance,2
+Capital Improvement Long Term,PARK,PARK_Park Improvement Requests,2
+General Comments For An Employee,PARK,PARK_Maintenance_Region 2,2
+General Comments For a Program or Policy,PARK,PARK_Maintenance_Region 3,2
+General Comments For a Program or Policy,PARK,PARK_Maintenance_Region 5,2
+General Comments For a Program or Policy,PARK,PARK_Maintenance_Region 6,2
+General Lighting Request,PARK,PARK_Tree Maintenance Request,2
+Graffiti Removal,PARK,PARK_Painting,2
+Illegal Posting of Signs,PARK,PARK_Maintenance_Region 3,2
+Improper Storage of Trash (Barrels),PARK,PARK_Welding,2
+Litter Basket Maintenance,PARK,PARK_Maintenance_Region 1,2
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Ground Maintenance,2
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Region 1,2
+Needle Pickup,PARK,PARK_Maintenance_Region 6,2
+New Tree Requests,PARK,PARK_Maintenance_Region 1,2
+Park Improvement Requests,PARK,PARK_Maintenance_Region 1,2
+Park Improvement Requests,PARK,PARK_Maintenance_Support Services,2
+Parks General Request,PARK,PARK_Maintenance_Horticulture,2
+Parks Lighting/Electrical Issues,PARK,PARK_Plumbing,2
+Parks Lighting/Electrical Issues,PARK,PARK_Tree Emergencies,2
+Parks Lighting/Electrical Issues,PARK,PARK_Tree in Park,2
+Pest Infestation - Residential,PARK,PARK_Tree Maintenance Request,2
+Pick up Dead Animal,PARK,PARK_Cemetery Maintenance Request,2
+Pick up Dead Animal,PARK,PARK_Tree Maintenance Request,2
+Pick up Dead Animal,PARK,PARK_Urban_Wilds,2
+Planting,PARK,PARK_Maintenance_Region 2,2
+Poor Conditions of Property,PARK,PARK_Cemetery Maintenance Request,2
+Poor Conditions of Property,PARK,PARK_Maintenance_Region 5,2
+Poor Conditions of Property,PARK,PARK_Tree Emergencies,2
+Public Works General Request,PARK,PARK_Maintenance_Region 2,2
+Request for Pothole Repair,PARK,PARK_Maintenance_Ground Maintenance,2
+Request for Pothole Repair,PARK,PARK_Plumbing,2
+Request for Pothole Repair,PARK,PARK_Welding,2
+Requests for Street Cleaning,PARK,PARK_Urban_Wilds,2
+Rodent Activity,PARK,PARK_Maintenance_Ground Maintenance,2
+Rodent Activity,PARK,PARK_Maintenance_Region 5,2
+Rodent Activity,PARK,PARK_Tree Emergencies,2
+Sidewalk Repair (Make Safe),PARK,PARK_Maintenance_Region 3,2
+Sidewalk Repair (Make Safe),PARK,PARK_Maintenance_Region 6,2
+Sign Repair,PARK,PARK_Maintenance_Region 1,2
+Sign Repair,PARK,PARK_Maintenance_Region 4,2
+Traffic Signal Repair,PARK,PARK_Graffiti,2
+Traffic Signal Repair,PARK,PARK_Painting,2
+Tree Emergencies,PARK,PARK_Cemetery Maintenance Request,2
+Tree Emergencies,PARK,PARK_Urban_Wilds,2
+Tree Maintenance Requests,PARK,PARK_Park Improvement Requests,2
+Tree in Park,PARK,PARK_Cemetery Maintenance Request,2
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Region 4,2
+Abandoned Bicycle,PARK,PARK_Maintenance_Region 1,1
+Abandoned Vehicles,PARK,PARK_Maintenance_Region 1,1
+Abandoned Vehicles,PARK,PARK_Maintenance_Region 5,1
+Abandoned Vehicles,PARK,PARK_Maintenance_Region 6,1
+Animal Generic Request,PARK,PARK_Maintenance_Ground Maintenance,1
+Animal Generic Request,PARK,PARK_Maintenance_Region 2,1
+BWSC General Request,PARK,PARK_Maintenance_Trades,1
+CE Collection,PARK,PARK_Maintenance_Region 4,1
+Catchbasin,PARK,PARK_Carpentry,1
+Catchbasin,PARK,PARK_Maintenance_Region 3,1
+Catchbasin,PARK,PARK_Maintenance_Trades,1
+Cemetery Maintenance Request,PARK,PARK_Maintenance_Region 1,1
+Construction Debris,PARK,PARK_Maintenance_Ground Maintenance,1
+Contractors Complaint,PARK,PARK_Park Improvement Requests,1
+Contractors Complaint,PARK,PARK_Tree Maintenance Request,1
+Empty Litter Basket,PARK,PARK_Carpentry,1
+Empty Litter Basket,PARK,PARK_Cemetery Maintenance Request,1
+Empty Litter Basket,PARK,PARK_Park Improvement Requests,1
+General Comments For An Employee,PARK,PARK_Cemetery Maintenance Request,1
+General Comments For An Employee,PARK,PARK_Maintenance_Region 1,1
+General Comments For An Employee,PARK,PARK_Maintenance_Region 6,1
+General Comments For An Employee,PARK,PARK_Tree Emergencies,1
+General Comments For An Employee,PARK,PARK_Tree Maintenance Request,1
+General Comments For a Program or Policy,PARK,PARK_Carpentry,1
+General Comments For a Program or Policy,PARK,PARK_Maintenance_Ground Maintenance,1
+General Comments For a Program or Policy,PARK,PARK_Plumbing,1
+General Comments For a Program or Policy,PARK,PARK_Tree in Park,1
+General Lighting Request,PARK,PARK_Maintenance_Lighting Electrical,1
+General Lighting Request,PARK,PARK_Maintenance_Region 2,1
+General Lighting Request,PARK,PARK_Tree Emergencies,1
+Ground Maintenance,PARK,PARK_New Tree Requests,1
+Illegal Dumping,PARK,PARK_Maintenance_Region 4,1
+Illegal Dumping,PARK,PARK_Maintenance_Region 6,1
+Illegal Posting of Signs,PARK,PARK_Maintenance_Region 1,1
+Improper Storage of Trash (Barrels),PARK,PARK_Tree Maintenance Request,1
+Improper Storage of Trash (Barrels),PARK,PARK_Tree in Park,1
+Litter Basket Maintenance,PARK,PARK_Maintenance_Ground Maintenance,1
+Maintenance Complaint - Residential,PARK,PARK_Tree Maintenance Request,1
+Misc. Snow Complaint,PARK,PARK_Maintenance_Ground Maintenance,1
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,PARK_Maintenance_Region 2,1
+Needle Pickup,PARK,PARK_Maintenance_Region 1,1
+Needle Pickup,PARK,PARK_Maintenance_Region 3,1
+New Tree Requests,PARK,PARK_Cemetery Maintenance Request,1
+New Tree Requests,PARK,PARK_Maintenance_Horticulture,1
+No-Tow Complaint Confirmation,PARK,PARK_Tree Maintenance Request,1
+PWD Graffiti,PARK,PARK_Maintenance_Horticulture,1
+PWD Graffiti,PARK,PARK_Tree Maintenance Request,1
+Park Improvement Requests,PARK,PARK_Maintenance_Ground Maintenance,1
+Park Improvement Requests,PARK,PARK_Maintenance_Lighting Electrical,1
+Park Improvement Requests,PARK,PARK_Maintenance_Region 2,1
+Park Improvement Requests,PARK,PARK_Maintenance_Region 5,1
+Park Improvement Requests,PARK,PARK_Welding,1
+Parking Enforcement,PARK,PARK_Maintenance_Ground Maintenance,1
+Parking Enforcement,PARK,PARK_Maintenance_Region 3,1
+Parking Enforcement,PARK,PARK_Maintenance_Region 4,1
+Parking Enforcement,PARK,PARK_Park Improvement Requests,1
+Parking Enforcement,PARK,PARK_Tree Emergencies,1
+Parks General Request,PARK,PARK_Maintenance_Ground Maintenance,1
+Parks General Request,PARK,PARK_Tree in Park,1
+Parks General Request,PARK,PARK_Welding,1
+Parks Lighting/Electrical Issues,PARK,PARK_Cemetery Maintenance Request,1
+Parks Lighting/Electrical Issues,PARK,PARK_Maintenance_Region 1,1
+Parks Lighting/Electrical Issues,PARK,PARK_Maintenance_Trades,1
+Parks Lighting/Electrical Issues,PARK,PARK_Park Improvement Requests,1
+Parks Lighting/Electrical Issues,PARK,PARK_Tree Maintenance Request,1
+Parks Lighting/Electrical Issues,PARK,PARK_Welding,1
+Pavement Marking Inspection,PARK,PARK_Maintenance_Ground Maintenance,1
+Pick up Dead Animal,PARK,PARK_Graffiti,1
+Pick up Dead Animal,PARK,PARK_Maintenance_Trades,1
+Pick up Dead Animal,PARK,PARK_Park Improvement Requests,1
+Pick up Dead Animal,PARK,PARK_Plumbing,1
+Pick up Dead Animal,PARK,PARK_Tree in Park,1
+Planting,PARK,PARK_Maintenance_Region 3,1
+Planting,PARK,PARK_Maintenance_Region 4,1
+Planting,PARK,PARK_Maintenance_Trades,1
+Planting,PARK,PARK_Tree Maintenance Request,1
+Poor Conditions of Property,PARK,PARK_Graffiti,1
+Poor Conditions of Property,PARK,PARK_Maintenance_Ground Maintenance,1
+Poor Conditions of Property,PARK,PARK_Maintenance_Region 1,1
+Poor Conditions of Property,PARK,PARK_Maintenance_Region 6,1
+Protection of Adjoining Property,PARK,PARK_Graffiti,1
+Protection of Adjoining Property,PARK,PARK_Tree Emergencies,1
+Protection of Adjoining Property,PARK,PARK_Tree Maintenance Request,1
+Public Works General Request,PARK,PARK_Maintenance_Lighting Electrical,1
+Public Works General Request,PARK,PARK_Maintenance_Region 1,1
+Public Works General Request,PARK,PARK_Maintenance_Region 3,1
+Public Works General Request,PARK,PARK_Maintenance_Region 5,1
+Public Works General Request,PARK,PARK_Plumbing,1
+Request for Litter Basket Installation,PARK,PARK_Maintenance_Region 4,1
+Request for Pothole Repair,PARK,PARK_Carpentry,1
+Request for Pothole Repair,PARK,PARK_Maintenance_Region 3,1
+Request for Pothole Repair,PARK,PARK_Maintenance_Region 4,1
+Request for Snow Plowing,PARK,PARK_Cemetery Maintenance Request,1
+Request for Snow Plowing,PARK,PARK_Maintenance_Region 3,1
+Request for Snow Plowing,PARK,PARK_Maintenance_Support Services,1
+Requests for Street Cleaning,PARK,PARK_Maintenance_Support Services,1
+Requests for Street Cleaning,PARK,PARK_Maintenance_Trades,1
+Requests for Street Cleaning,PARK,PARK_Welding,1
+Roadway Repair,PARK,PARK_Maintenance_Region 4,1
+Roadway Repair,PARK,PARK_Tree Maintenance Request,1
+Rodent Activity,PARK,PARK_Carpentry,1
+Rodent Activity,PARK,PARK_Maintenance_Horticulture,1
+Rodent Activity,PARK,PARK_Maintenance_Region 1,1
+Rodent Activity,PARK,PARK_Maintenance_Region 3,1
+Rodent Activity,PARK,PARK_Maintenance_Region 4,1
+Rodent Activity,PARK,PARK_Maintenance_Support Services,1
+Rodent Activity,PARK,PARK_Park Improvement Requests,1
+Rodent Activity,PARK,PARK_Urban_Wilds,1
+Rodent Activity,PARK,PARK_Welding,1
+Sidewalk Cover / Manhole,PARK,PARK_Maintenance_Region 1,1
+Sidewalk Cover / Manhole,PARK,PARK_Maintenance_Region 4,1
+Sidewalk Repair (Make Safe),PARK,PARK_General Comments,1
+Sidewalk Repair (Make Safe),PARK,PARK_Graffiti,1
+Traffic Signal Inspection,PARK,PARK_Tree Emergencies,1
+Tree Emergencies,PARK,PARK_New Tree Requests,1
+Tree Maintenance Requests,PARK,PARK_Graffiti,1
+Tree Maintenance Requests,PARK,PARK_Maintenance_Ground Maintenance,1
+Tree in Park,PARK,PARK_Park Improvement Requests,1
+Tree in Park,PARK,PARK_Urban_Wilds,1
+Unshoveled Sidewalk,PARK,PARK_Maintenance_Trades,1
+Improper Storage of Trash (Barrels),PWDx,PWDx_Code Enforcement,38410
+Mattress_Pickup,PWDx,PWDx_WM_Mattress_Pickup,36546
+Schedule a Bulk Item Pickup,PWDx,PWDx_Schedule a Bulk Item Pickup,25112
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,22932
+Poor Conditions of Property,PWDx,PWDx_Code Enforcement,16547
+Schedule a Bulk Item Pickup SS,PWDx,PWDx_Schedule a Bulk Item Pickup,12755
+CE Collection,PWDx,PWDx_District 1C: Downtown,9423
+CE Collection,PWDx,PWDx_District 1B: North End,8515
+Street Light Outages,PWDx,PWDx_Street Light Outages,7081
+Request for Recycling Cart,PWDx,PWDx_Recycling Sent to Contractor,6655
+Recycling Cart Return,PWDx,PWDx_Recycling Sent to Contractor,6311
+Requests for Street Cleaning,PWDx,PWDx_District 1C: Downtown,5900
+Illegal Dumping,PWDx,PWDx_Code Enforcement,5800
+Sidewalk Repair (Make Safe),PWDx,PWDx_Sidewalk Repair,5198
+Requests for Street Cleaning,PWDx,PWDx_District 03: North Dorchester,4910
+Sticker Request,PWDx,PWDx_Sticker Request,4666
+Unshoveled Sidewalk,PWDx,PWDx_Code Enforcement,4048
+Requests for Street Cleaning,PWDx,PWDx_Code Enforcement,3514
+Requests for Street Cleaning,PWDx,PWDx_District 07: South Dorchester,3331
+CE Collection,PWDx,PWDx_District 04: Allston/Brighton,3119
+Requests for Street Cleaning,PWDx,PWDx_District 10B: Roxbury,2767
+Sidewalk Repair (Make Safe),PWDx,PWDx_Highway Construction,2486
+Requests for Street Cleaning,PWDx,PWDx_District 05: South Boston,2453
+Requests for Street Cleaning,PWDx,PWDx_District 04: Allston/Brighton,2416
+Requests for Street Cleaning,PWDx,PWDx_District 1B: North End,2392
+Requests for Street Cleaning,PWDx,PWDx_District 09: East Boston,2345
+Request for Pothole Repair,PWDx,PWDx_Contractor Complaints,2290
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,2257
+General Lighting Request,PWDx,PWDx_Street Light_General Lighting Request,1964
+Pick up Dead Animal,PWDx,PWDx_District 04: Allston/Brighton,1869
+Contractor Complaints,PWDx,PWDx_Contractor Complaints,1861
+CE Collection,PWDx,PWDx_District 05: South Boston,1852
+CE Collection,PWDx,PWDx_District 09: East Boston,1842
+CE Collection,PWDx,PWDx_District 10A: Roxbury,1818
+Requests for Street Cleaning,PWDx,PWDx_District 02: Jamaica Plain,1738
+Requests for Street Cleaning,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1628
+Requests for Street Cleaning,PWDx,PWDx_District 10A: Roxbury,1612
+Request for Recycling Cart,PWDx,PWDx_Recycling,1611
+Requests for Street Cleaning,PWDx,PWDx_District 08: Hyde Park,1610
+CE Collection,PWDx,PWDx_District 03: North Dorchester,1607
+Request for Pothole Repair,PWDx,PWDx_District 1C: Downtown,1546
+CE Collection,PWDx,PWDx_District 10B: Roxbury,1513
+Pick up Dead Animal,PWDx,PWDx_District 1C: Downtown,1458
+Requests for Street Cleaning,PWDx,PWDx_District 06: West Roxbury and Roslindale,1446
+Request for Pothole Repair,PWDx,PWDx_District 09: East Boston,1322
+Request for Pothole Repair,PWDx,PWDx_District 07: South Dorchester,1316
+Pick up Dead Animal,PWDx,PWDx_District 03: North Dorchester,1274
+Pick up Dead Animal,PWDx,PWDx_District 06: West Roxbury and Roslindale,1268
+Pick up Dead Animal,PWDx,PWDx_District 07: South Dorchester,1227
+Pick up Dead Animal,PWDx,PWDx_District 02: Jamaica Plain,1206
+CE Collection,PWDx,PWDx_District 07: South Dorchester,1179
+Pick up Dead Animal,PWDx,PWDx_District 1B: North End,1026
+Request for Pothole Repair,PWDx,PWDx_District 02: Jamaica Plain,995
+Request for Pothole Repair,PWDx,PWDx_District 08: Hyde Park,982
+Request for Pothole Repair,PWDx,PWDx_District 10A: Roxbury,890
+Empty Litter Basket,PWDx,PWDx_District 1C: Downtown,861
+Pick up Dead Animal,PWDx,PWDx_District 05: South Boston,811
+Request for Pothole Repair,PWDx,PWDx_District 10B: Roxbury,782
+Street Light Knock Downs,PWDx,PWDx_Street Light Knock Downs,761
+Request for Pothole Repair,PWDx,PWDx_District 04: Allston/Brighton,754
+Requests for Street Cleaning,PWDx,PWDx_Request for Street Cleaning,751
+Recycling Cart Return,PWDx,PWDx_IPL Damaged Cart Replacement,747
+Pick up Dead Animal,PWDx,PWDx_District 10B: Roxbury,745
+Request for Pothole Repair,PWDx,PWDx_Highway Construction,696
+Street Light Outages,PWDx,PWDx_Street Light Outages - Gas,672
+Pick up Dead Animal,PWDx,PWDx_District 09: East Boston,664
+CE Collection,PWDx,PWDx_District 02: Jamaica Plain,659
+Request for Pothole Repair,PWDx,PWDx_District 06: West Roxbury and Roslindale,576
+Recycling Cart Return,PWDx,PWDx_Recycling Cart Return,573
+Empty Litter Basket,PWDx,PWDx_District 10A: Roxbury,561
+Empty Litter Basket,PWDx,PWDx_Code Enforcement,549
+Request for Pothole Repair,PWDx,PWDx_District 03: North Dorchester,535
+Pick up Dead Animal,PWDx,PWDx_District 10A: Roxbury,531
+Major System Failure,PWDx,PWDx_Major System Failure,529
+Requests for Street Cleaning,PWDx,PWDx_District 1A: Charlestown,523
+Empty Litter Basket,PWDx,PWDx_District 1B: North End,500
+Public Works General Request,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,494
+Roadway Repair,PWDx,PWDx_Roadway Repair,491
+Tree Maintenance Requests,PWDx,PWDx_Code Enforcement,479
+Pick up Dead Animal,PWDx,PWDx_District 08: Hyde Park,467
+Empty Litter Basket,PWDx,PWDx_Empty Litter Basket,454
+Request for Pothole Repair,PWDx,PWDx_District 1B: North End,447
+Request for Pothole Repair,PWDx,PWDx_Requests for Pothole Repair,443
+General Comments For a Program or Policy,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,438
+Empty Litter Basket,PWDx,PWDx_District 04: Allston/Brighton,421
+Request for Pothole Repair,PWDx,PWDx_District 05: South Boston,390
+Construction Debris,PWDx,PWDx_Code Enforcement,381
+CE Collection,PWDx,PWDx_District 08: Hyde Park,380
+PWD Graffiti,PWDx,PWDx_Graffiti,373
+Utility Casting Repair,PWDx,PWDx_Utility Casting Repair,371
+Work Hours-Loud Noise Complaints,PWDx,PWDx_Work Hours-Loud Noise Complaints,370
+CE Collection,PWDx,PWDx_District 1A: Charlestown,358
+Illegal Vending,PWDx,PWDx_Code Enforcement,336
+CE Collection,PWDx,PWDx_District 06: West Roxbury and Roslindale,333
+PWD Graffiti,PWDx,PWDx_District 1C: Downtown,299
+Knockdown Replacement,PWDx,PWDx_Street Light Knockdown Replacement,292
+Pick up Dead Animal,PWDx,PWDx_District 1A: Charlestown,286
+Empty Litter Basket,PWDx,PWDx_District 1A: Charlestown,282
+Request for Pothole Repair,PWDx,PWDx_District 1A: Charlestown,270
+Rodent Activity,PWDx,PWDx_Code Enforcement,270
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 06: West Roxbury and Roslindale,269
+Parking on Front/Back Yards (Illegal Parking),PWDx,PWDx_Code Enforcement,265
+Street Light Outages,PWDx,PWDx_Street Light Outages - Long-Term Repair,264
+Pick up Dead Animal,PWDx,PWDx_Pick Up Dead Animals,262
+CE Collection,PWDx,PWDx_WM_Mattress_Pickup,258
+StreetLight Pole WO,PWDx,PWDx_Highway Construction General,252
+Empty Litter Basket,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,238
+Request for Litter Basket Installation,PWDx,PWDx_Request for Litter Basket Installation,234
+Parks Lighting/Electrical Issues,PWDx,PWDx_Street Light Outages,231
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_Code Enforcement,224
+PWD Graffiti,PWDx,PWDx_STRL Pole Compliance,224
+Pest Infestation - Residential,PWDx,PWDx_Code Enforcement,222
+Improper Storage of Trash (Barrels),PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,213
+Roadway Repair,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,205
+Student Move-in Issues,PWDx,PWDx_Code Enforcement,205
+CE Collection,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,201
+General Comments For An Employee,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,194
+Sidewalk Repair (Make Safe),PWDx,PWDx_Sidewalk Repair (Make Safe),189
+Illegal Posting of Signs,PWDx,PWDx_Code Enforcement,174
+Empty Litter Basket,PWDx,PWDx_District 03: North Dorchester,171
+Illegal Auto Body Shop,PWDx,PWDx_Code Enforcement,171
+Litter Basket Maintenance,PWDx,PWDx_Litter Basket Maintenance,167
+Request for Snow Plowing,PWDx,PWDx_District 07: South Dorchester,166
+Sidewalk Repair (Make Safe),PWDx,PWDx_Contractor Complaints,166
+Empty Litter Basket,PWDx,PWDx_District 07: South Dorchester,164
+Overflowing or Un-kept Dumpster,PWDx,PWDx_Code Enforcement,163
+PWD Graffiti,PWDx,PWDx_District 10A: Roxbury,160
+PWD Graffiti,PWDx,PWDx_District 05: South Boston,158
+Request for Snow Plowing,PWDx,PWDx_District 02: Jamaica Plain,158
+Empty Litter Basket,PWDx,PWDx_District 05: South Boston,157
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 09: East Boston,156
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 1C: Downtown,148
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 09: East Boston,148
+Poor Conditions of Property,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,146
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 04: Allston/Brighton,146
+Public Works General Request,PWDx,PWDx_Code Enforcement,142
+Contractor Complaints,PWDx,PWDx_Sidewalk Repair,138
+Empty Litter Basket,PWDx,PWDx_District 10B: Roxbury,131
+PWD Graffiti,PWDx,PWDx_District 02: Jamaica Plain,131
+Empty Litter Basket,PWDx,PWDx_District 09: East Boston,130
+Request for Snow Plowing,PWDx,PWDx_District 08: Hyde Park,128
+CE Collection,PWDx,PWDx_Code Enforcement,119
+General Comments For a Program or Policy,PWDx,PWDx_Code Enforcement,116
+Request for Pothole Repair,PWDx,PWDx_Sidewalk Repair,113
+PWD Graffiti,PWDx,PWDx_Highway Construction General,106
+Sidewalk Repair (Make Safe),PWDx,PWDx_Code Enforcement,105
+Request for Snow Plowing,PWDx,PWDx_District 06: West Roxbury and Roslindale,103
+Contractor Complaints,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,102
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair,102
+Request for Snow Plowing,PWDx,PWDx_District 03: North Dorchester,101
+Sidewalk Repair,PWDx,PWDx_Sidewalk Repair,101
+Requests for Street Cleaning,PWDx,PWDx_Contractor Complaints,99
+Ground Maintenance,PWDx,PWDx_Code Enforcement,97
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 05: South Boston,97
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 04: Allston/Brighton,96
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 1B: North End,94
+Empty Litter Basket,PWDx,PWDx_District 02: Jamaica Plain,93
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 08: Hyde Park,91
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 02: Jamaica Plain,90
+Street Light Outages,PWDx,PWDx_STRL Pole Compliance,90
+Public Works General Request,PWDx,PWDx_Recycling,87
+Parking Enforcement,PWDx,PWDx_Space Saver Removal,81
+Trash on Vacant Lot,PWDx,PWDx_Code Enforcement,81
+Pole Compliance,PWDx,PWDx_STRL Pole Compliance,79
+Request for Pothole Repair,PWDx,PWDx_Utility Casting Repair,79
+Request for Snow Plowing,PWDx,PWDx_District 10B: Roxbury,77
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 07: South Dorchester,76
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 03: North Dorchester,72
+General Comments For a Program or Policy,PWDx,PWDx_Sidewalk Repair,70
+Parks Lighting/Electrical Issues,PWDx,PWDx_Street Light_General Lighting Request,70
+Public Works General Request,PWDx,PWDx_Contractor Complaints,68
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 03: North Dorchester,66
+Request for Snow Plowing,PWDx,PWDx_Requests for Snow Plowing,66
+PWD Graffiti,PWDx,PWDx_District 06: West Roxbury and Roslindale,65
+Parking Enforcement,PWDx,PWDx_Code Enforcement,62
+Space Savers,PWDx,PWDx_District 03: North Dorchester,62
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 05: South Boston,60
+Sign Repair,PWDx,PWDx_Contractor Complaints,60
+PWD Graffiti,PWDx,PWDx_District 03: North Dorchester,59
+PWD Graffiti,PWDx,PWDx_District 08: Hyde Park,58
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 10A: Roxbury,56
+Space Savers,PWDx,PWDx_District 07: South Dorchester,54
+Illegal Dumping,PWDx,PWDx_District 03: North Dorchester,53
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 10B: Roxbury,52
+PWD Graffiti,PWDx,PWDx_District 10B: Roxbury,52
+Contractors Complaint,PWDx,PWDx_Contractor Complaints,51
+PWD Graffiti,PWDx,PWDx_District 04: Allston/Brighton,51
+Public Works General Request,PWDx,PWDx_Sidewalk Repair,51
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 10B: Roxbury,51
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 1C: Downtown,51
+Space Savers,PWDx,PWDx_District 10B: Roxbury,50
+Upgrade Existing Lighting,PWDx,PWDx_Street Light_Upgrade Existing Lighting,49
+Install New Lighting,PWDx,PWDx_Street Light_Install New Lighting,48
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 07: South Dorchester,47
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 10A: Roxbury,46
+PWD Graffiti,PWDx,PWDx_District 09: East Boston,46
+PWD Graffiti,PWDx,PWDx_District 1B: North End,46
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,46
+Sidewalk Repair,PWDx,PWDx_Highway Construction,46
+Sidewalk Repair (Make Safe),PWDx,PWDx_Engineering_Design,43
+Sidewalk Repair (Make Safe),PWDx,PWDx_Bridge Maintenance,41
+Contractor Complaints,PWDx,PWDx_Roadway Repair_Reconstruction,40
+Illegal Dumping,PWDx,PWDx_District 07: South Dorchester,40
+Request for Snow Plowing,PWDx,PWDx_District 04: Allston/Brighton,39
+Requests for Street Cleaning,PWDx,PWDx_Graffiti,39
+Empty Litter Basket,PWDx,PWDx_Litter Basket Maintenance,38
+Illegal Dumping,PWDx,PWDx_District 09: East Boston,38
+Roadway Repair,PWDx,PWDx_Contractor Complaints,38
+Street Light Outages,PWDx,PWDx_Street Light_General Lighting Request,38
+Request for Snow Plowing,PWDx,PWDx_District 1C: Downtown,37
+General Comments For An Employee,PWDx,PWDx_Code Enforcement,36
+General Comments For a Program or Policy,PWDx,PWDx_Contractor Complaints,36
+Unsatisfactory Living Conditions,PWDx,PWDx_Code Enforcement,36
+Improper Storage of Trash (Barrels),PWDx,PWDx_WM_Mattress_Pickup,35
+Empty Litter Basket,PWDx,PWDx_District 08: Hyde Park,34
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 02: Jamaica Plain,34
+PWD Graffiti,PWDx,PWDx_District 07: South Dorchester,34
+Requests for Street Cleaning,PWDx,PWDx_Highway Construction,34
+Requests for Street Cleaning,PWDx,PWDx_WM_Mattress_Pickup,34
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 1B: North End,34
+Sidewalk Repair (Make Safe),PWDx,PWDx_Roadway Repair_ARP_Resurfacing,34
+Illegal Dumping,PWDx,PWDx_District 1B: North End,31
+General Comments For a Program or Policy,PWDx,PWDx_Recycling,29
+Sidewalk Repair (Make Safe),PWDx,PWDx_Street Light_General Lighting Request,29
+Space Savers,PWDx,PWDx_Space Saver Removal,28
+StreetLight Pole WO,PWDx,PWDx_Street Light_General Lighting Request,28
+Request for Snow Plowing,PWDx,PWDx_Code Enforcement,27
+Sidewalk Repair (Make Safe),PWDx,PWDx_Engineering_PIC,27
+PWD Graffiti,PWDx,PWDx_Highway Construction,26
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 1A: Charlestown,25
+Public Works General Request,PWDx,PWDx_District 07: South Dorchester,25
+Request for Snow Plowing,PWDx,PWDx_District 09: East Boston,25
+Empty Litter Basket,PWDx,PWDx_District 06: West Roxbury and Roslindale,24
+Misc. Snow Complaint,PWDx,PWDx_Snow Cases,24
+Contractor Complaints,PWDx,PWDx_Code Enforcement,23
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 06: West Roxbury and Roslindale,23
+Improper Storage of Trash (Barrels),PWDx,PWDx_District 08: Hyde Park,23
+Request for Snow Plowing,PWDx,PWDx_District 1A: Charlestown,23
+Contractor Complaints,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,22
+Illegal Dumping,PWDx,PWDx_District 1C: Downtown,22
+Pick up Dead Animal,PWDx,PWDx_Code Enforcement,22
+Rodent Activity,PWDx,PWDx_District 07: South Dorchester,22
+Street Light Outages,PWDx,PWDx_Street Light Knockdown Replacement,22
+General Comments For a Program or Policy,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,21
+Public Works General Request,PWDx,PWDx_District 06: West Roxbury and Roslindale,20
+Request for Snow Plowing,PWDx,PWDx_District 05: South Boston,20
+Rodent Activity,PWDx,PWDx_District 1C: Downtown,20
+Street Light Knock Downs,PWDx,PWDx_Street Light_General Lighting Request,20
+Equipment Repair,PWDx,PWDx_Street Light Outages,19
+Illegal Dumping,PWDx,PWDx_District 04: Allston/Brighton,19
+Public Works General Request,PWDx,PWDx_District 1C: Downtown,19
+Public Works General Request,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,19
+Request for Pothole Repair,PWDx,PWDx_Street Light Outages - Long-Term Repair,19
+Bridge Maintenance,PWDx,PWDx_Bridge Maintenance,18
+Public Works General Request,PWDx,PWDx_District 03: North Dorchester,18
+Public Works General Request,PWDx,PWDx_District 04: Allston/Brighton,18
+Request for Snow Plowing,PWDx,PWDx_District 10A: Roxbury,18
+Equipment Repair,PWDx,PWDx_Sidewalk Repair,17
+Request for Pothole Repair,PWDx,PWDx_Bridge Maintenance,17
+Requests for Street Cleaning,PWDx,PWDx_Litter Basket Maintenance,17
+Unshoveled Sidewalk,PWDx,PWDx_District 02: Jamaica Plain,17
+General Comments For a Program or Policy,PWDx,PWDx_Street Light_General Lighting Request,16
+Illegal Dumping,PWDx,PWDx_District 10A: Roxbury,16
+No-Tow Complaint Confirmation,PWDx,PWDx_District 09: East Boston,16
+Public Works General Request,PWDx,PWDx_Bridge Maintenance,16
+Space Savers,PWDx,PWDx_District 09: East Boston,16
+Empty Litter Basket,PWDx,PWDx_Recycling,15
+Illegal Dumping,PWDx,PWDx_District 05: South Boston,15
+Illegal Dumping,PWDx,PWDx_District 10B: Roxbury,15
+Maintenance Complaint - Residential,PWDx,PWDx_Code Enforcement,15
+No-Tow Complaint Confirmation,PWDx,PWDx_District 07: South Dorchester,15
+Public Works General Request,PWDx,PWDx_District 08: Hyde Park,15
+Public Works General Request,PWDx,PWDx_District 09: East Boston,15
+Sidewalk Repair (Make Safe),PWDx,PWDx_District 1A: Charlestown,15
+Space Savers,PWDx,PWDx_District 06: West Roxbury and Roslindale,15
+Contractor Complaints,PWDx,PWDx_Roadway Repair,14
+Contractors Complaint,PWDx,PWDx_Code Enforcement,14
+Ground Maintenance,PWDx,PWDx_District 03: North Dorchester,14
+Major System Failure,PWDx,PWDx_Street Light Outages,14
+PWD Graffiti,PWDx,PWDx_Code Enforcement,14
+PWD Graffiti,PWDx,PWDx_Litter Basket Maintenance,14
+Public Works General Request,PWDx,PWDx_Sticker Request,14
+Requests for Street Cleaning,PWDx,PWDx_Sidewalk Repair,14
+Requests for Street Cleaning,PWDx,PWDx_Space Saver Removal,14
+Sidewalk Repair (Make Safe),PWDx,PWDx_Highway Construction General,14
+Space Savers,PWDx,PWDx_District 08: Hyde Park,14
+General Lighting Request,PWDx,PWDx_STRL Pole Compliance,13
+No-Tow Complaint Confirmation,PWDx,PWDx_District 10B: Roxbury,13
+PWD Graffiti,PWDx,PWDx_Street Light_General Lighting Request,13
+Poor Conditions of Property,PWDx,PWDx_District 02: Jamaica Plain,13
+Public Works General Request,PWDx,PWDx_Engineering_PIC,13
+Request for Snow Plowing,PWDx,PWDx_District 1B: North End,13
+Requests for Street Cleaning,PWDx,PWDx_Request for Litter Basket Installation,13
+Space Savers,PWDx,PWDx_District 1B: North End,13
+Tree Maintenance Requests,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,13
+Abandoned Vehicles,PWDx,PWDx_Code Enforcement,12
+Public Works General Request,PWDx,PWDx_Highway Construction,12
+Public Works General Request,PWDx,PWDx_Roadway Repair,12
+Requests for Street Cleaning,PWDx,PWDx_Recycling,12
+Roadway Repair,PWDx,PWDx_Highway Construction,12
+Rodent Activity,PWDx,PWDx_District 03: North Dorchester,12
+Sidewalk Repair (Make Safe),PWDx,PWDx_Roadway Repair_Reconstruction,12
+Street Light Outages,PWDx,PWDx_Street Light Knock Downs,12
+CE Collection,PWDx,PWDx_Request for Street Cleaning,11
+General Lighting Request,PWDx,PWDx_Street Light Outages - Gas,11
+Ground Maintenance,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,11
+Litter Basket Maintenance,PWDx,PWDx_District 10A: Roxbury,11
+No-Tow Complaint Confirmation,PWDx,PWDx_District 05: South Boston,11
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_Ponding,11
+Request for Pothole Repair,PWDx,PWDx_Roadway Repair_Reconstruction,11
+Requests for Street Cleaning,PWDx,PWDx_Bridge Maintenance,11
+Requests for Street Cleaning,PWDx,PWDx_Street Light Knock Downs,11
+Rodent Activity,PWDx,PWDx_Highway Construction,11
+Sidewalk Repair (Make Safe),PWDx,PWDx_Roadway Repair_Ponding,11
+Transportation General Request,PWDx,PWDx_Space Saver Removal,11
+Abandoned Building,PWDx,PWDx_Code Enforcement,10
+Illegal Dumping,PWDx,PWDx_WM_Mattress_Pickup,10
+PWD Graffiti,PWDx,PWDx_District 1A: Charlestown,10
+Pickup/Clear Conduit,PWDx,PWDx_Street Light_Pickup_Clear Conduit,10
+Public Works General Request,PWDx,PWDx_District 10B: Roxbury,10
+Public Works General Request,PWDx,PWDx_Street Light_General Lighting Request,10
+Request for Pothole Repair,PWDx,PWDx_Highway Construction General,10
+Request for Recycling Cart,PWDx,PWDx_Recycling Cart Return,10
+Roadway Repair,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,10
+Rodent Activity,PWDx,PWDx_District 02: Jamaica Plain,10
+Rodent Activity,PWDx,PWDx_District 10A: Roxbury,10
+Rodent Activity,PWDx,PWDx_Sidewalk Repair,10
+Sidewalk Repair (Make Safe),PWDx,PWDx_Street Light Knockdown Replacement,10
+Sign Repair,PWDx,PWDx_Street Light_General Lighting Request,10
+Space Savers,PWDx,PWDx_District 05: South Boston,10
+Street Light Knock Downs,PWDx,PWDx_Street Light Knockdown Replacement,10
+Traffic Signal Repair,PWDx,PWDx_District 1C: Downtown,10
+Contractors Complaint,PWDx,PWDx_Sidewalk Repair,9
+Equipment Repair,PWDx,PWDx_Street Light_General Lighting Request,9
+General Comments For a Program or Policy,PWDx,PWDx_District 10A: Roxbury,9
+General Lighting Request,PWDx,PWDx_Street Light Outages,9
+Graffiti Removal,PWDx,PWDx_Graffiti,9
+No-Tow Complaint Confirmation,PWDx,PWDx_District 1C: Downtown,9
+Parking Enforcement,PWDx,PWDx_Contractor Complaints,9
+Parks Lighting/Electrical Issues,PWDx,PWDx_Street Light Knock Downs,9
+Poor Conditions of Property,PWDx,PWDx_District 07: South Dorchester,9
+Public Works General Request,PWDx,PWDx_District 1B: North End,9
+Rodent Activity,PWDx,PWDx_District 04: Allston/Brighton,9
+Sign Repair,PWDx,PWDx_Street Light Knock Downs,9
+Space Savers,PWDx,PWDx_District 10A: Roxbury,9
+Street Light Outages,PWDx,PWDx_Highway Construction,9
+Traffic Signal Inspection,PWDx,PWDx_Street Light Knock Downs,9
+Traffic Signal Inspection,PWDx,PWDx_Street Light Outages,9
+Unsafe Dangerous Conditions,PWDx,PWDx_Code Enforcement,9
+General Comments For a Program or Policy,PWDx,PWDx_District 07: South Dorchester,8
+General Comments For a Program or Policy,PWDx,PWDx_Roadway Repair,8
+Ground Maintenance,PWDx,PWDx_District 09: East Boston,8
+Illegal Dumping,PWDx,PWDx_District 06: West Roxbury and Roslindale,8
+New Tree Requests,PWDx,PWDx_Sidewalk Repair,8
+Public Works General Request,PWDx,PWDx_District 02: Jamaica Plain,8
+Public Works General Request,PWDx,PWDx_District 05: South Boston,8
+Public Works General Request,PWDx,PWDx_District 10A: Roxbury,8
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 03: North Dorchester,8
+Requests for Street Cleaning,PWDx,PWDx_News Boxes,8
+Requests for Street Cleaning,PWDx,PWDx_Street Light_General Lighting Request,8
+Rodent Activity,PWDx,PWDx_District 05: South Boston,8
+Rodent Activity,PWDx,PWDx_District 06: West Roxbury and Roslindale,8
+Rodent Activity,PWDx,PWDx_District 09: East Boston,8
+Rodent Activity,PWDx,PWDx_District 1B: North End,8
+Street Light Knock Downs,PWDx,PWDx_Street Light Outages - Gas,8
+Transportation General Request,PWDx,PWDx_Code Enforcement,8
+Tree Maintenance Requests,PWDx,PWDx_Sidewalk Repair,8
+Unshoveled Sidewalk,PWDx,PWDx_District 04: Allston/Brighton,8
+Work w/out Permit,PWDx,PWDx_Code Enforcement,8
+Abandoned Bicycle,PWDx,PWDx_District 1C: Downtown,7
+General Comments For a Program or Policy,PWDx,PWDx_District 02: Jamaica Plain,7
+General Comments For a Program or Policy,PWDx,PWDx_District 03: North Dorchester,7
+General Comments For a Program or Policy,PWDx,PWDx_District 08: Hyde Park,7
+Illegal Dumping,PWDx,PWDx_District 08: Hyde Park,7
+Missing Sign,PWDx,PWDx_Contractor Complaints,7
+No-Tow Complaint Confirmation,PWDx,PWDx_District 10A: Roxbury,7
+Poor Conditions of Property,PWDx,PWDx_District 08: Hyde Park,7
+Poor Conditions of Property,PWDx,PWDx_District 1C: Downtown,7
+Protection of Adjoining Property,PWDx,PWDx_Code Enforcement,7
+Request for Pothole Repair,PWDx,PWDx_Engineering_PIC,7
+Sidewalk Repair (Make Safe),PWDx,PWDx_Graffiti,7
+Space Savers,PWDx,PWDx_District 04: Allston/Brighton,7
+Traffic Signal Inspection,PWDx,PWDx_Street Light_General Lighting Request,7
+Tree Maintenance Requests,PWDx,PWDx_District 1A: Charlestown,7
+Catchbasin,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,6
+Construction Debris,PWDx,PWDx_Contractor Complaints,6
+Equipment Repair,PWDx,PWDx_Highway Construction,6
+General Lighting Request,PWDx,PWDx_Street Light Knockdown Replacement,6
+Ground Maintenance,PWDx,PWDx_District 10A: Roxbury,6
+Illegal Dumping,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,6
+New Tree Requests,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,6
+No-Tow Complaint Confirmation,PWDx,PWDx_District 02: Jamaica Plain,6
+No-Tow Complaint Confirmation,PWDx,PWDx_District 03: North Dorchester,6
+No-Tow Complaint Confirmation,PWDx,PWDx_District 1A: Charlestown,6
+PWD Graffiti,PWDx,PWDx_Contractor Complaints,6
+Parks Lighting/Electrical Issues,PWDx,PWDx_Street Light Outages - Gas,6
+Public Works General Request,PWDx,PWDx_District 1A: Charlestown,6
+Public Works General Request,PWDx,PWDx_Engineering_Design,6
+Public Works General Request,PWDx,PWDx_Graffiti,6
+Request for Pothole Repair,PWDx,PWDx_Engineering_Design,6
+Request for Pothole Repair,PWDx,PWDx_Street Light_General Lighting Request,6
+Requests for Street Cleaning,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,6
+Space Savers,PWDx,PWDx_District 02: Jamaica Plain,6
+Space Savers,PWDx,PWDx_District 1C: Downtown,6
+Street Light Knock Downs,PWDx,PWDx_STRL Pole Compliance,6
+Street Light Outages,PWDx,PWDx_Major System Failure,6
+Street Light Outages,PWDx,PWDx_Street Light_Pickup_Clear Conduit,6
+StreetLight Pole WO,PWDx,PWDx_Highway Construction,6
+Unsafe Dangerous Conditions,PWDx,PWDx_Sidewalk Repair,6
+Unshoveled Sidewalk,PWDx,PWDx_District 1C: Downtown,6
+Utility Casting Repair,PWDx,PWDx_Sidewalk Repair,6
+Abandoned Bicycle,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,5
+Catchbasin,PWDx,PWDx_Roadway Repair_Ponding,5
+Equipment Repair,PWDx,PWDx_Litter Basket Maintenance,5
+General Comments For An Employee,PWDx,PWDx_Bridge Maintenance,5
+General Comments For a Program or Policy,PWDx,PWDx_District 1A: Charlestown,5
+General Comments For a Program or Policy,PWDx,PWDx_Highway Construction,5
+General Lighting Request,PWDx,PWDx_Street Light Outages - Long-Term Repair,5
+Ground Maintenance,PWDx,PWDx_District 04: Allston/Brighton,5
+Illegal Dumping,PWDx,PWDx_District 02: Jamaica Plain,5
+Knockdown Replacement,PWDx,PWDx_Street Light Knock Downs,5
+New Tree Requests,PWDx,PWDx_Code Enforcement,5
+Parks General Request,PWDx,PWDx_Code Enforcement,5
+Poor Conditions of Property,PWDx,PWDx_District 09: East Boston,5
+Poor Conditions of Property,PWDx,PWDx_District 10A: Roxbury,5
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 05: South Boston,5
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 07: South Dorchester,5
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 08: Hyde Park,5
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 1C: Downtown,5
+Requests for Street Cleaning,PWDx,PWDx_Empty Litter Basket,5
+Roadway Repair,PWDx,PWDx_Sidewalk Repair,5
+Rodent Activity,PWDx,PWDx_District 08: Hyde Park,5
+Short Term Rental,PWDx,PWDx_Code Enforcement,5
+Sidewalk Repair (Make Safe),PWDx,PWDx_Utility Casting Repair,5
+Sign Repair,PWDx,PWDx_Code Enforcement,5
+Sign Repair,PWDx,PWDx_Sidewalk Repair,5
+Sign Repair,PWDx,PWDx_Street Light Knockdown Replacement,5
+Sign Repair,PWDx,PWDx_Street Light Outages - Gas,5
+Space Savers,PWDx,PWDx_District 1A: Charlestown,5
+Squalid Living Conditions,PWDx,PWDx_Code Enforcement,5
+Street Light Outages,PWDx,PWDx_Street Light_Upgrade Existing Lighting,5
+Traffic Signal Inspection,PWDx,PWDx_Contractor Complaints,5
+Traffic Signal Inspection,PWDx,PWDx_Roadway Repair_Reconstruction,5
+Traffic Signal Repair,PWDx,PWDx_District 02: Jamaica Plain,5
+Tree Maintenance Requests,PWDx,PWDx_District 06: West Roxbury and Roslindale,5
+Unsatisfactory Living Conditions,PWDx,PWDx_WM_Mattress_Pickup,5
+Unshoveled Sidewalk,PWDx,PWDx_District 06: West Roxbury and Roslindale,5
+Work Hours-Loud Noise Complaints,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,5
+Animal Generic Request,PWDx,PWDx_District 1C: Downtown,4
+Building Inspection Request,PWDx,PWDx_Code Enforcement,4
+CE Collection,PWDx,PWDx_Contractor Complaints,4
+CE Collection,PWDx,PWDx_Empty Litter Basket,4
+Contractor Complaints,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,4
+Contractor Complaints,PWDx,PWDx_Work Hours-Loud Noise Complaints,4
+Empty Litter Basket,PWDx,PWDx_Request for Litter Basket Installation,4
+Equipment Repair,PWDx,PWDx_Code Enforcement,4
+Exceeding Terms of Permit,PWDx,PWDx_Contractor Complaints,4
+General Comments For An Employee,PWDx,PWDx_Contractor Complaints,4
+General Comments For An Employee,PWDx,PWDx_District 03: North Dorchester,4
+General Comments For An Employee,PWDx,PWDx_Street Light_General Lighting Request,4
+General Comments For a Program or Policy,PWDx,PWDx_Bridge Maintenance,4
+General Comments For a Program or Policy,PWDx,PWDx_District 04: Allston/Brighton,4
+General Comments For a Program or Policy,PWDx,PWDx_District 06: West Roxbury and Roslindale,4
+General Comments For a Program or Policy,PWDx,PWDx_District 09: East Boston,4
+General Comments For a Program or Policy,PWDx,PWDx_District 1B: North End,4
+General Comments For a Program or Policy,PWDx,PWDx_District 1C: Downtown,4
+Graffiti Removal,PWDx,PWDx_STRL Pole Compliance,4
+Ground Maintenance,PWDx,PWDx_District 10B: Roxbury,4
+Ground Maintenance,PWDx,PWDx_Recycling,4
+Ground Maintenance,PWDx,PWDx_Street Light Outages,4
+Illegal Dumping,PWDx,PWDx_District 1A: Charlestown,4
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,4
+Parks General Request,PWDx,PWDx_Street Light_General Lighting Request,4
+Poor Conditions of Property,PWDx,PWDx_District 03: North Dorchester,4
+Poor Conditions of Property,PWDx,PWDx_District 04: Allston/Brighton,4
+Public Works General Request,PWDx,PWDx_Roadway Repair_Ponding,4
+Request for Pothole Repair,PWDx,PWDx_Code Enforcement,4
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 02: Jamaica Plain,4
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 10B: Roxbury,4
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_Requests for Snow Plowing (Emergency Responder),4
+Rodent Activity,PWDx,PWDx_District 10B: Roxbury,4
+Rodent Activity,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,4
+Sidewalk Repair (Make Safe),PWDx,PWDx_Roadway Repair,4
+Sign Repair,PWDx,PWDx_Highway Construction,4
+Sign Repair,PWDx,PWDx_Roadway Repair,4
+Street Light Outages,PWDx,PWDx_Sidewalk Repair,4
+StreetLight Pole WO,PWDx,PWDx_District 08: Hyde Park,4
+Traffic Signal Repair,PWDx,PWDx_District 07: South Dorchester,4
+Tree Maintenance Requests,PWDx,PWDx_District 07: South Dorchester,4
+Unsanitary Conditions - Establishment,PWDx,PWDx_Code Enforcement,4
+Unshoveled Sidewalk,PWDx,PWDx_District 10A: Roxbury,4
+Work w/out Permit,PWDx,PWDx_Contractor Complaints,4
+Working Beyond Hours,PWDx,PWDx_Contractor Complaints,4
+Abandoned Bicycle,PWDx,PWDx_District 10A: Roxbury,3
+Abandoned Vehicles,PWDx,PWDx_Contractor Complaints,3
+Big Buildings Recycling (INTERNAL),PWDx,PWDx_WM_Mattress_Pickup,3
+Building Inspection Request,PWDx,PWDx_Contractor Complaints,3
+Contractors Complaint,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,3
+Equipment Repair,PWDx,PWDx_District 1B: North End,3
+Equipment Repair,PWDx,PWDx_Street Light Outages - Gas,3
+Exceeding Terms of Permit,PWDx,PWDx_Code Enforcement,3
+General Comments For An Employee,PWDx,PWDx_District 08: Hyde Park,3
+General Comments For An Employee,PWDx,PWDx_District 10A: Roxbury,3
+General Comments For An Employee,PWDx,PWDx_District 1B: North End,3
+General Comments For a Program or Policy,PWDx,PWDx_Engineering_Design,3
+General Comments For a Program or Policy,PWDx,PWDx_Request for Litter Basket Installation,3
+General Lighting Request,PWDx,PWDx_Street Light_Upgrade Existing Lighting,3
+Improper Storage of Trash (Barrels),PWDx,PWDx_Highway Construction,3
+Major System Failure,PWDx,PWDx_Street Light Outages - Gas,3
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_Contractor Complaints,3
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_Request for Street Cleaning,3
+News Boxes,PWDx,PWDx_News Boxes,3
+No-Tow Complaint Confirmation,PWDx,PWDx_District 04: Allston/Brighton,3
+No-Tow Complaint Confirmation,PWDx,PWDx_District 1B: North End,3
+Overflowing or Un-kept Dumpster,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,3
+PWD Graffiti,PWDx,PWDx_Sidewalk Repair,3
+Parks General Request,PWDx,PWDx_District 02: Jamaica Plain,3
+Parks General Request,PWDx,PWDx_District 04: Allston/Brighton,3
+Parks General Request,PWDx,PWDx_District 06: West Roxbury and Roslindale,3
+Parks Lighting/Electrical Issues,PWDx,PWDx_Street Light Knockdown Replacement,3
+Pick up Dead Animal,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,3
+Poor Conditions of Property,PWDx,PWDx_District 05: South Boston,3
+Poor Conditions of Property,PWDx,PWDx_District 06: West Roxbury and Roslindale,3
+Poor Conditions of Property,PWDx,PWDx_WM_Mattress_Pickup,3
+Public Works General Request,PWDx,PWDx_Empty Litter Basket,3
+Public Works General Request,PWDx,PWDx_Litter Basket Maintenance,3
+Public Works General Request,PWDx,PWDx_Request for Litter Basket Installation,3
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 10A: Roxbury,3
+Requests for Street Cleaning,PWDx,PWDx_Engineering_PIC,3
+Requests for Street Cleaning,PWDx,PWDx_Roadway Repair_Ponding,3
+Requests for Street Cleaning,PWDx,PWDx_Street Light Knockdown Replacement,3
+Roadway Repair,PWDx,PWDx_Code Enforcement,3
+Roadway Repair,PWDx,PWDx_Engineering_Design,3
+Rodent Activity,PWDx,PWDx_District 1A: Charlestown,3
+Sidewalk Cover / Manhole,PWDx,PWDx_Highway Construction,3
+Sign Repair,PWDx,PWDx_Street Light Outages,3
+Space Savers,PWDx,PWDx_Contractor Complaints,3
+Student Move-in Issues,PWDx,PWDx_District 09: East Boston,3
+Traffic Signal Repair,PWDx,PWDx_District 10A: Roxbury,3
+Traffic Signal Repair,PWDx,PWDx_STRL Pole Compliance,3
+Tree Maintenance Requests,PWDx,PWDx_District 05: South Boston,3
+Tree Maintenance Requests,PWDx,PWDx_District 09: East Boston,3
+Tree Maintenance Requests,PWDx,PWDx_Engineering_PIC,3
+Unsanitary Conditions - Food,PWDx,PWDx_Code Enforcement,3
+Unshoveled Sidewalk,PWDx,PWDx_District 05: South Boston,3
+Upgrade Existing Lighting,PWDx,PWDx_Street Light Outages - Gas,3
+Utility Call-In,PWDx,PWDx_Utility Call-In,3
+Utility Casting Repair,PWDx,PWDx_Contractor Complaints,3
+Utility Casting Repair,PWDx,PWDx_Highway Construction,3
+Work Hours-Loud Noise Complaints,PWDx,PWDx_Roadway Repair_Reconstruction,3
+Working Beyond Hours,PWDx,PWDx_Sidewalk Repair,3
+Abandoned Bicycle,PWDx,PWDx_District 05: South Boston,2
+Animal Generic Request,PWDx,PWDx_District 05: South Boston,2
+Animal Generic Request,PWDx,PWDx_District 07: South Dorchester,2
+Animal Generic Request,PWDx,PWDx_Pick Up Dead Animals,2
+BWSC General Request,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,2
+BWSC General Request,PWDx,PWDx_Roadway Repair_Ponding,2
+BWSC General Request,PWDx,PWDx_Sidewalk Repair,2
+BWSC Pothole,PWDx,PWDx_Contractor Complaints,2
+CE Collection,PWDx,PWDx_Highway Construction,2
+CE Collection,PWDx,PWDx_Street Light_General Lighting Request,2
+Catchbasin,PWDx,PWDx_Sidewalk Repair,2
+Contractor Complaints,PWDx,PWDx_District 04: Allston/Brighton,2
+Egress,PWDx,PWDx_Contractor Complaints,2
+Egress,PWDx,PWDx_Sidewalk Repair,2
+Empty Litter Basket,PWDx,PWDx_Graffiti,2
+Empty Litter Basket,PWDx,PWDx_Highway Construction,2
+Equipment Repair,PWDx,PWDx_District 1C: Downtown,2
+Equipment Repair,PWDx,PWDx_Graffiti,2
+Equipment Repair,PWDx,PWDx_Street Light Knock Downs,2
+General Comments For An Employee,PWDx,PWDx_District 04: Allston/Brighton,2
+General Comments For An Employee,PWDx,PWDx_District 06: West Roxbury and Roslindale,2
+General Comments For An Employee,PWDx,PWDx_District 07: South Dorchester,2
+General Comments For An Employee,PWDx,PWDx_District 09: East Boston,2
+General Comments For An Employee,PWDx,PWDx_District 1C: Downtown,2
+General Comments For An Employee,PWDx,PWDx_Sidewalk Repair,2
+General Comments For a Program or Policy,PWDx,PWDx_District 10B: Roxbury,2
+General Comments For a Program or Policy,PWDx,PWDx_Engineering_PIC,2
+General Comments For a Program or Policy,PWDx,PWDx_Roadway Repair_Reconstruction,2
+General Lighting Request,PWDx,PWDx_Highway Construction,2
+General Lighting Request,PWDx,PWDx_Street Light Knock Downs,2
+General Traffic Engineering Request,PWDx,PWDx_Contractor Complaints,2
+General Traffic Engineering Request,PWDx,PWDx_Engineering_Design,2
+General Traffic Engineering Request,PWDx,PWDx_Engineering_PIC,2
+General Traffic Engineering Request,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,2
+Graffiti Removal,PWDx,PWDx_District 1A: Charlestown,2
+Graffiti Removal,PWDx,PWDx_District 1C: Downtown,2
+Graffiti Removal,PWDx,PWDx_Litter Basket Maintenance,2
+Graffiti Removal,PWDx,PWDx_Street Light_General Lighting Request,2
+Ground Maintenance,PWDx,PWDx_District 02: Jamaica Plain,2
+Ground Maintenance,PWDx,PWDx_Engineering_PIC,2
+Ground Maintenance,PWDx,PWDx_Litter Basket Maintenance,2
+Improper Storage of Trash (Barrels),PWDx,PWDx_Bridge Maintenance,2
+Improper Storage of Trash (Barrels),PWDx,PWDx_Contractor Complaints,2
+Install New Lighting,PWDx,PWDx_Street Light Knockdown Replacement,2
+Install New Lighting,PWDx,PWDx_Street Light Outages,2
+Knockdown Replacement,PWDx,PWDx_Street Light_General Lighting Request,2
+Litter Basket Maintenance,PWDx,PWDx_Code Enforcement,2
+Litter Basket Maintenance,PWDx,PWDx_District 03: North Dorchester,2
+Litter Basket Maintenance,PWDx,PWDx_District 07: South Dorchester,2
+Litter Basket Maintenance,PWDx,PWDx_District 09: East Boston,2
+Maintenance - Homeowner,PWDx,PWDx_Code Enforcement,2
+Major System Failure,PWDx,PWDx_Street Light Outages - Long-Term Repair,2
+Needle Pickup,PWDx,PWDx_Code Enforcement,2
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_District 08: Hyde Park,2
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_Sidewalk Repair,2
+New Tree Requests,PWDx,PWDx_Highway Construction,2
+No-Tow Complaint Confirmation,PWDx,PWDx_District 06: West Roxbury and Roslindale,2
+Parks General Request,PWDx,PWDx_District 07: South Dorchester,2
+Pavement Marking Inspection,PWDx,PWDx_Contractor Complaints,2
+Pest Infestation - Residential,PWDx,PWDx_District 09: East Boston,2
+Poor Conditions of Property,PWDx,PWDx_Bridge Maintenance,2
+Public Works General Request,PWDx,PWDx_Request for Street Cleaning,2
+Public Works General Request,PWDx,PWDx_Space Saver Removal,2
+Public Works General Request,PWDx,PWDx_Street Light Outages,2
+Public Works General Request,PWDx,PWDx_Street Light Outages - Long-Term Repair,2
+Request for Pothole Repair,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,2
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 1B: North End,2
+Requests for Street Cleaning,PWDx,PWDx_Pick Up Dead Animals,2
+Requests for Street Cleaning,PWDx,PWDx_Roadway Repair,2
+Requests for Street Cleaning,PWDx,PWDx_STRL Pole Compliance,2
+Requests for Street Cleaning,PWDx,PWDx_Sticker Request,2
+Roadway Repair,PWDx,PWDx_Bridge Maintenance,2
+Rodent Activity,PWDx,PWDx_Graffiti,2
+Rodent Activity,PWDx,PWDx_Street Light Outages,2
+Schedule a Bulk Item Pickup,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,2
+Sidewalk Cover / Manhole,PWDx,PWDx_Street Light_General Lighting Request,2
+Sidewalk Cover / Manhole,PWDx,PWDx_Utility Casting Repair,2
+Sidewalk Repair (Make Safe),PWDx,PWDx_Roadway Repair_CRP_Resurfacing,2
+Sidewalk Repair (Make Safe),PWDx,PWDx_STRL Pole Compliance,2
+Sign Repair,PWDx,PWDx_District 05: South Boston,2
+Sign Repair,PWDx,PWDx_District 06: West Roxbury and Roslindale,2
+Sign Repair,PWDx,PWDx_District 08: Hyde Park,2
+Sign Repair,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,2
+Space Savers,PWDx,PWDx_Code Enforcement,2
+Street Light Knock Downs,PWDx,PWDx_Street Light Outages,2
+StreetLight Pole WO,PWDx,PWDx_District 1C: Downtown,2
+Student Move-in Issues,PWDx,PWDx_District 04: Allston/Brighton,2
+Student Move-in Issues,PWDx,PWDx_District 10A: Roxbury,2
+Student Move-in Issues,PWDx,PWDx_District 10B: Roxbury,2
+Student Move-in Issues,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,2
+Traffic Signal Inspection,PWDx,PWDx_District 1C: Downtown,2
+Traffic Signal Repair,PWDx,PWDx_District 03: North Dorchester,2
+Traffic Signal Repair,PWDx,PWDx_District 09: East Boston,2
+Traffic Signal Repair,PWDx,PWDx_Graffiti,2
+Traffic Signal Repair,PWDx,PWDx_Street Light_General Lighting Request,2
+Transportation General Request,PWDx,PWDx_Sidewalk Repair,2
+Trash on Vacant Lot,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,2
+Tree Maintenance Requests,PWDx,PWDx_Contractor Complaints,2
+Tree Maintenance Requests,PWDx,PWDx_District 04: Allston/Brighton,2
+Tree Maintenance Requests,PWDx,PWDx_District 10B: Roxbury,2
+Tree Maintenance Requests,PWDx,PWDx_District 1C: Downtown,2
+Tree Maintenance Requests,PWDx,PWDx_Street Light_General Lighting Request,2
+Unsafe Dangerous Conditions,PWDx,PWDx_Contractor Complaints,2
+Unshoveled Sidewalk,PWDx,PWDx_District 03: North Dorchester,2
+Upgrade Existing Lighting,PWDx,PWDx_Street Light Knockdown Replacement,2
+Abandoned Bicycle,PWDx,PWDx_Code Enforcement,1
+Abandoned Bicycle,PWDx,PWDx_District 03: North Dorchester,1
+Abandoned Bicycle,PWDx,PWDx_District 04: Allston/Brighton,1
+Abandoned Bicycle,PWDx,PWDx_District 07: South Dorchester,1
+Abandoned Bicycle,PWDx,PWDx_District 09: East Boston,1
+Abandoned Bicycle,PWDx,PWDx_District 10B: Roxbury,1
+Abandoned Bicycle,PWDx,PWDx_District 1A: Charlestown,1
+Abandoned Bicycle,PWDx,PWDx_Graffiti,1
+Abandoned Vehicles,PWDx,PWDx_District 08: Hyde Park,1
+Abandoned Vehicles,PWDx,PWDx_District 09: East Boston,1
+Abandoned Vehicles,PWDx,PWDx_Street Light Outages,1
+Animal Generic Request,PWDx,PWDx_Code Enforcement,1
+Animal Generic Request,PWDx,PWDx_District 03: North Dorchester,1
+Animal Generic Request,PWDx,PWDx_District 09: East Boston,1
+BWSC General Request,PWDx,PWDx_Contractor Complaints,1
+CE Collection,PWDx,PWDx_Recycling,1
+CE Collection,PWDx,PWDx_Recycling Cart Return,1
+Catchbasin,PWDx,PWDx_District 02: Jamaica Plain,1
+City/State Snow Issues,PWDx,PWDx_District 06: West Roxbury and Roslindale,1
+Construction Debris,PWDx,PWDx_Sidewalk Repair,1
+Contractor Complaints,PWDx,PWDx_Bridge Maintenance,1
+Contractor Complaints,PWDx,PWDx_District 07: South Dorchester,1
+Contractor Complaints,PWDx,PWDx_District 09: East Boston,1
+Contractor Complaints,PWDx,PWDx_District 1C: Downtown,1
+Contractor Complaints,PWDx,PWDx_Engineering_PIC,1
+Contractor Complaints,PWDx,PWDx_Highway Construction,1
+Contractor Complaints,PWDx,PWDx_STRL Pole Compliance,1
+Contractor Complaints,PWDx,PWDx_Street Light_General Lighting Request,1
+Contractors Complaint,PWDx,PWDx_District 09: East Boston,1
+Contractors Complaint,PWDx,PWDx_Space Saver Removal,1
+Egress,PWDx,PWDx_Code Enforcement,1
+Empty Litter Basket,PWDx,PWDx_Sidewalk Repair,1
+Equipment Repair,PWDx,PWDx_Bridge Maintenance,1
+Equipment Repair,PWDx,PWDx_Contractor Complaints,1
+Equipment Repair,PWDx,PWDx_District 03: North Dorchester,1
+Equipment Repair,PWDx,PWDx_District 07: South Dorchester,1
+Equipment Repair,PWDx,PWDx_District 08: Hyde Park,1
+Equipment Repair,PWDx,PWDx_Engineering_PIC,1
+Equipment Repair,PWDx,PWDx_Highway Construction General,1
+Equipment Repair,PWDx,PWDx_Recycling,1
+Equipment Repair,PWDx,PWDx_STRL Pole Compliance,1
+Equipment Repair,PWDx,PWDx_Street Light Knockdown Replacement,1
+General Comments For An Employee,PWDx,PWDx_District 02: Jamaica Plain,1
+General Comments For An Employee,PWDx,PWDx_District 05: South Boston,1
+General Comments For An Employee,PWDx,PWDx_Empty Litter Basket,1
+General Comments For An Employee,PWDx,PWDx_Engineering_PIC,1
+General Comments For An Employee,PWDx,PWDx_Recycling,1
+General Comments For An Employee,PWDx,PWDx_Roadway Repair,1
+General Comments For An Employee,PWDx,PWDx_Roadway Repair_Reconstruction,1
+General Comments For a Program or Policy,PWDx,PWDx_District 05: South Boston,1
+General Comments For a Program or Policy,PWDx,PWDx_Empty Litter Basket,1
+General Comments For a Program or Policy,PWDx,PWDx_Highway Construction General,1
+General Comments For a Program or Policy,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,1
+General Comments For a Program or Policy,PWDx,PWDx_Roadway Repair_Ponding,1
+General Comments For a Program or Policy,PWDx,PWDx_Snow Cases,1
+General Comments For a Program or Policy,PWDx,PWDx_Space Saver Removal,1
+General Comments For a Program or Policy,PWDx,PWDx_Street Light Outages,1
+General Lighting Request,PWDx,PWDx_Bridge Maintenance,1
+General Lighting Request,PWDx,PWDx_District 10B: Roxbury,1
+General Lighting Request,PWDx,PWDx_Roadway Repair_Reconstruction,1
+General Lighting Request,PWDx,PWDx_Street Light_Pickup_Clear Conduit,1
+General Traffic Engineering Request,PWDx,PWDx_Highway Construction,1
+General Traffic Engineering Request,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,1
+General Traffic Engineering Request,PWDx,PWDx_Street Light_General Lighting Request,1
+Graffiti Removal,PWDx,PWDx_Code Enforcement,1
+Graffiti Removal,PWDx,PWDx_Highway Construction General,1
+Graffiti Removal,PWDx,PWDx_News Boxes,1
+Ground Maintenance,PWDx,PWDx_Bridge Maintenance,1
+Ground Maintenance,PWDx,PWDx_Contractor Complaints,1
+Ground Maintenance,PWDx,PWDx_District 05: South Boston,1
+Ground Maintenance,PWDx,PWDx_District 06: West Roxbury and Roslindale,1
+Ground Maintenance,PWDx,PWDx_District 07: South Dorchester,1
+Ground Maintenance,PWDx,PWDx_District 1B: North End,1
+Ground Maintenance,PWDx,PWDx_District 1C: Downtown,1
+Ground Maintenance,PWDx,PWDx_Highway Construction,1
+Ground Maintenance,PWDx,PWDx_Recycling Sent to Contractor,1
+Ground Maintenance,PWDx,PWDx_Request for Street Cleaning,1
+Ground Maintenance,PWDx,PWDx_Sidewalk Repair,1
+Ground Maintenance,PWDx,PWDx_Street Light_General Lighting Request,1
+Illegal Auto Body Shop,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,1
+Illegal Dumping,PWDx,PWDx_Contractor Complaints,1
+Illegal Dumping,PWDx,PWDx_Request for Litter Basket Installation,1
+Illegal Posting of Signs,PWDx,PWDx_District 06: West Roxbury and Roslindale,1
+Illegal Posting of Signs,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Illegal Posting of Signs,PWDx,PWDx_STRL Pole Compliance,1
+Illegal Rooming House,PWDx,PWDx_Code Enforcement,1
+Improper Storage of Trash (Barrels),PWDx,PWDx_Recycling,1
+Improper Storage of Trash (Barrels),PWDx,PWDx_Request for Litter Basket Installation,1
+Improper Storage of Trash (Barrels),PWDx,PWDx_STRL Pole Compliance,1
+Improper Storage of Trash (Barrels),PWDx,PWDx_Sidewalk Repair,1
+Improper Storage of Trash (Barrels),PWDx,PWDx_Space Saver Removal,1
+Improper Storage of Trash (Barrels),PWDx,PWDx_Street Light Outages,1
+Knockdown Replacement,PWDx,PWDx_STRL Pole Compliance,1
+Litter Basket Maintenance,PWDx,PWDx_District 04: Allston/Brighton,1
+Litter Basket Maintenance,PWDx,PWDx_District 08: Hyde Park,1
+Litter Basket Maintenance,PWDx,PWDx_District 1B: North End,1
+Maintenance - Homeowner,PWDx,PWDx_Contractor Complaints,1
+Maintenance - Homeowner,PWDx,PWDx_Sidewalk Repair,1
+Maintenance Complaint - Residential,PWDx,PWDx_District 07: South Dorchester,1
+Mice Infestation - Residential,PWDx,PWDx_Code Enforcement,1
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_District 09: East Boston,1
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_District 10A: Roxbury,1
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_District 1B: North End,1
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_WM_Mattress_Pickup,1
+Mosquitoes (West Nile),PWDx,PWDx_Code Enforcement,1
+Municipal Parking Lot Complaints,PWDx,PWDx_Street Light_Upgrade Existing Lighting,1
+Needle Pickup,PWDx,PWDx_District 03: North Dorchester,1
+Needle Pickup,PWDx,PWDx_District 05: South Boston,1
+Needle Pickup,PWDx,PWDx_District 09: East Boston,1
+Needle Pickup,PWDx,PWDx_District 1A: Charlestown,1
+Needle Pickup,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_District 04: Allston/Brighton,1
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_District 07: South Dorchester,1
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_Roadway Repair,1
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_Roadway Repair_Reconstruction,1
+New Sign  Crosswalk or Pavement Marking,PWDx,PWDx_Street Light_Upgrade Existing Lighting,1
+New Tree Requests,PWDx,PWDx_District 07: South Dorchester,1
+Occupying W/Out A Valid CO/CI,PWDx,PWDx_Code Enforcement,1
+Overflowing or Un-kept Dumpster,PWDx,PWDx_Empty Litter Basket,1
+PWD Graffiti,PWDx,PWDx_News Boxes,1
+PWD Graffiti,PWDx,PWDx_Street Light Knock Downs,1
+PWD Graffiti,PWDx,PWDx_Street Light Outages,1
+Park Improvement Requests,PWDx,PWDx_Code Enforcement,1
+Park Improvement Requests,PWDx,PWDx_Highway Construction,1
+Parking Enforcement,PWDx,PWDx_District 02: Jamaica Plain,1
+Parking Enforcement,PWDx,PWDx_District 03: North Dorchester,1
+Parking Enforcement,PWDx,PWDx_District 04: Allston/Brighton,1
+Parking Enforcement,PWDx,PWDx_District 05: South Boston,1
+Parking Enforcement,PWDx,PWDx_Highway Construction,1
+Parking Enforcement,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1
+Parking Enforcement,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Parking Enforcement,PWDx,PWDx_Street Light_General Lighting Request,1
+Parks General Request,PWDx,PWDx_District 08: Hyde Park,1
+Parks General Request,PWDx,PWDx_District 10B: Roxbury,1
+Parks General Request,PWDx,PWDx_District 1A: Charlestown,1
+Parks General Request,PWDx,PWDx_Empty Litter Basket,1
+Parks Lighting/Electrical Issues,PWDx,PWDx_District 02: Jamaica Plain,1
+Parks Lighting/Electrical Issues,PWDx,PWDx_Major System Failure,1
+Parks Lighting/Electrical Issues,PWDx,PWDx_Street Light Outages - Long-Term Repair,1
+Pavement Marking Inspection,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,1
+Pavement Marking Inspection,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Pest Infestation - Residential,PWDx,PWDx_District 08: Hyde Park,1
+Pest Infestation - Residential,PWDx,PWDx_Pick Up Dead Animals,1
+Pest Infestation - Residential,PWDx,PWDx_Recycling,1
+Pick up Dead Animal,PWDx,PWDx_Bridge Maintenance,1
+Pick up Dead Animal,PWDx,PWDx_Highway Construction,1
+Pick up Dead Animal,PWDx,PWDx_Sidewalk Repair,1
+Pick up Dead Animal,PWDx,PWDx_Street Light_General Lighting Request,1
+Pigeon Infestation,PWDx,PWDx_Bridge Maintenance,1
+Pigeon Infestation,PWDx,PWDx_District 09: East Boston,1
+Pigeon Infestation,PWDx,PWDx_Graffiti,1
+Pigeon Infestation,PWDx,PWDx_Highway Construction,1
+Pole Compliance,PWDx,PWDx_Street Light Knock Downs,1
+Poor Conditions of Property,PWDx,PWDx_Contractor Complaints,1
+Poor Conditions of Property,PWDx,PWDx_District 10B: Roxbury,1
+Poor Conditions of Property,PWDx,PWDx_District 1A: Charlestown,1
+Poor Conditions of Property,PWDx,PWDx_District 1B: North End,1
+Poor Conditions of Property,PWDx,PWDx_Empty Litter Basket,1
+Poor Conditions of Property,PWDx,PWDx_Recycling,1
+Poor Conditions of Property,PWDx,PWDx_Recycling Sent to Contractor,1
+Poor Conditions of Property,PWDx,PWDx_Request for Litter Basket Installation,1
+Poor Conditions of Property,PWDx,PWDx_Schedule a Bulk Item Pickup,1
+Public Works General Request,PWDx,PWDx_Highway Construction General,1
+Public Works General Request,PWDx,PWDx_Recycling Cart Return,1
+Public Works General Request,PWDx,PWDx_Recycling Sent to Contractor,1
+Public Works General Request,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Public Works General Request,PWDx,PWDx_Snow Cases,1
+Public Works General Request,PWDx,PWDx_Street Light Knock Downs,1
+Public Works General Request,PWDx,PWDx_WM_Mattress_Pickup,1
+Public Works General Request,PWDx,PWDx_Work Hours-Loud Noise Complaints,1
+Recycling Cart Return,PWDx,PWDx_District 09: East Boston,1
+Request for Litter Basket Installation,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1
+Request for Pothole Repair,PWDx,PWDx_Request for Street Cleaning,1
+Request for Pothole Repair,PWDx,PWDx_STRL Pole Compliance,1
+Request for Pothole Repair,PWDx,PWDx_Street Light Outages,1
+Request for Snow Plowing,PWDx,PWDx_Bridge Maintenance,1
+Request for Snow Plowing,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 04: Allston/Brighton,1
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 06: West Roxbury and Roslindale,1
+Request for Snow Plowing (Emergency Responder),PWDx,PWDx_District 09: East Boston,1
+Requests for Street Cleaning,PWDx,PWDx_Highway Construction General,1
+Requests for Street Cleaning,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Requests for Street Cleaning,PWDx,PWDx_Snow Cases,1
+Requests for Traffic Signal Studies or Reviews,PWDx,PWDx_Request for Street Cleaning,1
+Requests for Traffic Signal Studies or Reviews,PWDx,PWDx_Roadway Repair,1
+Requests for Traffic Signal Studies or Reviews,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Roadway Repair,PWDx,PWDx_District 03: North Dorchester,1
+Roadway Repair,PWDx,PWDx_District 09: East Boston,1
+Roadway Repair,PWDx,PWDx_District 10A: Roxbury,1
+Roadway Repair,PWDx,PWDx_District 10B: Roxbury,1
+Roadway Repair,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Rodent Activity,PWDx,PWDx_Empty Litter Basket,1
+Rodent Activity,PWDx,PWDx_Litter Basket Maintenance,1
+Rodent Activity,PWDx,PWDx_Pick Up Dead Animals,1
+Rodent Activity,PWDx,PWDx_Recycling Cart Return,1
+Rodent Activity,PWDx,PWDx_Street Light_General Lighting Request,1
+Rodent Activity,PWDx,PWDx_Utility Casting Repair,1
+Short Term Rental,PWDx,PWDx_Highway Construction,1
+Short Term Rental,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1
+Short Term Rental,PWDx,PWDx_Sidewalk Repair,1
+Sidewalk Cover / Manhole,PWDx,PWDx_Code Enforcement,1
+Sidewalk Cover / Manhole,PWDx,PWDx_Contractor Complaints,1
+Sidewalk Cover / Manhole,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,1
+Sidewalk Cover / Manhole,PWDx,PWDx_Sidewalk Repair,1
+Sidewalk Repair,PWDx,PWDx_Contractor Complaints,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Litter Basket Maintenance,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Request for Street Cleaning,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Snow Cases,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Street Light Knock Downs,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Street Light Outages - Gas,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Street Light Outages - Long-Term Repair,1
+Sidewalk Repair (Make Safe),PWDx,PWDx_Street Light_Install New Lighting,1
+Sign Repair,PWDx,PWDx_Bridge Maintenance,1
+Sign Repair,PWDx,PWDx_District 03: North Dorchester,1
+Sign Repair,PWDx,PWDx_District 09: East Boston,1
+Sign Repair,PWDx,PWDx_District 10A: Roxbury,1
+Sign Repair,PWDx,PWDx_District 10B: Roxbury,1
+Sign Repair,PWDx,PWDx_District 1C: Downtown,1
+Sign Repair,PWDx,PWDx_Engineering_Design,1
+Sign Repair,PWDx,PWDx_Graffiti,1
+Sign Repair,PWDx,PWDx_Highway Construction General,1
+Sign Repair,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1
+Sign Repair,PWDx,PWDx_Roadway Repair_CRP_Resurfacing,1
+Sign Repair,PWDx,PWDx_STRL Pole Compliance,1
+Snow/Ice Control,PWDx,PWDx_District 03: North Dorchester,1
+Snow/Ice Control,PWDx,PWDx_District 09: East Boston,1
+Space Savers,PWDx,PWDx_Request for Street Cleaning,1
+Space Savers,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,1
+Space Savers,PWDx,PWDx_Roadway Repair_Reconstruction,1
+Street Light Knock Downs,PWDx,PWDx_Major System Failure,1
+Street Light Knock Downs,PWDx,PWDx_Street Light_Install New Lighting,1
+Street Light Outages,PWDx,PWDx_Bridge Maintenance,1
+Street Light Outages,PWDx,PWDx_District 1C: Downtown,1
+Street Light Outages,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,1
+Street Light Outages,PWDx,PWDx_Roadway Repair,1
+Street Light Outages,PWDx,PWDx_Sidewalk Repair (Make Safe),1
+Street Light Outages,PWDx,PWDx_Street Light_Antenna Pole,1
+StreetLight Pole WO,PWDx,PWDx_District 02: Jamaica Plain,1
+StreetLight Pole WO,PWDx,PWDx_District 03: North Dorchester,1
+StreetLight Pole WO,PWDx,PWDx_District 05: South Boston,1
+StreetLight Pole WO,PWDx,PWDx_District 10A: Roxbury,1
+StreetLight Pole WO,PWDx,PWDx_District 1A: Charlestown,1
+StreetLight Pole WO,PWDx,PWDx_Street Light Knockdown Replacement,1
+StreetLight Pole WO,PWDx,PWDx_Street Light Outages - Gas,1
+StreetLight Pole WO,PWDx,PWDx_Street Light Outages - Long-Term Repair,1
+Student Move-in Issues,PWDx,PWDx_District 1B: North End,1
+Student Move-in Issues,PWDx,PWDx_Sidewalk Repair,1
+Student Move-in Issues,PWDx,PWDx_WM_Mattress_Pickup,1
+Traffic Signal Inspection,PWDx,PWDx_Code Enforcement,1
+Traffic Signal Inspection,PWDx,PWDx_District 03: North Dorchester,1
+Traffic Signal Inspection,PWDx,PWDx_Highway Construction,1
+Traffic Signal Inspection,PWDx,PWDx_Highway Construction General,1
+Traffic Signal Inspection,PWDx,PWDx_Sidewalk Repair,1
+Traffic Signal Inspection,PWDx,PWDx_Street Light Knockdown Replacement,1
+Traffic Signal Inspection,PWDx,PWDx_Utility Call-In,1
+Traffic Signal Inspection,PWDx,PWDx_Work Hours-Loud Noise Complaints,1
+Traffic Signal Repair,PWDx,PWDx_District 04: Allston/Brighton,1
+Traffic Signal Repair,PWDx,PWDx_District 05: South Boston,1
+Traffic Signal Repair,PWDx,PWDx_District 1B: North End,1
+Traffic Signal Repair,PWDx,PWDx_Litter Basket Maintenance,1
+Transportation General Request,PWDx,PWDx_District 06: West Roxbury and Roslindale,1
+Transportation General Request,PWDx,PWDx_District 07: South Dorchester,1
+Transportation General Request,PWDx,PWDx_Engineering_Design,1
+Transportation General Request,PWDx,PWDx_Roadway Repair_ARP_Resurfacing,1
+Transportation General Request,PWDx,PWDx_Street Light_General Lighting Request,1
+Trash on Vacant Lot,PWDx,PWDx_District 03: North Dorchester,1
+Trash on Vacant Lot,PWDx,PWDx_District 08: Hyde Park,1
+Trash on Vacant Lot,PWDx,PWDx_Sidewalk Repair,1
+Tree Emergencies,PWDx,PWDx_Sidewalk Repair,1
+Tree Maintenance Requests,PWDx,PWDx_Bridge Maintenance,1
+Tree Maintenance Requests,PWDx,PWDx_District 02: Jamaica Plain,1
+Tree Maintenance Requests,PWDx,PWDx_District 03: North Dorchester,1
+Tree Maintenance Requests,PWDx,PWDx_District 08: Hyde Park,1
+Tree Maintenance Requests,PWDx,PWDx_Highway Construction,1
+Unsafe Dangerous Conditions,PWDx,PWDx_Graffiti,1
+Unsafe Dangerous Conditions,PWDx,PWDx_Highway Construction,1
+Unsatisfactory Living Conditions,PWDx,PWDx_District 05: South Boston,1
+Unsatisfactory Living Conditions,PWDx,PWDx_District 09: East Boston,1
+Unsatisfactory Living Conditions,PWDx,PWDx_District 10A: Roxbury,1
+Unshoveled Sidewalk,PWDx,PWDx_District 07: South Dorchester,1
+Unshoveled Sidewalk,PWDx,PWDx_District 08: Hyde Park,1
+Unshoveled Sidewalk,PWDx,PWDx_District 09: East Boston,1
+Unshoveled Sidewalk,PWDx,PWDx_District 10B: Roxbury,1
+Unshoveled Sidewalk,PWDx,PWDx_Sidewalk Repair,1
+Unshoveled Sidewalk,PWDx,PWDx_Snow Removal,1
+Upgrade Existing Lighting,PWDx,PWDx_Highway Construction,1
+Utility Casting Repair,PWDx,PWDx_District 09: East Boston,1
+Utility Casting Repair,PWDx,PWDx_District 1B: North End,1
+Utility Casting Repair,PWDx,PWDx_Street Light_General Lighting Request,1
+Work Hours-Loud Noise Complaints,PWDx,PWDx_Contractor Complaints,1
+Work Hours-Loud Noise Complaints,PWDx,PWDx_Engineering_PIC,1
+Work w/out Permit,PWDx,PWDx_Sidewalk Repair,1
+Working Beyond Hours,PWDx,PWDx_Work Hours-Loud Noise Complaints,1
+Zoning,PWDx,PWDx_Code Enforcement,1
