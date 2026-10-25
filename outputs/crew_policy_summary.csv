@@ -1,0 +1,13 @@
+policy,department,annual_demand,completed_requests,year_end_backlog,peak_month_end_backlog,annual_staffing_cost,permanent_hires,permanent_releases,seasonal_crew_months
+fixed,BTDT,81447,67990,13457,13469,1980000.0,0,0,0
+fixed,ISD,18624,16128,2496,2719,2240000.0,0,0,0
+fixed,PARK,18736,14322,4414,5270,1200000.0,0,0,0
+fixed,PWDx,157610,151132,6478,11365,6500000.000000002,0,0,0
+hire_and_hold,BTDT,81447,81447,0,0,2621666.6666666665,7,0,0
+hire_and_hold,ISD,18624,18624,0,147,3114999.9999999995,9,0,0
+hire_and_hold,PARK,18736,18736,0,0,1817000.0,1,0,39
+hire_and_hold,PWDx,157610,157610,0,982,7821666.666666667,16,0,0
+isd_release,BTDT,81447,81447,0,0,2621666.6666666665,7,0,0
+isd_release,ISD,18624,18624,0,147,3079999.9999999995,9,3,0
+isd_release,PARK,18736,18736,0,0,1817000.0,1,0,39
+isd_release,PWDx,157610,157610,0,982,7821666.666666667,16,0,0
