@@ -73,6 +73,9 @@ Uses prompt engineering and structured output to classify messages into 16 reque
 OPENAI_API_KEY=your_actual_api_key_here
 
 # Model used by the GenAI intake notebook.
+OPENAI_MODEL=gpt-4.1-mini
+
+# Model used by notebook 04.
 DEFAULT_CHAT_MODEL=gpt-5-mini
 ```
 
