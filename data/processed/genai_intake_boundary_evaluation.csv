@@ -1,0 +1,9 @@
+category,resident_message,expected_status,expected_type,predicted_type,predicted_status,clarification_question,completed,correct,error_type,error_message,model
+typo,There is a deep pothloe in the road outside my house.,classified,Request for Pothole Repair,Request for Pothole Repair,classified,,True,True,,,gpt-5-mini
+typo,The trafic light at the intersection is broken.,classified,Traffic Signal Inspection,Traffic Signal Inspection,classified,,True,True,,,gpt-5-mini
+ambiguous,There is a problem with the tree outside. Can you help?,needs_clarification,,,needs_clarification,"What is the tree's location (address) and what specifically is the problem—dead/diseased, leaning/unsafe, roots damaging the sidewalk, obstructing the sidewalk/street, or are you requesting a new tree?",True,True,,,gpt-5-mini
+ambiguous,"I need something collected from my home, but I have not said what it is.",needs_clarification,,,needs_clarification,"What specific item(s) need to be collected from your home (for example: mattress, furniture, appliance, or other)?",True,True,,,gpt-5-mini
+unsupported,Please renew my passport.,unsupported,,,unsupported,,True,True,,,gpt-5-mini
+unsupported,Please repair the broken streetlight outside my house.,unsupported,,Equipment Repair,classified,,True,False,,,gpt-5-mini
+multi_issue,I need to report both a pothole and rats in the alley. Neither is my main concern; please handle both.,needs_clarification,,,needs_clarification,Which issue should we prioritize — the pothole or the rats (rodent activity)?,True,True,,,gpt-5-mini
+multi_issue,I need a new street tree and a mattress pickup. Both are separate requests and equally important.,needs_clarification,,,needs_clarification,Which should I submit first for you: a New Tree Request or a Mattress Pickup?,True,True,,,gpt-5-mini
