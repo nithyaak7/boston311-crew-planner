@@ -1,33 +1,33 @@
-resident_message,expected_type,predicted_type,correct
-Someone left an old car outside our building and it hasn't moved for weeks.,Abandoned Vehicles,Abandoned Vehicles,True
-There is a vehicle with flat tires that has been sitting on our street for a long time.,Abandoned Vehicles,Abandoned Vehicles,True
-The playground equipment in our neighborhood park is broken.,Equipment Repair,Equipment Repair,True
-A bench in the city park is damaged and needs to be fixed.,Equipment Repair,Equipment Repair,True
-The grass in the public park is extremely overgrown.,Ground Maintenance,Ground Maintenance,True
-The park grounds need maintenance because weeds are taking over the area.,Ground Maintenance,Ground Maintenance,True
-There has been no heat in my apartment since yesterday.,Heat - Excessive Insufficient,Heat - Excessive Insufficient,True
-My apartment is freezing because the landlord has not provided enough heat.,Heat - Excessive Insufficient,Heat - Excessive Insufficient,True
-I need the city to collect an old mattress from my home.,Mattress_Pickup,Mattress_Pickup,True
-How can I get rid of a mattress that I no longer need?,Mattress_Pickup,Mattress_Pickup,True
-"Our trash was supposed to be collected yesterday, but it is still outside.",Missed Trash/Recycling/Yard Waste/Bulk Item,Missed Trash/Recycling/Yard Waste/Bulk Item,True
-The recycling truck skipped our house this morning.,Missed Trash/Recycling/Yard Waste/Bulk Item,Missed Trash/Recycling/Yard Waste/Bulk Item,True
-Could the city plant a new tree on our street?,New Tree Requests,New Tree Requests,True
-There are no street trees on our block and I would like to request one.,New Tree Requests,New Tree Requests,True
-A car is blocking my driveway and I cannot get out.,Parking Enforcement,Parking Enforcement,True
-Someone has parked illegally in front of a fire hydrant.,Parking Enforcement,Parking Enforcement,True
-My apartment has a serious cockroach infestation.,Pest Infestation - Residential,Pest Infestation - Residential,True
-There are insects all over my rental apartment and the landlord has not fixed the problem.,Pest Infestation - Residential,Pest Infestation - Residential,True
-There is a deep hole in the road that could damage cars.,Request for Pothole Repair,Request for Pothole Repair,True
-The pavement has broken apart in the middle of our street and needs repair.,Request for Pothole Repair,Request for Pothole Repair,True
-I keep seeing rats near the garbage area behind my building.,Rodent Activity,Rodent Activity,True
-There are several rats running around the alley every night.,Rodent Activity,Rodent Activity,True
-I have an old sofa that I need the city to collect.,Schedule a Bulk Item Pickup,Schedule a Bulk Item Pickup,True
-I need to arrange collection of a large piece of furniture from my house.,Schedule a Bulk Item Pickup,Schedule a Bulk Item Pickup,True
-The stop sign at the corner is bent and almost falling down.,Sign Repair,Sign Repair,True
-A street sign has been damaged and is difficult to read.,Sign Repair,Sign Repair,True
-The traffic light at the intersection stays red and never changes.,Traffic Signal Inspection,Traffic Signal Inspection,True
-One of the pedestrian crossing signals is not working.,Traffic Signal Inspection,Traffic Signal Inspection,True
-A large branch from a city tree is hanging over the sidewalk.,Tree Maintenance Requests,Tree Maintenance Requests,True
-The street tree in front of my house has dead branches that need trimming.,Tree Maintenance Requests,Tree Maintenance Requests,True
-There is mold and water damage throughout my rented apartment.,Unsatisfactory Living Conditions,Unsatisfactory Living Conditions,True
-My apartment has serious maintenance problems and does not feel safe to live in.,Unsatisfactory Living Conditions,Unsatisfactory Living Conditions,True
+resident_message,expected_type,expected_status,predicted_type,predicted_status,clarification_question,completed,correct,error_type,error_message,model
+Someone left an old car outside our building and it hasn't moved for weeks.,Abandoned Vehicles,classified,Abandoned Vehicles,classified,,True,True,,,gpt-4.1-mini
+There is a vehicle with flat tires that has been sitting on our street for a long time.,Abandoned Vehicles,classified,Abandoned Vehicles,classified,,True,True,,,gpt-4.1-mini
+The playground equipment in our neighborhood park is broken.,Equipment Repair,classified,Equipment Repair,classified,,True,True,,,gpt-4.1-mini
+A bench in the city park is damaged and needs to be fixed.,Equipment Repair,classified,,unsupported,,True,False,,,gpt-4.1-mini
+The grass in the public park is extremely overgrown.,Ground Maintenance,classified,Ground Maintenance,classified,,True,True,,,gpt-4.1-mini
+The park grounds need maintenance because weeds are taking over the area.,Ground Maintenance,classified,Ground Maintenance,classified,,True,True,,,gpt-4.1-mini
+There has been no heat in my apartment since yesterday.,Heat - Excessive Insufficient,classified,Heat - Excessive Insufficient,classified,,True,True,,,gpt-4.1-mini
+My apartment is freezing because the landlord has not provided enough heat.,Heat - Excessive Insufficient,classified,Heat - Excessive Insufficient,classified,,True,True,,,gpt-4.1-mini
+I need the city to collect an old mattress from my home.,Mattress_Pickup,classified,Mattress_Pickup,classified,,True,True,,,gpt-4.1-mini
+How can I get rid of a mattress that I no longer need?,Mattress_Pickup,classified,Mattress_Pickup,classified,,True,True,,,gpt-4.1-mini
+"Our trash was supposed to be collected yesterday, but it is still outside.",Missed Trash/Recycling/Yard Waste/Bulk Item,classified,Missed Trash/Recycling/Yard Waste/Bulk Item,classified,,True,True,,,gpt-4.1-mini
+The recycling truck skipped our house this morning.,Missed Trash/Recycling/Yard Waste/Bulk Item,classified,Missed Trash/Recycling/Yard Waste/Bulk Item,classified,,True,True,,,gpt-4.1-mini
+Could the city plant a new tree on our street?,New Tree Requests,classified,New Tree Requests,classified,,True,True,,,gpt-4.1-mini
+There are no street trees on our block and I would like to request one.,New Tree Requests,classified,New Tree Requests,classified,,True,True,,,gpt-4.1-mini
+A car is blocking my driveway and I cannot get out.,Parking Enforcement,classified,Abandoned Vehicles,classified,,True,False,,,gpt-4.1-mini
+Someone has parked illegally in front of a fire hydrant.,Parking Enforcement,classified,Parking Enforcement,classified,,True,True,,,gpt-4.1-mini
+My apartment has a serious cockroach infestation.,Pest Infestation - Residential,classified,Pest Infestation - Residential,classified,,True,True,,,gpt-4.1-mini
+There are insects all over my rental apartment and the landlord has not fixed the problem.,Pest Infestation - Residential,classified,Pest Infestation - Residential,classified,,True,True,,,gpt-4.1-mini
+There is a deep hole in the road that could damage cars.,Request for Pothole Repair,classified,Request for Pothole Repair,classified,,True,True,,,gpt-4.1-mini
+The pavement has broken apart in the middle of our street and needs repair.,Request for Pothole Repair,classified,Request for Pothole Repair,classified,,True,True,,,gpt-4.1-mini
+I keep seeing rats near the garbage area behind my building.,Rodent Activity,classified,Rodent Activity,classified,,True,True,,,gpt-4.1-mini
+There are several rats running around the alley every night.,Rodent Activity,classified,Rodent Activity,classified,,True,True,,,gpt-4.1-mini
+I have an old sofa that I need the city to collect.,Schedule a Bulk Item Pickup,classified,Schedule a Bulk Item Pickup,classified,,True,True,,,gpt-4.1-mini
+I need to arrange collection of a large piece of furniture from my house.,Schedule a Bulk Item Pickup,classified,Schedule a Bulk Item Pickup,classified,,True,True,,,gpt-4.1-mini
+The stop sign at the corner is bent and almost falling down.,Sign Repair,classified,Sign Repair,classified,,True,True,,,gpt-4.1-mini
+A street sign has been damaged and is difficult to read.,Sign Repair,classified,Sign Repair,classified,,True,True,,,gpt-4.1-mini
+The traffic light at the intersection stays red and never changes.,Traffic Signal Inspection,classified,Traffic Signal Inspection,classified,,True,True,,,gpt-4.1-mini
+One of the pedestrian crossing signals is not working.,Traffic Signal Inspection,classified,Traffic Signal Inspection,classified,,True,True,,,gpt-4.1-mini
+A large branch from a city tree is hanging over the sidewalk.,Tree Maintenance Requests,classified,Tree Maintenance Requests,classified,,True,True,,,gpt-4.1-mini
+The street tree in front of my house has dead branches that need trimming.,Tree Maintenance Requests,classified,Tree Maintenance Requests,classified,,True,True,,,gpt-4.1-mini
+There is mold and water damage throughout my rented apartment.,Unsatisfactory Living Conditions,classified,Unsatisfactory Living Conditions,classified,,True,True,,,gpt-4.1-mini
+My apartment has serious maintenance problems and does not feel safe to live in.,Unsatisfactory Living Conditions,classified,Unsatisfactory Living Conditions,classified,,True,True,,,gpt-4.1-mini

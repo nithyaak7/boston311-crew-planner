@@ -1,0 +1,9 @@
+category,resident_message,expected_status,expected_type,predicted_type,predicted_status,clarification_question,completed,correct,error_type,error_message,model
+typo,There is a deep pothloe in the road outside my house.,classified,Request for Pothole Repair,Request for Pothole Repair,classified,,True,True,,,gpt-4.1-mini
+typo,The trafic light at the intersection is broken.,classified,Traffic Signal Inspection,Traffic Signal Inspection,classified,,True,True,,,gpt-4.1-mini
+ambiguous,There is a problem with the tree outside. Can you help?,needs_clarification,,,needs_clarification,Can you please specify what issue you are seeing with the tree outside?,True,True,,,gpt-4.1-mini
+ambiguous,"I need something collected from my home, but I have not said what it is.",needs_clarification,,,needs_clarification,What type of item do you need collected from your home?,True,True,,,gpt-4.1-mini
+unsupported,Please renew my passport.,unsupported,,,unsupported,,True,True,,,gpt-4.1-mini
+unsupported,Please repair the broken streetlight outside my house.,unsupported,,,unsupported,,True,True,,,gpt-4.1-mini
+multi_issue,I need to report both a pothole and rats in the alley. Neither is my main concern; please handle both.,needs_clarification,,,needs_clarification,Which issue is your primary concern to address first: the pothole or the rat activity?,True,True,,,gpt-4.1-mini
+multi_issue,I need a new street tree and a mattress pickup. Both are separate requests and equally important.,needs_clarification,,,needs_clarification,Which request would you like us to prioritize first: the new street tree or the mattress pickup?,True,True,,,gpt-4.1-mini
