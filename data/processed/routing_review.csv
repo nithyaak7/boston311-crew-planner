@@ -1,17 +1,17 @@
 type_label,leading_department,leading_queue,historical_request_count,historical_route_share,routing_policy
 Abandoned Vehicles,BTDT,BTDT_AVRS Interface Queue,9149,98.0,historical_suggestion
-Equipment Repair,PARK,PARK_Maintenance_Trades,953,18.9,context_review_required
-Ground Maintenance,PARK,PARK_Maintenance_Region 1,1370,20.5,context_review_required
+Equipment Repair,PARK,PARK_Maintenance_Trades,953,18.9,historical_suggestion
+Ground Maintenance,PARK,PARK_Maintenance_Region 1,1370,20.5,historical_suggestion
 Heat - Excessive Insufficient,ISD,ISD_Housing (INTERNAL),1665,99.8,historical_suggestion
 Mattress_Pickup,PWDx,PWDx_WM_Mattress_Pickup,36546,100.0,historical_suggestion
 Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,22932,99.0,historical_suggestion
 New Tree Requests,PARK,PARK_New Tree Requests,4376,90.1,historical_suggestion
 Parking Enforcement,BTDT,BTDT_Parking Enforcement,119034,99.4,historical_suggestion
-Pest Infestation - Residential,ISD,ISD_Environmental Services (INTERNAL),2001,58.9,context_review_required
-Request for Pothole Repair,PWDx,PWDx_Contractor Complaints,2290,13.4,context_review_required
+Pest Infestation - Residential,ISD,ISD_Environmental Services (INTERNAL),2001,58.9,historical_suggestion
+Request for Pothole Repair,PWDx,PWDx_Contractor Complaints,2290,13.4,historical_suggestion
 Rodent Activity,ISD,ISD_Environmental Services (INTERNAL),8287,94.1,historical_suggestion
 Schedule a Bulk Item Pickup,PWDx,PWDx_Schedule a Bulk Item Pickup,25112,100.0,historical_suggestion
-Sign Repair,BTDT,BTDT_Sign Shop_Sign Installation,7556,72.9,context_review_required
-Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Repair,5229,74.4,context_review_required
-Tree Maintenance Requests,PARK,PARK_Tree Maintenance Request,12443,82.5,context_review_required
+Sign Repair,BTDT,BTDT_Sign Shop_Sign Installation,7556,72.9,historical_suggestion
+Traffic Signal Inspection,BTDT,BTDT_Traffic Signal_Repair,5229,74.4,historical_suggestion
+Tree Maintenance Requests,PARK,PARK_Tree Maintenance Request,12443,82.5,historical_suggestion
 Unsatisfactory Living Conditions,ISD,ISD_Housing (INTERNAL),5112,98.1,historical_suggestion
