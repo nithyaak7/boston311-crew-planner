@@ -95,7 +95,7 @@ Builds month-by-month staffing schedules for 2025 and supports natural-language 
 
 The schedules are heuristic alternatives, not proven optimal solutions. Staffing costs exclude overdue penalties. Backlog represents unfinished workload and does not establish SLA violations.
 
-## 04_genai_intake.ipynb
+## Part 4: GenAI intake (in 05_integrated_notebook.ipynb)
 
 Classifies resident messages into 16 selected request types and provides historical department and queue suggestions.
 
@@ -112,11 +112,7 @@ Classifies resident messages into 16 selected request types and provides histori
 
 ### Before running
 
-1. Activate the `boston311` Python environment.
-2. Run `01_data_preparation.ipynb` to create the selected routing catalog.
-3. Configure the API key and model settings in the repository-root `.env` file.
-4. Select the Python (boston311) notebook kernel.
-5. Run all cells in order.
+Follow the setup instructions in the repository-root README, then run `05_integrated_notebook.ipynb` from a fresh kernel. Part 1 prepares the routing catalog used by Part 4.
 
 ### Outputs
 

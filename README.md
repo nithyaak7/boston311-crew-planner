@@ -176,8 +176,7 @@ Part 1 applies the proposed 90% review threshold to unrounded fractional route s
 | `01_data_preparation.ipynb` | Historical data preparation and routing catalogs |
 | `02_demand_forecasting_agent.ipynb` | Forecast calculations, historical validation, and ReAct agent |
 | `03_crew_planning.ipynb` | Staffing calculations and planning graph |
-| `04_genai_intake.ipynb` | Structured intake and evaluation |
-| `05_integrated_notebook.ipynb` | End-to-end submission notebook |
+| `05_integrated_notebook.ipynb` | End-to-end submission notebook, including Part 4: GenAI intake |
 
 See [the notebook guide](notebooks/README.md) for component details.
 
