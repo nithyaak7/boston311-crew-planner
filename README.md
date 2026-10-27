@@ -203,7 +203,7 @@ TODO — replace these placeholders with all four members' names and their actua
 
 | Member | Implemented work | Review and integration |
 |---|---|---|
-| Nithyaa Kesavamurthy | Data prep, Demand Forecasting and Staff Planning |  |
+| Nithyaa Kesavamurthy | Data prep, Demand Forecasting and Staff Planning | Integrated the data preparation with the demand forecasting and Crew plannning |
 | Tatsuya Hommaru | GenAI intake | Integrated the intake section into the final notebook |
 | DiVeighna Tulloch | Demo Video and Presentation Script | [Actual contribution] |
 | Sanjit Lanka | Integrated Notebook Review  | Validated end to end execution |
