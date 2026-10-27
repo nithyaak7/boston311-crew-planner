@@ -204,7 +204,7 @@ TODO — replace these placeholders with all four members' names and their actua
 | Member | Implemented work | Review and integration |
 |---|---|---|
 | Nithyaa Kesavamurthy | Data prep, Demand Forecasting and Staff Planning |  |
-| Tatsuya Hommaru | GenAI Intake |  |
+| Tatsuya Hommaru | GenAI intake | Integrated the intake section into the final notebook |
 | DiVeighna Tulloch | Demo Video and Presentation Script | [Actual contribution] |
 | [Member 4] | [Actual contribution] | [Actual contribution] |
 
