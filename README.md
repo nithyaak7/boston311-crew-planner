@@ -204,7 +204,7 @@ The attached run records 70 code-cell execution counts in order with no saved er
 |---|---|---|
 | Nithyaa Kesavamurthy | Data prep, Demand Forecasting and Staff Planning | Integrated the data preparation with the demand forecasting and Crew plannning |
 | Tatsuya Hommaru | GenAI intake | Integrated the intake section into the final notebook |
-| DiVeighna Tulloch | Demo Video and Presentation Script | [Actual contribution] |
+| DiVeighna Tulloch | Demo Video | Reviewed the final notebook and ensured the demo script accurately covered all project components. |
 | Sanjit Lanka | Integrated Notebook Review  | Validated end to end execution |
 
 ## AI-use Disclosure
