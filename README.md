@@ -10,7 +10,7 @@ Run [the integrated notebook](notebooks/05_integrated_notebook.ipynb) from a fre
 
 **Recommended plan:** hire-and-hold, selected from three heuristic policies using an explicit backlog-first decision rule. Its 48 department-month rows are saved in [crew_plan_recommended.csv](outputs/crew_plan_recommended.csv).
 
-**Demo video:** TODO — add the three-minute video link before submission.
+**Demo video:** (https://drive.google.com/file/d/1ghrTkr7C5V52MRN_YP9Fo3QflasouQB1/view?usp=sharing)
 
 ## Scope
 
