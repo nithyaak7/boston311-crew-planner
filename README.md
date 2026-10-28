@@ -199,7 +199,6 @@ The attached run records 70 code-cell execution counts in order with no saved er
 
 ## Team Contributions
 
-TODO — replace these placeholders with all four members' names and their actual contributions before submission. Record shared review and integration work as well as component ownership.
 
 | Member | Implemented work | Review and integration |
 |---|---|---|
